@@ -31,33 +31,37 @@ async function playTest(url) {
   await page.click(CTA_SELECTOR);
   await page.waitForNavigation();
   let totalArr = [];
+
   for (i = 1; i <= 5; i++) {
-    await page.goto(Object.values(studentLinks)[200]);
+    await page.goto(Object.values(studentLinks)[i]);
     // await page.waitForNavigation();
     // await page.waitForSelector(`body`);
     // console.log(page);
-    await page.waitForSelector(
-      `#main > div > div > section > div:nth-of-type(2) > div > div > div > div > img`
-    );
-    await page.waitForSelector(
-      `#experience-section > ul > li > section > div > div > a > div`
-    );
-    await page.waitForSelector(
-      `#experience-section > ul > li:nth-of-type(2) > section > div > div > a > div:nth-of-type(2) > h3`
-    );
+    // await page.waitForSelector(
+    //   `#main > div > div > section > div:nth-of-type(2) > div > div > div > div > img`
+    // );
+    // await page.waitForSelector(
+    //   `#experience-section > ul > li > section > div > div > a > div`
+    // );
+    // await page.waitForSelector(
+    //   `#experience-section > ul > li:nth-of-type(2) > section > div > div > a > div:nth-of-type(2) > h3`
+    // );
     await page.waitForSelector(
       `#experience-section > ul > li > section > div > div > a > div > img`
     );
     // await page.waitForSelector(
     //   `#experience-section > ul > li:nth-child(2) > section > div > a > div > div > img`
     // );
+
     let result = await page.evaluate(() => {
       let arr = [];
       const PHOTOSELECTOR = `#main > div > div > section > div:nth-of-type(2) > div > div > div > div > img`;
       const COMPANY1NAMEROLESELECTOR = `#experience-section > ul > li > section > div > div > a > div`;
-      const COMPANY2NAMESELECTOR = `#experience-section > ul > li:nth-of-type(2) > section > div > div > a > div:nth-of-type(2) > h3`;
+      const COMPANY2NAMESELECTOR = `#experience-section > ul > li:nth-of-type(2) > section > div > div > a > div > img`;
+      const COMPANY2ROLESELECTOR = `#experience-section > ul > li:nth-of-type(2) > section > div > div > a > div:nth-of-type(2) h3`;
       const COMPANY1LOGOSELECTOR = `#experience-section > ul > li > section > div > div > a > div > img`;
-      const COMPANY2LOGOSELECTOR = `#experience-section > ul > li:nth-child(2) > section > div > a > div > div > img`;
+      const COMPANY2LOGOSELECTOR = `#experience-section > ul > li:nth-of-type(2) > section > div > div > a > div > img`;
+
       let photo = document.querySelector(PHOTOSELECTOR).src;
 
       let company1Name = document
@@ -68,16 +72,18 @@ async function playTest(url) {
         .querySelectorAll(COMPANY1NAMEROLESELECTOR)[1]
         .innerText.split("\n")[0];
 
-      let company2name = document.querySelector(COMPANY2NAMESELECTOR);
+      let company2name = document.querySelector(COMPANY2NAMESELECTOR).alt;
 
-      // let company1logo = document.querySelectorAll(COMPANY1LOGOSELECTOR)[0]
-      //   .currentSrc;
+      let company2role = document.querySelector(COMPANY2ROLESELECTOR).innerText;
 
-      // let company2logo = document.querySelectorAll(COMPANY2LOGOSELECTOR)[0]
-      //   .currentSrc;
+      let company1logo = document.querySelectorAll(COMPANY1LOGOSELECTOR)[0]
+        .currentSrc;
+
+      let company2logo =
+        document.querySelectorAll(COMPANY2LOGOSELECTOR)[0].src || null;
 
       arr.push(
-        `Photo URL: ${photo}\nCompany 1 Name: ${company1Name}\n Company 1 Role: ${company1Role}\nCompany 2 Name: ${company2name}\nCompany 1 Logo: ${company1logo}\nCompany 2 Logo: ${company2logo}"`
+        `Photo URL: ${photo}\nCompany 1 Name: ${company1Name}\nCompany 1 Role: ${company1Role}\nCompany 2 Name: ${company2name}\nCompany 2 Role:${company2role}\nCompany 1 Logo: ${company1logo}\nCompany 2 Logo: ${company2logo}"`
       );
       console.log(arr);
       return arr;
