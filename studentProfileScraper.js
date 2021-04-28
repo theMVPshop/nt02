@@ -30,7 +30,8 @@ async function playTest(url) {
   await page.waitForNavigation();
   let totalArr = [];
   let len = Object.values(studentLinks).length;
-  for (i = 1; i <= len; i++) {
+  // const viewportHeight = page.viewport().height;
+  for (i = 1; i <= 5; i++) {
     await page.goto(Object.values(studentLinks)[i]);
     console.log("link", Object.values(studentLinks)[i]);
     await page.waitForSelector(
@@ -38,7 +39,8 @@ async function playTest(url) {
     );
     await sleep(5000);
 
-    let result = await page.evaluate(() => {
+    let result = await page.evaluate((_) => {
+      window.scrollBy(0, window.innerHeight);
       let arr = [];
 
       const PHOTOSELECTOR = `#main > div > div > section > div:nth-of-type(2) > div > div > div > div > img`;
@@ -56,12 +58,12 @@ async function playTest(url) {
       let photo = document.querySelector(PHOTOSELECTOR).src;
 
       let company1Name =
-        (document.querySelector("#experience-section") &&
+        (document.querySelector(COMPANY1NAMESELECTOR) &&
           document.querySelector(COMPANY1NAMESELECTOR).innerText) ||
         null;
 
       let company1Role =
-        (document.querySelector("#experience-section") &&
+        (document.querySelector(COMPANY1ROLESELECTOR) &&
           document.querySelector(COMPANY1ROLESELECTOR).innerText) ||
         null;
 
@@ -76,7 +78,7 @@ async function playTest(url) {
         null;
 
       let company1logo =
-        (document.querySelector("#experience-section") &&
+        (document.querySelector(COMPANY1LOGOSELECTOR) &&
           document.querySelector(COMPANY1LOGOSELECTOR).currentSrc) ||
         null;
 
@@ -92,7 +94,7 @@ async function playTest(url) {
       return arr;
     });
     console.log({ [Object.keys(studentLinks)[i]]: result });
-    totalArr.push(result);
+    totalArr.push({ [Object.keys(studentLinks)[i]]: result });
   }
   // loop ends
 
