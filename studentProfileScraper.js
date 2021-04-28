@@ -37,10 +37,13 @@ async function playTest(url) {
     await page.waitForSelector(
       `#main > div > div > section > div:nth-of-type(2) > div > div > div > div > img`
     );
+    await page.evaluate(() => {
+      window.scrollBy(0, window.innerHeight);
+    });
     await sleep(5000);
 
-    let result = await page.evaluate((_) => {
-      window.scrollBy(0, window.innerHeight);
+    let result = await page.evaluate(() => {
+      // window.scrollBy(0, document.body.scrollHeight);
       let arr = [];
 
       const PHOTOSELECTOR = `#main > div > div > section > div:nth-of-type(2) > div > div > div > div > img`;
