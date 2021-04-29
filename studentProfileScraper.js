@@ -1,6 +1,6 @@
 const util = require("util");
 const puppeteer = require("puppeteer");
-const studentLinks = require("./data(json)/studentLinks.json");
+const studentLinks = require("./data(json)/tmpLinks.json");
 const sleep = require("util").promisify(setTimeout);
 const C = require("./constants");
 const USERNAME_SELECTOR = "#session_key";
@@ -31,7 +31,7 @@ async function playTest(url) {
   let totalArr = [];
   let len = Object.values(studentLinks).length;
   // const viewportHeight = page.viewport().height;
-  for (i = 1; i <= len; i++) {
+  for (i = 1; i <= 1; i++) {
     await page.goto(Object.values(studentLinks)[i]);
     console.log("link", Object.values(studentLinks)[i]);
     await page.waitForSelector(
