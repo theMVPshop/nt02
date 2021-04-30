@@ -1,0 +1,5600 @@
+{
+  "datapoint #0": {
+    "schoolName": "School",
+    "company": "Company",
+    "grads": "# of grads at that company",
+    "state": "State"
+  },
+  "datapoint #1": {
+    "schoolName": "TrueCoders",
+    "company": "Carrigans Public House",
+    "grads": 2,
+    "state": "AL"
+  },
+  "datapoint #2": {
+    "schoolName": "TrueCoders",
+    "company": "Crossvale",
+    "grads": 2,
+    "state": "AL"
+  },
+  "datapoint #3": {
+    "schoolName": "TrueCoders",
+    "company": "Daxko",
+    "grads": 2,
+    "state": "AL"
+  },
+  "datapoint #4": {
+    "schoolName": "TrueCoders",
+    "company": "Disability:IN",
+    "grads": 1,
+    "state": "AL"
+  },
+  "datapoint #5": {
+    "schoolName": "TrueCoders",
+    "company": "FIS",
+    "grads": 3,
+    "state": "AL"
+  },
+  "datapoint #6": {
+    "schoolName": "TrueCoders",
+    "company": "Giant Eagle Inc.",
+    "grads": 1,
+    "state": "AL"
+  },
+  "datapoint #7": {
+    "schoolName": "TrueCoders",
+    "company": "Healthgrades",
+    "grads": 3,
+    "state": "AL"
+  },
+  "datapoint #8": {
+    "schoolName": "TrueCoders",
+    "company": "L&C Designs",
+    "grads": 2,
+    "state": "AL"
+  },
+  "datapoint #9": {
+    "schoolName": "TrueCoders",
+    "company": "Marshmello & Friends Co.",
+    "grads": 2,
+    "state": "AL"
+  },
+  "datapoint #10": {
+    "schoolName": "TrueCoders",
+    "company": "NextSite LLC",
+    "grads": 1,
+    "state": "AL"
+  },
+  "datapoint #11": {
+    "schoolName": "TrueCoders",
+    "company": "RxBenefits Inc.",
+    "grads": 2,
+    "state": "AL"
+  },
+  "datapoint #12": {
+    "schoolName": "TrueCoders",
+    "company": "ShadowDragon",
+    "grads": 1,
+    "state": "AL"
+  },
+  "datapoint #13": {
+    "schoolName": "TrueCoders",
+    "company": "Target",
+    "grads": 2,
+    "state": "AL"
+  },
+  "datapoint #14": {
+    "schoolName": "TrueCoders",
+    "company": "VIPKid",
+    "grads": 2,
+    "state": "AL"
+  },
+  "datapoint #15": {
+    "schoolName": "University of Arizona Boot Camps",
+    "company": "AmpleTech Refresh",
+    "grads": 1,
+    "state": "AZ"
+  },
+  "datapoint #16": {
+    "schoolName": "University of Arizona Boot Camps",
+    "company": "Empereon Constar",
+    "grads": 1,
+    "state": "AZ"
+  },
+  "datapoint #17": {
+    "schoolName": "University of Arizona Boot Camps",
+    "company": "ORIANA solutions, LLC",
+    "grads": 1,
+    "state": "AZ"
+  },
+  "datapoint #18": {
+    "schoolName": "University of Arizona Boot Camps",
+    "company": "Plexus Worldwide",
+    "grads": 1,
+    "state": "AZ"
+  },
+  "datapoint #19": {
+    "schoolName": "University of Arizona Boot Camps",
+    "company": "Waddell & Reed",
+    "grads": 1,
+    "state": "AZ"
+  },
+  "datapoint #20": {
+    "schoolName": "Woz U",
+    "company": "Accenture",
+    "grads": 2,
+    "state": "AZ"
+  },
+  "datapoint #21": {
+    "schoolName": "Woz U",
+    "company": "Amazon",
+    "grads": 6,
+    "state": "AZ"
+  },
+  "datapoint #22": {
+    "schoolName": "Woz U",
+    "company": "Apple",
+    "grads": 3,
+    "state": "AZ"
+  },
+  "datapoint #23": {
+    "schoolName": "Woz U",
+    "company": "DoorDash",
+    "grads": 3,
+    "state": "AZ"
+  },
+  "datapoint #24": {
+    "schoolName": "Woz U",
+    "company": "Facebook",
+    "grads": 2,
+    "state": "AZ"
+  },
+  "datapoint #25": {
+    "schoolName": "Woz U",
+    "company": "Infosys",
+    "grads": 6,
+    "state": "AZ"
+  },
+  "datapoint #26": {
+    "schoolName": "Woz U",
+    "company": "Intel Corporation",
+    "grads": 2,
+    "state": "AZ"
+  },
+  "datapoint #27": {
+    "schoolName": "Woz U",
+    "company": "Revature",
+    "grads": 2,
+    "state": "AZ"
+  },
+  "datapoint #28": {
+    "schoolName": "Woz U",
+    "company": "Southern Careers Institute",
+    "grads": 3,
+    "state": "AZ"
+  },
+  "datapoint #29": {
+    "schoolName": "Woz U",
+    "company": "Uber",
+    "grads": 3,
+    "state": "AZ"
+  },
+  "datapoint #30": {
+    "schoolName": "Woz U",
+    "company": "United States Postal Service",
+    "grads": 3,
+    "state": "AZ"
+  },
+  "datapoint #31": {
+    "schoolName": "Woz U",
+    "company": "US Army",
+    "grads": 4,
+    "state": "AZ"
+  },
+  "datapoint #32": {
+    "schoolName": "Woz U",
+    "company": "Verizon",
+    "grads": 3,
+    "state": "AZ"
+  },
+  "datapoint #33": {
+    "schoolName": "Bloc",
+    "company": "Airbnb",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #34": {
+    "schoolName": "Bloc",
+    "company": "Apple",
+    "grads": 15,
+    "state": "CA"
+  },
+  "datapoint #35": {
+    "schoolName": "Bloc",
+    "company": "Capital One",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #36": {
+    "schoolName": "Bloc",
+    "company": "CareerFoundry",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #37": {
+    "schoolName": "Bloc",
+    "company": "Google",
+    "grads": 13,
+    "state": "CA"
+  },
+  "datapoint #38": {
+    "schoolName": "Bloc",
+    "company": "HubSpot",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #39": {
+    "schoolName": "Bloc",
+    "company": "Microsoft",
+    "grads": 14,
+    "state": "CA"
+  },
+  "datapoint #40": {
+    "schoolName": "Bloc",
+    "company": "ServiceNow",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #41": {
+    "schoolName": "Bloc",
+    "company": "Starbucks",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #42": {
+    "schoolName": "Bloc",
+    "company": "Thinkful",
+    "grads": 10,
+    "state": "CA"
+  },
+  "datapoint #43": {
+    "schoolName": "CodingNomads",
+    "company": "Abarca Health",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #44": {
+    "schoolName": "CodingNomads",
+    "company": "Answer Digital",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #45": {
+    "schoolName": "CodingNomads",
+    "company": "Apogee Integration LLC",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #46": {
+    "schoolName": "CodingNomads",
+    "company": "BCG Platinion",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #47": {
+    "schoolName": "CodingNomads",
+    "company": "Bit",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #48": {
+    "schoolName": "CodingNomads",
+    "company": "Citrix",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #49": {
+    "schoolName": "CodingNomads",
+    "company": "Experian",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #50": {
+    "schoolName": "CodingNomads",
+    "company": "Floyd County Productions",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #51": {
+    "schoolName": "CodingNomads",
+    "company": "Nucamp Coding Bootcamp",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #52": {
+    "schoolName": "CodingNomads",
+    "company": "Philips",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #53": {
+    "schoolName": "CodingNomads",
+    "company": "VIKTOR",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #54": {
+    "schoolName": "CodingNomads",
+    "company": "Webhelp",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #55": {
+    "schoolName": "Dev Bootcamp",
+    "company": "Airbnb",
+    "grads": 4,
+    "state": "CA"
+  },
+  "datapoint #56": {
+    "schoolName": "Dev Bootcamp",
+    "company": "Amazon",
+    "grads": 14,
+    "state": "CA"
+  },
+  "datapoint #57": {
+    "schoolName": "Dev Bootcamp",
+    "company": "Chime",
+    "grads": 7,
+    "state": "CA"
+  },
+  "datapoint #58": {
+    "schoolName": "Dev Bootcamp",
+    "company": "Datadog",
+    "grads": 15,
+    "state": "CA"
+  },
+  "datapoint #59": {
+    "schoolName": "Dev Bootcamp",
+    "company": "Enova International",
+    "grads": 6,
+    "state": "CA"
+  },
+  "datapoint #60": {
+    "schoolName": "Dev Bootcamp",
+    "company": "Google",
+    "grads": 17,
+    "state": "CA"
+  },
+  "datapoint #61": {
+    "schoolName": "Dev Bootcamp",
+    "company": "Home Chef",
+    "grads": 10,
+    "state": "CA"
+  },
+  "datapoint #62": {
+    "schoolName": "Dev Bootcamp",
+    "company": "Indeed.com",
+    "grads": 5,
+    "state": "CA"
+  },
+  "datapoint #63": {
+    "schoolName": "Dev Bootcamp",
+    "company": "Salesforce",
+    "grads": 13,
+    "state": "CA"
+  },
+  "datapoint #64": {
+    "schoolName": "Dev Bootcamp",
+    "company": "ServiceNow",
+    "grads": 4,
+    "state": "CA"
+  },
+  "datapoint #65": {
+    "schoolName": "Dev Bootcamp",
+    "company": "Stitch Fix",
+    "grads": 7,
+    "state": "CA"
+  },
+  "datapoint #66": {
+    "schoolName": "Dev Bootcamp",
+    "company": "ThoughtWorks",
+    "grads": 8,
+    "state": "CA"
+  },
+  "datapoint #67": {
+    "schoolName": "Hack Reactor",
+    "company": "Amazon",
+    "grads": 45,
+    "state": "CA"
+  },
+  "datapoint #68": {
+    "schoolName": "Hack Reactor",
+    "company": "Apple",
+    "grads": 26,
+    "state": "CA"
+  },
+  "datapoint #69": {
+    "schoolName": "Hack Reactor",
+    "company": "Capital One",
+    "grads": 16,
+    "state": "CA"
+  },
+  "datapoint #70": {
+    "schoolName": "Hack Reactor",
+    "company": "Facebook",
+    "grads": 74,
+    "state": "CA"
+  },
+  "datapoint #71": {
+    "schoolName": "Hack Reactor",
+    "company": "Google",
+    "grads": 92,
+    "state": "CA"
+  },
+  "datapoint #72": {
+    "schoolName": "Hack Reactor",
+    "company": "IBM",
+    "grads": 44,
+    "state": "CA"
+  },
+  "datapoint #73": {
+    "schoolName": "Hack Reactor",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 23,
+    "state": "CA"
+  },
+  "datapoint #74": {
+    "schoolName": "Hack Reactor",
+    "company": "LinkedIn",
+    "grads": 25,
+    "state": "CA"
+  },
+  "datapoint #75": {
+    "schoolName": "Hack Reactor",
+    "company": "Microsoft",
+    "grads": 21,
+    "state": "CA"
+  },
+  "datapoint #76": {
+    "schoolName": "Hack Reactor",
+    "company": "Personal Projects",
+    "grads": 34,
+    "state": "CA"
+  },
+  "datapoint #77": {
+    "schoolName": "Hack Reactor",
+    "company": "Uber",
+    "grads": 20,
+    "state": "CA"
+  },
+  "datapoint #78": {
+    "schoolName": "Hackbright Academy",
+    "company": "Apple",
+    "grads": 10,
+    "state": "CA"
+  },
+  "datapoint #79": {
+    "schoolName": "Hackbright Academy",
+    "company": "Bloomberg LP",
+    "grads": 6,
+    "state": "CA"
+  },
+  "datapoint #80": {
+    "schoolName": "Hackbright Academy",
+    "company": "Datadog",
+    "grads": 11,
+    "state": "CA"
+  },
+  "datapoint #81": {
+    "schoolName": "Hackbright Academy",
+    "company": "Dropbox",
+    "grads": 5,
+    "state": "CA"
+  },
+  "datapoint #82": {
+    "schoolName": "Hackbright Academy",
+    "company": "Facebook",
+    "grads": 17,
+    "state": "CA"
+  },
+  "datapoint #83": {
+    "schoolName": "Hackbright Academy",
+    "company": "Fastly",
+    "grads": 5,
+    "state": "CA"
+  },
+  "datapoint #84": {
+    "schoolName": "Hackbright Academy",
+    "company": "Google",
+    "grads": 25,
+    "state": "CA"
+  },
+  "datapoint #85": {
+    "schoolName": "Hackbright Academy",
+    "company": "LinkedIn",
+    "grads": 5,
+    "state": "CA"
+  },
+  "datapoint #86": {
+    "schoolName": "Hackbright Academy",
+    "company": "Lyft",
+    "grads": 6,
+    "state": "CA"
+  },
+  "datapoint #87": {
+    "schoolName": "Hackbright Academy",
+    "company": "PagerDuty",
+    "grads": 8,
+    "state": "CA"
+  },
+  "datapoint #88": {
+    "schoolName": "Hackbright Academy",
+    "company": "Salesforce",
+    "grads": 6,
+    "state": "CA"
+  },
+  "datapoint #89": {
+    "schoolName": "Hackbright Academy",
+    "company": "Slack",
+    "grads": 9,
+    "state": "CA"
+  },
+  "datapoint #90": {
+    "schoolName": "Hackbright Academy",
+    "company": "Target",
+    "grads": 27,
+    "state": "CA"
+  },
+  "datapoint #91": {
+    "schoolName": "Hackbright Academy",
+    "company": "Twilio Inc.",
+    "grads": 26,
+    "state": "CA"
+  },
+  "datapoint #92": {
+    "schoolName": "Holberton School",
+    "company": "Altimetrik",
+    "grads": 8,
+    "state": "CA"
+  },
+  "datapoint #93": {
+    "schoolName": "Holberton School",
+    "company": "Apple",
+    "grads": 5,
+    "state": "CA"
+  },
+  "datapoint #94": {
+    "schoolName": "Holberton School",
+    "company": "Avantica",
+    "grads": 5,
+    "state": "CA"
+  },
+  "datapoint #95": {
+    "schoolName": "Holberton School",
+    "company": "COMFAMA",
+    "grads": 10,
+    "state": "CA"
+  },
+  "datapoint #96": {
+    "schoolName": "Holberton School",
+    "company": "Globant",
+    "grads": 16,
+    "state": "CA"
+  },
+  "datapoint #97": {
+    "schoolName": "Holberton School",
+    "company": "Koombea",
+    "grads": 12,
+    "state": "CA"
+  },
+  "datapoint #98": {
+    "schoolName": "Holberton School",
+    "company": "Mercado Libre",
+    "grads": 4,
+    "state": "CA"
+  },
+  "datapoint #99": {
+    "schoolName": "Holberton School",
+    "company": "Rappi",
+    "grads": 8,
+    "state": "CA"
+  },
+  "datapoint #100": {
+    "schoolName": "Holberton School",
+    "company": "Seguros Bolivar S.A",
+    "grads": 9,
+    "state": "CA"
+  },
+  "datapoint #101": {
+    "schoolName": "Holberton School",
+    "company": "Siigo S.A.",
+    "grads": 4,
+    "state": "CA"
+  },
+  "datapoint #102": {
+    "schoolName": "Holberton School",
+    "company": "Taos",
+    "grads": 5,
+    "state": "CA"
+  },
+  "datapoint #103": {
+    "schoolName": "LearningFuze",
+    "company": "Applied Medical",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #104": {
+    "schoolName": "LearningFuze",
+    "company": "BeSmartee®",
+    "grads": 5,
+    "state": "CA"
+  },
+  "datapoint #105": {
+    "schoolName": "LearningFuze",
+    "company": "Blizzard Entertainment",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #106": {
+    "schoolName": "LearningFuze",
+    "company": "Capital Group",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #107": {
+    "schoolName": "LearningFuze",
+    "company": "Codazen",
+    "grads": 7,
+    "state": "CA"
+  },
+  "datapoint #108": {
+    "schoolName": "LearningFuze",
+    "company": "Doctor Genius",
+    "grads": 7,
+    "state": "CA"
+  },
+  "datapoint #109": {
+    "schoolName": "LearningFuze",
+    "company": "Member Splash",
+    "grads": 5,
+    "state": "CA"
+  },
+  "datapoint #110": {
+    "schoolName": "LearningFuze",
+    "company": "Novvum",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #111": {
+    "schoolName": "LearningFuze",
+    "company": "Parcel Pending by Quadient",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #112": {
+    "schoolName": "LearningFuze",
+    "company": "PriceSpider",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #113": {
+    "schoolName": "LearningFuze",
+    "company": "VaynerCommerce",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #114": {
+    "schoolName": "LearningFuze",
+    "company": "Verys",
+    "grads": 7,
+    "state": "CA"
+  },
+  "datapoint #115": {
+    "schoolName": "LearningFuze",
+    "company": "VoiceFoundry",
+    "grads": 4,
+    "state": "CA"
+  },
+  "datapoint #116": {
+    "schoolName": "Microverse",
+    "company": "Avance Venture Lab",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #117": {
+    "schoolName": "Microverse",
+    "company": "CareerFoundry",
+    "grads": 4,
+    "state": "CA"
+  },
+  "datapoint #118": {
+    "schoolName": "Microverse",
+    "company": "MagmaLabs",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #119": {
+    "schoolName": "Microverse",
+    "company": "NouKòd",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #120": {
+    "schoolName": "Microverse",
+    "company": "Peoplebox",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #121": {
+    "schoolName": "Microverse",
+    "company": "Torre",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #122": {
+    "schoolName": "Microverse",
+    "company": "Upwork",
+    "grads": 14,
+    "state": "CA"
+  },
+  "datapoint #123": {
+    "schoolName": "Orange County Code School",
+    "company": "Apple",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #124": {
+    "schoolName": "Orange County Code School",
+    "company": "AT&T",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #125": {
+    "schoolName": "Orange County Code School",
+    "company": "Bank of the West",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #126": {
+    "schoolName": "Orange County Code School",
+    "company": "Classic Cabinets and Upholstery",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #127": {
+    "schoolName": "Orange County Code School",
+    "company": "Critical Mass",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #128": {
+    "schoolName": "Orange County Code School",
+    "company": "HCA North Florida Division",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #129": {
+    "schoolName": "Orange County Code School",
+    "company": "Intuit",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #130": {
+    "schoolName": "Orange County Code School",
+    "company": "JohnHart Real Estate",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #131": {
+    "schoolName": "Orange County Code School",
+    "company": "Kaiser Permanente",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #132": {
+    "schoolName": "Orange County Code School",
+    "company": "Kareo",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #133": {
+    "schoolName": "Orange County Code School",
+    "company": "Kingsmen Digital Ventures",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #134": {
+    "schoolName": "Orange County Code School",
+    "company": "Transurban",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #135": {
+    "schoolName": "Orange County Code School",
+    "company": "University of California Irvine Division of Continuing Education",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #136": {
+    "schoolName": "Orange County Code School",
+    "company": "Verys",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #137": {
+    "schoolName": "Orange County Code School",
+    "company": "Vincit",
+    "grads": 3,
+    "state": "CA"
+  },
+  "datapoint #138": {
+    "schoolName": "Redwood Code Academy",
+    "company": "Action Property Management",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #139": {
+    "schoolName": "Redwood Code Academy",
+    "company": "AUSAM",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #140": {
+    "schoolName": "Redwood Code Academy",
+    "company": "Empower",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #141": {
+    "schoolName": "Redwood Code Academy",
+    "company": "LandMonk",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #142": {
+    "schoolName": "Redwood Code Academy",
+    "company": "Lifehouse Agency",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #143": {
+    "schoolName": "Redwood Code Academy",
+    "company": "Mortgage Machine Services",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #144": {
+    "schoolName": "Redwood Code Academy",
+    "company": "RedApple Digital Health Inc.",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #145": {
+    "schoolName": "Redwood Code Academy",
+    "company": "Revature",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #146": {
+    "schoolName": "Redwood Code Academy",
+    "company": "Sonoma State University",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #147": {
+    "schoolName": "Redwood Code Academy",
+    "company": "Tabula Rasa HealthCare",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #148": {
+    "schoolName": "Redwood Code Academy",
+    "company": "TensorIoT Inc.",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #149": {
+    "schoolName": "Redwood Code Academy",
+    "company": "Trilogy Education",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #150": {
+    "schoolName": "Redwood Code Academy",
+    "company": "UFC",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #151": {
+    "schoolName": "Redwood Code Academy",
+    "company": "Zigzy",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #152": {
+    "schoolName": "Rithm School",
+    "company": "Accenture",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #153": {
+    "schoolName": "Rithm School",
+    "company": "Birst",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #154": {
+    "schoolName": "Rithm School",
+    "company": "CleverCounsel LLC",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #155": {
+    "schoolName": "Rithm School",
+    "company": "doc.ai",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #156": {
+    "schoolName": "Rithm School",
+    "company": "Dovenmuehle Mortgage Inc.",
+    "grads": 6,
+    "state": "CA"
+  },
+  "datapoint #157": {
+    "schoolName": "Rithm School",
+    "company": "Dropbox",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #158": {
+    "schoolName": "Rithm School",
+    "company": "Oracle",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #159": {
+    "schoolName": "Rithm School",
+    "company": "Pinterest",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #160": {
+    "schoolName": "Rithm School",
+    "company": "PlanetScale",
+    "grads": 1,
+    "state": "CA"
+  },
+  "datapoint #161": {
+    "schoolName": "Rithm School",
+    "company": "Solvd Inc.",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #162": {
+    "schoolName": "Rithm School",
+    "company": "Twilio Inc.",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #163": {
+    "schoolName": "Rithm School",
+    "company": "WePay",
+    "grads": 6,
+    "state": "CA"
+  },
+  "datapoint #164": {
+    "schoolName": "Rithm School",
+    "company": "Workday",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #165": {
+    "schoolName": "Rithm School",
+    "company": "YearOne (Techstars 2020)",
+    "grads": 2,
+    "state": "CA"
+  },
+  "datapoint #166": {
+    "schoolName": "Springboard",
+    "company": "Accenture",
+    "grads": 11,
+    "state": "CA"
+  },
+  "datapoint #167": {
+    "schoolName": "Springboard",
+    "company": "Amazon",
+    "grads": 31,
+    "state": "CA"
+  },
+  "datapoint #168": {
+    "schoolName": "Springboard",
+    "company": "Apple",
+    "grads": 20,
+    "state": "CA"
+  },
+  "datapoint #169": {
+    "schoolName": "Springboard",
+    "company": "Bed Bath & Beyond",
+    "grads": 4,
+    "state": "CA"
+  },
+  "datapoint #170": {
+    "schoolName": "Springboard",
+    "company": "Citi",
+    "grads": 8,
+    "state": "CA"
+  },
+  "datapoint #171": {
+    "schoolName": "Springboard",
+    "company": "Deloitte",
+    "grads": 10,
+    "state": "CA"
+  },
+  "datapoint #172": {
+    "schoolName": "Springboard",
+    "company": "Facebook",
+    "grads": 20,
+    "state": "CA"
+  },
+  "datapoint #173": {
+    "schoolName": "Springboard",
+    "company": "Google",
+    "grads": 13,
+    "state": "CA"
+  },
+  "datapoint #174": {
+    "schoolName": "Springboard",
+    "company": "Hack for LA",
+    "grads": 6,
+    "state": "CA"
+  },
+  "datapoint #175": {
+    "schoolName": "Springboard",
+    "company": "IBM",
+    "grads": 8,
+    "state": "CA"
+  },
+  "datapoint #176": {
+    "schoolName": "Springboard",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 12,
+    "state": "CA"
+  },
+  "datapoint #177": {
+    "schoolName": "Springboard",
+    "company": "Wells Fargo",
+    "grads": 12,
+    "state": "CA"
+  },
+  "datapoint #178": {
+    "schoolName": "Udacity",
+    "company": "Accenture",
+    "grads": 208,
+    "state": "CA"
+  },
+  "datapoint #179": {
+    "schoolName": "Udacity",
+    "company": "Amazon",
+    "grads": 368,
+    "state": "CA"
+  },
+  "datapoint #180": {
+    "schoolName": "Udacity",
+    "company": "Aramco",
+    "grads": 146,
+    "state": "CA"
+  },
+  "datapoint #181": {
+    "schoolName": "Udacity",
+    "company": "Facebook",
+    "grads": 206,
+    "state": "CA"
+  },
+  "datapoint #182": {
+    "schoolName": "Udacity",
+    "company": "Fiverr",
+    "grads": 150,
+    "state": "CA"
+  },
+  "datapoint #183": {
+    "schoolName": "Udacity",
+    "company": "Google",
+    "grads": 372,
+    "state": "CA"
+  },
+  "datapoint #184": {
+    "schoolName": "Udacity",
+    "company": "IBM",
+    "grads": 221,
+    "state": "CA"
+  },
+  "datapoint #185": {
+    "schoolName": "Udacity",
+    "company": "Infosys",
+    "grads": 174,
+    "state": "CA"
+  },
+  "datapoint #186": {
+    "schoolName": "Udacity",
+    "company": "Microsoft",
+    "grads": 306,
+    "state": "CA"
+  },
+  "datapoint #187": {
+    "schoolName": "Udacity",
+    "company": "stc",
+    "grads": 141,
+    "state": "CA"
+  },
+  "datapoint #188": {
+    "schoolName": "Udacity",
+    "company": "Tata Consultancy Services",
+    "grads": 157,
+    "state": "CA"
+  },
+  "datapoint #189": {
+    "schoolName": "Udacity",
+    "company": "Upwork",
+    "grads": 364,
+    "state": "CA"
+  },
+  "datapoint #190": {
+    "schoolName": "CodeCraft School of Technology",
+    "company": "AMP Robotics",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #191": {
+    "schoolName": "CodeCraft School of Technology",
+    "company": "Buink Web Development",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #192": {
+    "schoolName": "CodeCraft School of Technology",
+    "company": "Charter Communications",
+    "grads": 3,
+    "state": "CO"
+  },
+  "datapoint #193": {
+    "schoolName": "CodeCraft School of Technology",
+    "company": "CUORE of Switzerland",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #194": {
+    "schoolName": "CodeCraft School of Technology",
+    "company": "EduGuide",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #195": {
+    "schoolName": "CodeCraft School of Technology",
+    "company": "Engrain",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #196": {
+    "schoolName": "CodeCraft School of Technology",
+    "company": "LogRhythm",
+    "grads": 2,
+    "state": "CO"
+  },
+  "datapoint #197": {
+    "schoolName": "CodeCraft School of Technology",
+    "company": "Oracle",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #198": {
+    "schoolName": "CodeCraft School of Technology",
+    "company": "Simplified Website Design",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #199": {
+    "schoolName": "CodeCraft School of Technology",
+    "company": "Springboard",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #200": {
+    "schoolName": "CodeCraft School of Technology",
+    "company": "Town of Nederland",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #201": {
+    "schoolName": "CodeCraft School of Technology",
+    "company": "Trimble Inc.",
+    "grads": 2,
+    "state": "CO"
+  },
+  "datapoint #202": {
+    "schoolName": "CodeCraft School of Technology",
+    "company": "Zayo Group",
+    "grads": 2,
+    "state": "CO"
+  },
+  "datapoint #203": {
+    "schoolName": "DaVinci Coders",
+    "company": "ClearanceJobs",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #204": {
+    "schoolName": "DaVinci Coders",
+    "company": "Corellian Consulting Limited",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #205": {
+    "schoolName": "DaVinci Coders",
+    "company": "EVO Payments Inc.",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #206": {
+    "schoolName": "DaVinci Coders",
+    "company": "IBM",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #207": {
+    "schoolName": "DaVinci Coders",
+    "company": "Institutional Cash Distributors (ICD)",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #208": {
+    "schoolName": "DaVinci Coders",
+    "company": "JPMA Inc",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #209": {
+    "schoolName": "DaVinci Coders",
+    "company": "Kaffeinated Kodemonkey",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #210": {
+    "schoolName": "DaVinci Coders",
+    "company": "Literally Media",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #211": {
+    "schoolName": "DaVinci Coders",
+    "company": "Neap",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #212": {
+    "schoolName": "DaVinci Coders",
+    "company": "Nite Ize Inc.",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #213": {
+    "schoolName": "DaVinci Coders",
+    "company": "Oracle",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #214": {
+    "schoolName": "DaVinci Coders",
+    "company": "RxRevu Inc.",
+    "grads": 2,
+    "state": "CO"
+  },
+  "datapoint #215": {
+    "schoolName": "DaVinci Coders",
+    "company": "Touch Control",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #216": {
+    "schoolName": "DaVinci Coders",
+    "company": "Triad",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #217": {
+    "schoolName": "SecureSet",
+    "company": "Avertium",
+    "grads": 5,
+    "state": "CO"
+  },
+  "datapoint #218": {
+    "schoolName": "SecureSet",
+    "company": "Booz Allen Hamilton",
+    "grads": 6,
+    "state": "CO"
+  },
+  "datapoint #219": {
+    "schoolName": "SecureSet",
+    "company": "Coalfire",
+    "grads": 9,
+    "state": "CO"
+  },
+  "datapoint #220": {
+    "schoolName": "SecureSet",
+    "company": "Colorado Governor's Office of Information Technology",
+    "grads": 5,
+    "state": "CO"
+  },
+  "datapoint #221": {
+    "schoolName": "SecureSet",
+    "company": "CyberGRX",
+    "grads": 8,
+    "state": "CO"
+  },
+  "datapoint #222": {
+    "schoolName": "SecureSet",
+    "company": "deepwatch",
+    "grads": 8,
+    "state": "CO"
+  },
+  "datapoint #223": {
+    "schoolName": "SecureSet",
+    "company": "Deloitte",
+    "grads": 4,
+    "state": "CO"
+  },
+  "datapoint #224": {
+    "schoolName": "SecureSet",
+    "company": "Jacobs",
+    "grads": 12,
+    "state": "CO"
+  },
+  "datapoint #225": {
+    "schoolName": "SecureSet",
+    "company": "Kivu Consulting",
+    "grads": 8,
+    "state": "CO"
+  },
+  "datapoint #226": {
+    "schoolName": "SecureSet",
+    "company": "Pax8",
+    "grads": 8,
+    "state": "CO"
+  },
+  "datapoint #227": {
+    "schoolName": "SecureSet",
+    "company": "ReliaQuest",
+    "grads": 6,
+    "state": "CO"
+  },
+  "datapoint #228": {
+    "schoolName": "SecureSet",
+    "company": "US Army",
+    "grads": 32,
+    "state": "CO"
+  },
+  "datapoint #229": {
+    "schoolName": "SecureSet",
+    "company": "VMware",
+    "grads": 5,
+    "state": "CO"
+  },
+  "datapoint #230": {
+    "schoolName": "Skill Distillery",
+    "company": "Angi",
+    "grads": 2,
+    "state": "CO"
+  },
+  "datapoint #231": {
+    "schoolName": "Skill Distillery",
+    "company": "Bank of America",
+    "grads": 2,
+    "state": "CO"
+  },
+  "datapoint #232": {
+    "schoolName": "Skill Distillery",
+    "company": "BIT Systems",
+    "grads": 3,
+    "state": "CO"
+  },
+  "datapoint #233": {
+    "schoolName": "Skill Distillery",
+    "company": "Booz Allen Hamilton",
+    "grads": 2,
+    "state": "CO"
+  },
+  "datapoint #234": {
+    "schoolName": "Skill Distillery",
+    "company": "CACI International Inc",
+    "grads": 4,
+    "state": "CO"
+  },
+  "datapoint #235": {
+    "schoolName": "Skill Distillery",
+    "company": "Charter Communications",
+    "grads": 3,
+    "state": "CO"
+  },
+  "datapoint #236": {
+    "schoolName": "Skill Distillery",
+    "company": "Comcast",
+    "grads": 6,
+    "state": "CO"
+  },
+  "datapoint #237": {
+    "schoolName": "Skill Distillery",
+    "company": "Essendant",
+    "grads": 3,
+    "state": "CO"
+  },
+  "datapoint #238": {
+    "schoolName": "Skill Distillery",
+    "company": "HomeAdvisor",
+    "grads": 3,
+    "state": "CO"
+  },
+  "datapoint #239": {
+    "schoolName": "Skill Distillery",
+    "company": "Ibotta Inc.",
+    "grads": 3,
+    "state": "CO"
+  },
+  "datapoint #240": {
+    "schoolName": "Skill Distillery",
+    "company": "NexGen Technologies Inc.",
+    "grads": 6,
+    "state": "CO"
+  },
+  "datapoint #241": {
+    "schoolName": "Skill Distillery",
+    "company": "Raytheon Intelligence & Space",
+    "grads": 3,
+    "state": "CO"
+  },
+  "datapoint #242": {
+    "schoolName": "Skill Distillery",
+    "company": "Tech Mahindra",
+    "grads": 2,
+    "state": "CO"
+  },
+  "datapoint #243": {
+    "schoolName": "Skill Distillery",
+    "company": "The Walt Disney Company",
+    "grads": 2,
+    "state": "CO"
+  },
+  "datapoint #244": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "Aetna",
+    "grads": 21,
+    "state": "CO"
+  },
+  "datapoint #245": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "Allstate",
+    "grads": 17,
+    "state": "CO"
+  },
+  "datapoint #246": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "Brandfolder",
+    "grads": 6,
+    "state": "CO"
+  },
+  "datapoint #247": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "Charter Communications",
+    "grads": 17,
+    "state": "CO"
+  },
+  "datapoint #248": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "Devetry (part of Dept)",
+    "grads": 7,
+    "state": "CO"
+  },
+  "datapoint #249": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "Fastly",
+    "grads": 8,
+    "state": "CO"
+  },
+  "datapoint #250": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "Guild Education",
+    "grads": 14,
+    "state": "CO"
+  },
+  "datapoint #251": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "Handshake",
+    "grads": 7,
+    "state": "CO"
+  },
+  "datapoint #252": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "Hotel Engine",
+    "grads": 9,
+    "state": "CO"
+  },
+  "datapoint #253": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "Ibotta Inc.",
+    "grads": 16,
+    "state": "CO"
+  },
+  "datapoint #254": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "Peloton Interactive",
+    "grads": 6,
+    "state": "CO"
+  },
+  "datapoint #255": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "Slalom",
+    "grads": 19,
+    "state": "CO"
+  },
+  "datapoint #256": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "Stitch Fix",
+    "grads": 10,
+    "state": "CO"
+  },
+  "datapoint #257": {
+    "schoolName": "Turing School of Software & Design",
+    "company": "TaxJar",
+    "grads": 7,
+    "state": "CO"
+  },
+  "datapoint #258": {
+    "schoolName": "University of Denver Boot Camps",
+    "company": "acumen",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #259": {
+    "schoolName": "University of Denver Boot Camps",
+    "company": "Chevron",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #260": {
+    "schoolName": "University of Denver Boot Camps",
+    "company": "En Gedi",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #261": {
+    "schoolName": "University of Denver Boot Camps",
+    "company": "Hunger Free Colorado",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #262": {
+    "schoolName": "University of Denver Boot Camps",
+    "company": "Kärcher North America Inc.",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #263": {
+    "schoolName": "University of Denver Boot Camps",
+    "company": "Rally Health",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #264": {
+    "schoolName": "University of Denver Boot Camps",
+    "company": "Scaled Agile Inc.",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #265": {
+    "schoolName": "University of Denver Boot Camps",
+    "company": "Sealcon",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #266": {
+    "schoolName": "University of Denver Boot Camps",
+    "company": "SonderMind",
+    "grads": 1,
+    "state": "CO"
+  },
+  "datapoint #267": {
+    "schoolName": "University of Denver Boot Camps",
+    "company": "uBreakiFix",
+    "grads": 2,
+    "state": "CO"
+  },
+  "datapoint #268": {
+    "schoolName": "4Geeks Academy",
+    "company": "Boosmap",
+    "grads": 2,
+    "state": "FL"
+  },
+  "datapoint #269": {
+    "schoolName": "4Geeks Academy",
+    "company": "Bridge Patient Portal",
+    "grads": 2,
+    "state": "FL"
+  },
+  "datapoint #270": {
+    "schoolName": "4Geeks Academy",
+    "company": "Bridges Unite",
+    "grads": 2,
+    "state": "FL"
+  },
+  "datapoint #271": {
+    "schoolName": "4Geeks Academy",
+    "company": "Cornershop by Uber",
+    "grads": 2,
+    "state": "FL"
+  },
+  "datapoint #272": {
+    "schoolName": "4Geeks Academy",
+    "company": "DNA HUMAN CAPITAL",
+    "grads": 3,
+    "state": "FL"
+  },
+  "datapoint #273": {
+    "schoolName": "4Geeks Academy",
+    "company": "Nivelat",
+    "grads": 2,
+    "state": "FL"
+  },
+  "datapoint #274": {
+    "schoolName": "4Geeks Academy",
+    "company": "Patagonia IT",
+    "grads": 2,
+    "state": "FL"
+  },
+  "datapoint #275": {
+    "schoolName": "4Geeks Academy",
+    "company": "The Dog Company Chile",
+    "grads": 2,
+    "state": "FL"
+  },
+  "datapoint #276": {
+    "schoolName": "4Geeks Academy",
+    "company": "Uber",
+    "grads": 3,
+    "state": "FL"
+  },
+  "datapoint #277": {
+    "schoolName": "4Geeks Academy",
+    "company": "University of Miami",
+    "grads": 3,
+    "state": "FL"
+  },
+  "datapoint #278": {
+    "schoolName": "Wyncode Academy",
+    "company": "Apple",
+    "grads": 6,
+    "state": "FL"
+  },
+  "datapoint #279": {
+    "schoolName": "Wyncode Academy",
+    "company": "Augusta Hitech",
+    "grads": 4,
+    "state": "FL"
+  },
+  "datapoint #280": {
+    "schoolName": "Wyncode Academy",
+    "company": "BrainStation",
+    "grads": 9,
+    "state": "FL"
+  },
+  "datapoint #281": {
+    "schoolName": "Wyncode Academy",
+    "company": "CareCloud",
+    "grads": 9,
+    "state": "FL"
+  },
+  "datapoint #282": {
+    "schoolName": "Wyncode Academy",
+    "company": "Health Karma",
+    "grads": 6,
+    "state": "FL"
+  },
+  "datapoint #283": {
+    "schoolName": "Wyncode Academy",
+    "company": "IntelePeer",
+    "grads": 5,
+    "state": "FL"
+  },
+  "datapoint #284": {
+    "schoolName": "Wyncode Academy",
+    "company": "Kipu Health",
+    "grads": 6,
+    "state": "FL"
+  },
+  "datapoint #285": {
+    "schoolName": "Wyncode Academy",
+    "company": "MDLIVE Inc.",
+    "grads": 5,
+    "state": "FL"
+  },
+  "datapoint #286": {
+    "schoolName": "Wyncode Academy",
+    "company": "Miami Dev Shop",
+    "grads": 5,
+    "state": "FL"
+  },
+  "datapoint #287": {
+    "schoolName": "Wyncode Academy",
+    "company": "Microsoft",
+    "grads": 5,
+    "state": "FL"
+  },
+  "datapoint #288": {
+    "schoolName": "Wyncode Academy",
+    "company": "Papa",
+    "grads": 5,
+    "state": "FL"
+  },
+  "datapoint #289": {
+    "schoolName": "Wyncode Academy",
+    "company": "Restaurant Brands International",
+    "grads": 13,
+    "state": "FL"
+  },
+  "datapoint #290": {
+    "schoolName": "Wyncode Academy",
+    "company": "springbig",
+    "grads": 5,
+    "state": "FL"
+  },
+  "datapoint #291": {
+    "schoolName": "Wyncode Academy",
+    "company": "Watsco Ventures",
+    "grads": 5,
+    "state": "FL"
+  },
+  "datapoint #292": {
+    "schoolName": "DigitalCrafts",
+    "company": "Accenture",
+    "grads": 4,
+    "state": "GA"
+  },
+  "datapoint #293": {
+    "schoolName": "DigitalCrafts",
+    "company": "Chick-fil-A Corporate Support Center",
+    "grads": 5,
+    "state": "GA"
+  },
+  "datapoint #294": {
+    "schoolName": "DigitalCrafts",
+    "company": "Codoxo",
+    "grads": 4,
+    "state": "GA"
+  },
+  "datapoint #295": {
+    "schoolName": "DigitalCrafts",
+    "company": "Cox Automotive Inc.",
+    "grads": 4,
+    "state": "GA"
+  },
+  "datapoint #296": {
+    "schoolName": "DigitalCrafts",
+    "company": "Insiten",
+    "grads": 8,
+    "state": "GA"
+  },
+  "datapoint #297": {
+    "schoolName": "DigitalCrafts",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 5,
+    "state": "GA"
+  },
+  "datapoint #298": {
+    "schoolName": "DigitalCrafts",
+    "company": "Luminare Inc.",
+    "grads": 4,
+    "state": "GA"
+  },
+  "datapoint #299": {
+    "schoolName": "DigitalCrafts",
+    "company": "Mailchimp",
+    "grads": 5,
+    "state": "GA"
+  },
+  "datapoint #300": {
+    "schoolName": "DigitalCrafts",
+    "company": "Microsoft",
+    "grads": 3,
+    "state": "GA"
+  },
+  "datapoint #301": {
+    "schoolName": "DigitalCrafts",
+    "company": "The Home Depot",
+    "grads": 12,
+    "state": "GA"
+  },
+  "datapoint #302": {
+    "schoolName": "DigitalCrafts",
+    "company": "Umbrage",
+    "grads": 6,
+    "state": "GA"
+  },
+  "datapoint #303": {
+    "schoolName": "DigitalCrafts",
+    "company": "Varsity Hype",
+    "grads": 5,
+    "state": "GA"
+  },
+  "datapoint #304": {
+    "schoolName": "DigitalCrafts",
+    "company": "Ware2Go",
+    "grads": 6,
+    "state": "GA"
+  },
+  "datapoint #305": {
+    "schoolName": "DigitalCrafts",
+    "company": "WarnerMedia",
+    "grads": 4,
+    "state": "GA"
+  },
+  "datapoint #306": {
+    "schoolName": "Georgia Tech Boot Camps",
+    "company": "XPO Logistics Inc.",
+    "grads": 1,
+    "state": "GA"
+  },
+  "datapoint #307": {
+    "schoolName": "CodeWorks",
+    "company": "Accenture",
+    "grads": 1,
+    "state": "ID"
+  },
+  "datapoint #308": {
+    "schoolName": "CodeWorks",
+    "company": "Adobe",
+    "grads": 1,
+    "state": "ID"
+  },
+  "datapoint #309": {
+    "schoolName": "CodeWorks",
+    "company": "Allata",
+    "grads": 2,
+    "state": "ID"
+  },
+  "datapoint #310": {
+    "schoolName": "CodeWorks",
+    "company": "BGZ brands™",
+    "grads": 1,
+    "state": "ID"
+  },
+  "datapoint #311": {
+    "schoolName": "CodeWorks",
+    "company": "Cask",
+    "grads": 3,
+    "state": "ID"
+  },
+  "datapoint #312": {
+    "schoolName": "CodeWorks",
+    "company": "Definitive Logic",
+    "grads": 2,
+    "state": "ID"
+  },
+  "datapoint #313": {
+    "schoolName": "CodeWorks",
+    "company": "In Time Tec",
+    "grads": 8,
+    "state": "ID"
+  },
+  "datapoint #314": {
+    "schoolName": "CodeWorks",
+    "company": "Microbe Formulas",
+    "grads": 1,
+    "state": "ID"
+  },
+  "datapoint #315": {
+    "schoolName": "CodeWorks",
+    "company": "P2 Energy Solutions",
+    "grads": 1,
+    "state": "ID"
+  },
+  "datapoint #316": {
+    "schoolName": "CodeWorks",
+    "company": "TrueBlue Inc.",
+    "grads": 1,
+    "state": "ID"
+  },
+  "datapoint #317": {
+    "schoolName": "CodeWorks",
+    "company": "Western Power Sports (WPS)",
+    "grads": 2,
+    "state": "ID"
+  },
+  "datapoint #318": {
+    "schoolName": "CodeWorks",
+    "company": "Zennify",
+    "grads": 2,
+    "state": "ID"
+  },
+  "datapoint #319": {
+    "schoolName": "Actualize Coding Bootcamp",
+    "company": "Accenture",
+    "grads": 2,
+    "state": "IL"
+  },
+  "datapoint #320": {
+    "schoolName": "Actualize Coding Bootcamp",
+    "company": "ActiveCampaign",
+    "grads": 3,
+    "state": "IL"
+  },
+  "datapoint #321": {
+    "schoolName": "Actualize Coding Bootcamp",
+    "company": "AHEAD",
+    "grads": 3,
+    "state": "IL"
+  },
+  "datapoint #322": {
+    "schoolName": "Actualize Coding Bootcamp",
+    "company": "AT&T",
+    "grads": 2,
+    "state": "IL"
+  },
+  "datapoint #323": {
+    "schoolName": "Actualize Coding Bootcamp",
+    "company": "Boomerang Exhibits",
+    "grads": 2,
+    "state": "IL"
+  },
+  "datapoint #324": {
+    "schoolName": "Actualize Coding Bootcamp",
+    "company": "Costco Wholesale",
+    "grads": 2,
+    "state": "IL"
+  },
+  "datapoint #325": {
+    "schoolName": "Actualize Coding Bootcamp",
+    "company": "CVS Health",
+    "grads": 3,
+    "state": "IL"
+  },
+  "datapoint #326": {
+    "schoolName": "Actualize Coding Bootcamp",
+    "company": "Datadog",
+    "grads": 2,
+    "state": "IL"
+  },
+  "datapoint #327": {
+    "schoolName": "Actualize Coding Bootcamp",
+    "company": "Healthie Inc.",
+    "grads": 2,
+    "state": "IL"
+  },
+  "datapoint #328": {
+    "schoolName": "Actualize Coding Bootcamp",
+    "company": "Oracle",
+    "grads": 3,
+    "state": "IL"
+  },
+  "datapoint #329": {
+    "schoolName": "Actualize Coding Bootcamp",
+    "company": "PayPal",
+    "grads": 4,
+    "state": "IL"
+  },
+  "datapoint #330": {
+    "schoolName": "Actualize Coding Bootcamp",
+    "company": "The Difference Engine",
+    "grads": 7,
+    "state": "IL"
+  },
+  "datapoint #331": {
+    "schoolName": "Code Platoon",
+    "company": "8th Light",
+    "grads": 2,
+    "state": "IL"
+  },
+  "datapoint #332": {
+    "schoolName": "Code Platoon",
+    "company": "Army National Guard",
+    "grads": 4,
+    "state": "IL"
+  },
+  "datapoint #333": {
+    "schoolName": "Code Platoon",
+    "company": "Army National Guard",
+    "grads": 4,
+    "state": "IL"
+  },
+  "datapoint #334": {
+    "schoolName": "Code Platoon",
+    "company": "Cartão de Todos",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #335": {
+    "schoolName": "Code Platoon",
+    "company": "Chicago Trading Company",
+    "grads": 3,
+    "state": "IL"
+  },
+  "datapoint #336": {
+    "schoolName": "Code Platoon",
+    "company": "Codementor",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #337": {
+    "schoolName": "Code Platoon",
+    "company": "DRW",
+    "grads": 7,
+    "state": "IL"
+  },
+  "datapoint #338": {
+    "schoolName": "Code Platoon",
+    "company": "Enova International",
+    "grads": 2,
+    "state": "IL"
+  },
+  "datapoint #339": {
+    "schoolName": "Code Platoon",
+    "company": "Grainger",
+    "grads": 2,
+    "state": "IL"
+  },
+  "datapoint #340": {
+    "schoolName": "Code Platoon",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 7,
+    "state": "IL"
+  },
+  "datapoint #341": {
+    "schoolName": "Code Platoon",
+    "company": "Motorola Solutions",
+    "grads": 2,
+    "state": "IL"
+  },
+  "datapoint #342": {
+    "schoolName": "Code Platoon",
+    "company": "Raise",
+    "grads": 2,
+    "state": "IL"
+  },
+  "datapoint #343": {
+    "schoolName": "Code Platoon",
+    "company": "United States Air Force",
+    "grads": 6,
+    "state": "IL"
+  },
+  "datapoint #344": {
+    "schoolName": "Code Platoon",
+    "company": "US Army",
+    "grads": 6,
+    "state": "IL"
+  },
+  "datapoint #345": {
+    "schoolName": "Code Platoon",
+    "company": "US Navy",
+    "grads": 4,
+    "state": "IL"
+  },
+  "datapoint #346": {
+    "schoolName": "Coding Temple",
+    "company": "Accenture",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #347": {
+    "schoolName": "Coding Temple",
+    "company": "Amazon",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #348": {
+    "schoolName": "Coding Temple",
+    "company": "Beyond Finance",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #349": {
+    "schoolName": "Coding Temple",
+    "company": "Birchwood Foods",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #350": {
+    "schoolName": "Coding Temple",
+    "company": "Booz Allen Hamilton",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #351": {
+    "schoolName": "Coding Temple",
+    "company": "Capgemini",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #352": {
+    "schoolName": "Coding Temple",
+    "company": "City Colleges of Chicago-Olive-Harvey College",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #353": {
+    "schoolName": "Coding Temple",
+    "company": "Convoy Inc",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #354": {
+    "schoolName": "Coding Temple",
+    "company": "Copado",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #355": {
+    "schoolName": "Coding Temple",
+    "company": "Datadog",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #356": {
+    "schoolName": "Coding Temple",
+    "company": "Numerated",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #357": {
+    "schoolName": "Coding Temple",
+    "company": "SORACOM Inc.",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #358": {
+    "schoolName": "Coding Temple",
+    "company": "U.S. Navy Reserve",
+    "grads": 1,
+    "state": "IL"
+  },
+  "datapoint #359": {
+    "schoolName": "Coding Temple",
+    "company": "Upwork",
+    "grads": 2,
+    "state": "IL"
+  },
+  "datapoint #360": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "Agilify Automation",
+    "grads": 4,
+    "state": "IN"
+  },
+  "datapoint #361": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "Community Health Network",
+    "grads": 3,
+    "state": "IN"
+  },
+  "datapoint #362": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "DMI (Digital Management LLC)",
+    "grads": 4,
+    "state": "IN"
+  },
+  "datapoint #363": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "DoorDash",
+    "grads": 4,
+    "state": "IN"
+  },
+  "datapoint #364": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "GEICO",
+    "grads": 8,
+    "state": "IN"
+  },
+  "datapoint #365": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "Infosys",
+    "grads": 12,
+    "state": "IN"
+  },
+  "datapoint #366": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "Ion Three",
+    "grads": 4,
+    "state": "IN"
+  },
+  "datapoint #367": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "Liberty Mutual Insurance",
+    "grads": 4,
+    "state": "IN"
+  },
+  "datapoint #368": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "Navient",
+    "grads": 4,
+    "state": "IN"
+  },
+  "datapoint #369": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "Offprem Technology",
+    "grads": 6,
+    "state": "IN"
+  },
+  "datapoint #370": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "R&M Software Inc.",
+    "grads": 7,
+    "state": "IN"
+  },
+  "datapoint #371": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "Salesforce",
+    "grads": 7,
+    "state": "IN"
+  },
+  "datapoint #372": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "TCC Software Solutions",
+    "grads": 6,
+    "state": "IN"
+  },
+  "datapoint #373": {
+    "schoolName": "Eleven Fifty Academy",
+    "company": "US Army",
+    "grads": 4,
+    "state": "IN"
+  },
+  "datapoint #374": {
+    "schoolName": "Kenzie Academy",
+    "company": "Amazon",
+    "grads": 136,
+    "state": "IN"
+  },
+  "datapoint #375": {
+    "schoolName": "Kenzie Academy",
+    "company": "Amazon Fulfillment Centre",
+    "grads": 16,
+    "state": "IN"
+  },
+  "datapoint #376": {
+    "schoolName": "Kenzie Academy",
+    "company": "Amazon Logistics",
+    "grads": 4,
+    "state": "IN"
+  },
+  "datapoint #377": {
+    "schoolName": "Kenzie Academy",
+    "company": "AT&T",
+    "grads": 2,
+    "state": "IN"
+  },
+  "datapoint #378": {
+    "schoolName": "Kenzie Academy",
+    "company": "Career Karma",
+    "grads": 2,
+    "state": "IN"
+  },
+  "datapoint #379": {
+    "schoolName": "Kenzie Academy",
+    "company": "DMI (Digital Management LLC)",
+    "grads": 3,
+    "state": "IN"
+  },
+  "datapoint #380": {
+    "schoolName": "Kenzie Academy",
+    "company": "FedEx Ground",
+    "grads": 2,
+    "state": "IN"
+  },
+  "datapoint #381": {
+    "schoolName": "Kenzie Academy",
+    "company": "Infosys",
+    "grads": 2,
+    "state": "IN"
+  },
+  "datapoint #382": {
+    "schoolName": "Kenzie Academy",
+    "company": "Infosys Ltd",
+    "grads": 4,
+    "state": "IN"
+  },
+  "datapoint #383": {
+    "schoolName": "Kenzie Academy",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 2,
+    "state": "IN"
+  },
+  "datapoint #384": {
+    "schoolName": "Kenzie Academy",
+    "company": "KellyConnect | Contact Center Solutions",
+    "grads": 2,
+    "state": "IN"
+  },
+  "datapoint #385": {
+    "schoolName": "Kenzie Academy",
+    "company": "Southern New Hampshire University",
+    "grads": 8,
+    "state": "IN"
+  },
+  "datapoint #386": {
+    "schoolName": "Kenzie Academy",
+    "company": "SuperWorld",
+    "grads": 2,
+    "state": "IN"
+  },
+  "datapoint #387": {
+    "schoolName": "Kenzie Academy",
+    "company": "Zylo",
+    "grads": 2,
+    "state": "IN"
+  },
+  "datapoint #388": {
+    "schoolName": "Awesome Inc",
+    "company": "APAX Software",
+    "grads": 4,
+    "state": "KY"
+  },
+  "datapoint #389": {
+    "schoolName": "Awesome Inc",
+    "company": "Bitwerx Inc.",
+    "grads": 2,
+    "state": "KY"
+  },
+  "datapoint #390": {
+    "schoolName": "Awesome Inc",
+    "company": "BlueFrame Technology",
+    "grads": 2,
+    "state": "KY"
+  },
+  "datapoint #391": {
+    "schoolName": "Awesome Inc",
+    "company": "CSI",
+    "grads": 1,
+    "state": "KY"
+  },
+  "datapoint #392": {
+    "schoolName": "Awesome Inc",
+    "company": "Infosys",
+    "grads": 1,
+    "state": "KY"
+  },
+  "datapoint #393": {
+    "schoolName": "Awesome Inc",
+    "company": "Kentucky Department of Revenue",
+    "grads": 1,
+    "state": "KY"
+  },
+  "datapoint #394": {
+    "schoolName": "Awesome Inc",
+    "company": "Lightwell Inc.",
+    "grads": 2,
+    "state": "KY"
+  },
+  "datapoint #395": {
+    "schoolName": "Awesome Inc",
+    "company": "Nymbl Systems",
+    "grads": 3,
+    "state": "KY"
+  },
+  "datapoint #396": {
+    "schoolName": "Awesome Inc",
+    "company": "OmniLife",
+    "grads": 1,
+    "state": "KY"
+  },
+  "datapoint #397": {
+    "schoolName": "Awesome Inc",
+    "company": "Rev.com",
+    "grads": 1,
+    "state": "KY"
+  },
+  "datapoint #398": {
+    "schoolName": "Awesome Inc",
+    "company": "Starbucks",
+    "grads": 2,
+    "state": "KY"
+  },
+  "datapoint #399": {
+    "schoolName": "Awesome Inc",
+    "company": "Studio 34 Productions",
+    "grads": 2,
+    "state": "KY"
+  },
+  "datapoint #400": {
+    "schoolName": "Code Louisville",
+    "company": "Appriss",
+    "grads": 8,
+    "state": "KY"
+  },
+  "datapoint #401": {
+    "schoolName": "Code Louisville",
+    "company": "Atria Senior Living",
+    "grads": 7,
+    "state": "KY"
+  },
+  "datapoint #402": {
+    "schoolName": "Code Louisville",
+    "company": "El Toro IP Targeting",
+    "grads": 9,
+    "state": "KY"
+  },
+  "datapoint #403": {
+    "schoolName": "Code Louisville",
+    "company": "GE Appliances",
+    "grads": 14,
+    "state": "KY"
+  },
+  "datapoint #404": {
+    "schoolName": "Code Louisville",
+    "company": "Humana",
+    "grads": 33,
+    "state": "KY"
+  },
+  "datapoint #405": {
+    "schoolName": "Code Louisville",
+    "company": "Jefferson County Public Schools",
+    "grads": 11,
+    "state": "KY"
+  },
+  "datapoint #406": {
+    "schoolName": "Code Louisville",
+    "company": "Kroger",
+    "grads": 6,
+    "state": "KY"
+  },
+  "datapoint #407": {
+    "schoolName": "Code Louisville",
+    "company": "QSR Automations",
+    "grads": 6,
+    "state": "KY"
+  },
+  "datapoint #408": {
+    "schoolName": "Code Louisville",
+    "company": "Rainbow Design Services Inc.",
+    "grads": 5,
+    "state": "KY"
+  },
+  "datapoint #409": {
+    "schoolName": "Code Louisville",
+    "company": "University of Louisville",
+    "grads": 6,
+    "state": "KY"
+  },
+  "datapoint #410": {
+    "schoolName": "Code Louisville",
+    "company": "UPS",
+    "grads": 18,
+    "state": "KY"
+  },
+  "datapoint #411": {
+    "schoolName": "Code Louisville",
+    "company": "Waystar",
+    "grads": 12,
+    "state": "KY"
+  },
+  "datapoint #412": {
+    "schoolName": "Practicum by Yandex",
+    "company": "GlowByte Consulting",
+    "grads": 3,
+    "state": "MA"
+  },
+  "datapoint #413": {
+    "schoolName": "Practicum by Yandex",
+    "company": "Infosys",
+    "grads": 3,
+    "state": "MA"
+  },
+  "datapoint #414": {
+    "schoolName": "Practicum by Yandex",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 3,
+    "state": "MA"
+  },
+  "datapoint #415": {
+    "schoolName": "Practicum by Yandex",
+    "company": "OZON.ru",
+    "grads": 4,
+    "state": "MA"
+  },
+  "datapoint #416": {
+    "schoolName": "Practicum by Yandex",
+    "company": "Rostelecom",
+    "grads": 3,
+    "state": "MA"
+  },
+  "datapoint #417": {
+    "schoolName": "Practicum by Yandex",
+    "company": "Sberbank",
+    "grads": 5,
+    "state": "MA"
+  },
+  "datapoint #418": {
+    "schoolName": "Practicum by Yandex",
+    "company": "uTest",
+    "grads": 3,
+    "state": "MA"
+  },
+  "datapoint #419": {
+    "schoolName": "Practicum by Yandex",
+    "company": "X5 Retail Group",
+    "grads": 3,
+    "state": "MA"
+  },
+  "datapoint #420": {
+    "schoolName": "Grand Circus",
+    "company": "Accenture",
+    "grads": 20,
+    "state": "MI"
+  },
+  "datapoint #421": {
+    "schoolName": "Grand Circus",
+    "company": "Amrock",
+    "grads": 18,
+    "state": "MI"
+  },
+  "datapoint #422": {
+    "schoolName": "Grand Circus",
+    "company": "Blue Cross Blue Shield of Michigan",
+    "grads": 11,
+    "state": "MI"
+  },
+  "datapoint #423": {
+    "schoolName": "Grand Circus",
+    "company": "Detroit Labs",
+    "grads": 16,
+    "state": "MI"
+  },
+  "datapoint #424": {
+    "schoolName": "Grand Circus",
+    "company": "Detroit Public Schools Community District",
+    "grads": 7,
+    "state": "MI"
+  },
+  "datapoint #425": {
+    "schoolName": "Grand Circus",
+    "company": "Ford Motor Company",
+    "grads": 16,
+    "state": "MI"
+  },
+  "datapoint #426": {
+    "schoolName": "Grand Circus",
+    "company": "Meridian",
+    "grads": 8,
+    "state": "MI"
+  },
+  "datapoint #427": {
+    "schoolName": "Grand Circus",
+    "company": "MRM",
+    "grads": 8,
+    "state": "MI"
+  },
+  "datapoint #428": {
+    "schoolName": "Grand Circus",
+    "company": "Nexient",
+    "grads": 30,
+    "state": "MI"
+  },
+  "datapoint #429": {
+    "schoolName": "Grand Circus",
+    "company": "Perficient",
+    "grads": 7,
+    "state": "MI"
+  },
+  "datapoint #430": {
+    "schoolName": "Grand Circus",
+    "company": "Quicken Loans",
+    "grads": 87,
+    "state": "MI"
+  },
+  "datapoint #431": {
+    "schoolName": "Grand Circus",
+    "company": "Spectrum Health",
+    "grads": 7,
+    "state": "MI"
+  },
+  "datapoint #432": {
+    "schoolName": "Grand Circus",
+    "company": "United Shore",
+    "grads": 11,
+    "state": "MI"
+  },
+  "datapoint #433": {
+    "schoolName": "Grand Circus",
+    "company": "United Wholesale Mortgage",
+    "grads": 84,
+    "state": "MI"
+  },
+  "datapoint #434": {
+    "schoolName": "Prime Digital Academy",
+    "company": "Accessible360",
+    "grads": 11,
+    "state": "MN"
+  },
+  "datapoint #435": {
+    "schoolName": "Prime Digital Academy",
+    "company": "Best Buy",
+    "grads": 38,
+    "state": "MN"
+  },
+  "datapoint #436": {
+    "schoolName": "Prime Digital Academy",
+    "company": "C.H. Robinson",
+    "grads": 25,
+    "state": "MN"
+  },
+  "datapoint #437": {
+    "schoolName": "Prime Digital Academy",
+    "company": "Datasite",
+    "grads": 12,
+    "state": "MN"
+  },
+  "datapoint #438": {
+    "schoolName": "Prime Digital Academy",
+    "company": "Daugherty Business Solutions",
+    "grads": 7,
+    "state": "MN"
+  },
+  "datapoint #439": {
+    "schoolName": "Prime Digital Academy",
+    "company": "Granicus",
+    "grads": 10,
+    "state": "MN"
+  },
+  "datapoint #440": {
+    "schoolName": "Prime Digital Academy",
+    "company": "Optum",
+    "grads": 13,
+    "state": "MN"
+  },
+  "datapoint #441": {
+    "schoolName": "Prime Digital Academy",
+    "company": "Slalom",
+    "grads": 7,
+    "state": "MN"
+  },
+  "datapoint #442": {
+    "schoolName": "Prime Digital Academy",
+    "company": "SPS Commerce",
+    "grads": 11,
+    "state": "MN"
+  },
+  "datapoint #443": {
+    "schoolName": "Prime Digital Academy",
+    "company": "Target",
+    "grads": 38,
+    "state": "MN"
+  },
+  "datapoint #444": {
+    "schoolName": "Prime Digital Academy",
+    "company": "Thomson Reuters",
+    "grads": 16,
+    "state": "MN"
+  },
+  "datapoint #445": {
+    "schoolName": "Prime Digital Academy",
+    "company": "Total Expert",
+    "grads": 11,
+    "state": "MN"
+  },
+  "datapoint #446": {
+    "schoolName": "Prime Digital Academy",
+    "company": "Travelers",
+    "grads": 19,
+    "state": "MN"
+  },
+  "datapoint #447": {
+    "schoolName": "Prime Digital Academy",
+    "company": "U.S. Bank",
+    "grads": 8,
+    "state": "MN"
+  },
+  "datapoint #448": {
+    "schoolName": "Claim Academy",
+    "company": "Accenture Federal Services",
+    "grads": 4,
+    "state": "MO"
+  },
+  "datapoint #449": {
+    "schoolName": "Claim Academy",
+    "company": "Army National Guard",
+    "grads": 2,
+    "state": "MO"
+  },
+  "datapoint #450": {
+    "schoolName": "Claim Academy",
+    "company": "Best Buy",
+    "grads": 3,
+    "state": "MO"
+  },
+  "datapoint #451": {
+    "schoolName": "Claim Academy",
+    "company": "Charter Communications",
+    "grads": 6,
+    "state": "MO"
+  },
+  "datapoint #452": {
+    "schoolName": "Claim Academy",
+    "company": "GalaxE.Solutions",
+    "grads": 5,
+    "state": "MO"
+  },
+  "datapoint #453": {
+    "schoolName": "Claim Academy",
+    "company": "LaunchCode",
+    "grads": 3,
+    "state": "MO"
+  },
+  "datapoint #454": {
+    "schoolName": "Claim Academy",
+    "company": "Mastercard",
+    "grads": 4,
+    "state": "MO"
+  },
+  "datapoint #455": {
+    "schoolName": "Claim Academy",
+    "company": "NISA Investment Advisors LLC",
+    "grads": 5,
+    "state": "MO"
+  },
+  "datapoint #456": {
+    "schoolName": "Claim Academy",
+    "company": "Perficient",
+    "grads": 3,
+    "state": "MO"
+  },
+  "datapoint #457": {
+    "schoolName": "Claim Academy",
+    "company": "Revature",
+    "grads": 2,
+    "state": "MO"
+  },
+  "datapoint #458": {
+    "schoolName": "Claim Academy",
+    "company": "Slalom",
+    "grads": 3,
+    "state": "MO"
+  },
+  "datapoint #459": {
+    "schoolName": "Claim Academy",
+    "company": "US Army",
+    "grads": 2,
+    "state": "MO"
+  },
+  "datapoint #460": {
+    "schoolName": "Claim Academy",
+    "company": "Washington University in St. Louis",
+    "grads": 3,
+    "state": "MO"
+  },
+  "datapoint #461": {
+    "schoolName": "Momentum",
+    "company": "Alberta Health Services",
+    "grads": 4,
+    "state": "NC"
+  },
+  "datapoint #462": {
+    "schoolName": "Momentum",
+    "company": "Discovery Limited",
+    "grads": 3,
+    "state": "NC"
+  },
+  "datapoint #463": {
+    "schoolName": "Momentum",
+    "company": "IBM",
+    "grads": 3,
+    "state": "NC"
+  },
+  "datapoint #464": {
+    "schoolName": "Momentum",
+    "company": "Infosys",
+    "grads": 2,
+    "state": "NC"
+  },
+  "datapoint #465": {
+    "schoolName": "Momentum",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 2,
+    "state": "NC"
+  },
+  "datapoint #466": {
+    "schoolName": "Momentum",
+    "company": "Pendo.io",
+    "grads": 5,
+    "state": "NC"
+  },
+  "datapoint #467": {
+    "schoolName": "Momentum",
+    "company": "Salesforce",
+    "grads": 3,
+    "state": "NC"
+  },
+  "datapoint #468": {
+    "schoolName": "Momentum",
+    "company": "SciMed Solutions Inc.",
+    "grads": 2,
+    "state": "NC"
+  },
+  "datapoint #469": {
+    "schoolName": "Momentum",
+    "company": "ServiceTrade",
+    "grads": 3,
+    "state": "NC"
+  },
+  "datapoint #470": {
+    "schoolName": "Momentum",
+    "company": "Spreedly",
+    "grads": 4,
+    "state": "NC"
+  },
+  "datapoint #471": {
+    "schoolName": "Momentum",
+    "company": "Westcan Bulk Transport",
+    "grads": 2,
+    "state": "NC"
+  },
+  "datapoint #472": {
+    "schoolName": "RMOTR",
+    "company": "APEX Drone Racing",
+    "grads": 1,
+    "state": "NC"
+  },
+  "datapoint #473": {
+    "schoolName": "RMOTR",
+    "company": "Bank of America",
+    "grads": 1,
+    "state": "NC"
+  },
+  "datapoint #474": {
+    "schoolName": "RMOTR",
+    "company": "Fitbit (now part of Google)",
+    "grads": 1,
+    "state": "NC"
+  },
+  "datapoint #475": {
+    "schoolName": "RMOTR",
+    "company": "How-To Geek",
+    "grads": 1,
+    "state": "NC"
+  },
+  "datapoint #476": {
+    "schoolName": "RMOTR",
+    "company": "Intel Corporation",
+    "grads": 1,
+    "state": "NC"
+  },
+  "datapoint #477": {
+    "schoolName": "RMOTR",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 1,
+    "state": "NC"
+  },
+  "datapoint #478": {
+    "schoolName": "RMOTR",
+    "company": "Milestone Digital",
+    "grads": 1,
+    "state": "NC"
+  },
+  "datapoint #479": {
+    "schoolName": "RMOTR",
+    "company": "Norges Bank Investment Management",
+    "grads": 1,
+    "state": "NC"
+  },
+  "datapoint #480": {
+    "schoolName": "RMOTR",
+    "company": "Satellogic",
+    "grads": 1,
+    "state": "NC"
+  },
+  "datapoint #481": {
+    "schoolName": "RMOTR",
+    "company": "Shelley Automation",
+    "grads": 1,
+    "state": "NC"
+  },
+  "datapoint #482": {
+    "schoolName": "RMOTR",
+    "company": "Skytree | A Fresh Breath of Air",
+    "grads": 1,
+    "state": "NC"
+  },
+  "datapoint #483": {
+    "schoolName": "RMOTR",
+    "company": "US Army",
+    "grads": 1,
+    "state": "NC"
+  },
+  "datapoint #484": {
+    "schoolName": "RMOTR",
+    "company": "Verizon",
+    "grads": 1,
+    "state": "NC"
+  },
+  "datapoint #485": {
+    "schoolName": "RMOTR",
+    "company": "Zynga",
+    "grads": 2,
+    "state": "NC"
+  },
+  "datapoint #486": {
+    "schoolName": "Emerging Digital Academy",
+    "company": "701x",
+    "grads": 1,
+    "state": "ND"
+  },
+  "datapoint #487": {
+    "schoolName": "Emerging Digital Academy",
+    "company": "Auto Doctors LLC",
+    "grads": 1,
+    "state": "ND"
+  },
+  "datapoint #488": {
+    "schoolName": "Emerging Digital Academy",
+    "company": "BNG Team",
+    "grads": 1,
+    "state": "ND"
+  },
+  "datapoint #489": {
+    "schoolName": "Emerging Digital Academy",
+    "company": "Bushel",
+    "grads": 2,
+    "state": "ND"
+  },
+  "datapoint #490": {
+    "schoolName": "Emerging Digital Academy",
+    "company": "ByteSpeed",
+    "grads": 1,
+    "state": "ND"
+  },
+  "datapoint #491": {
+    "schoolName": "Emerging Digital Academy",
+    "company": "Creatively Web Design & Development",
+    "grads": 1,
+    "state": "ND"
+  },
+  "datapoint #492": {
+    "schoolName": "Emerging Digital Academy",
+    "company": "eXp Realty",
+    "grads": 1,
+    "state": "ND"
+  },
+  "datapoint #493": {
+    "schoolName": "Emerging Digital Academy",
+    "company": "Learn Or Teach LLC",
+    "grads": 1,
+    "state": "ND"
+  },
+  "datapoint #494": {
+    "schoolName": "Emerging Digital Academy",
+    "company": "Penta Blockchain Solutions",
+    "grads": 1,
+    "state": "ND"
+  },
+  "datapoint #495": {
+    "schoolName": "Emerging Digital Academy",
+    "company": "Project Phoenix",
+    "grads": 2,
+    "state": "ND"
+  },
+  "datapoint #496": {
+    "schoolName": "Emerging Digital Academy",
+    "company": "Scheels",
+    "grads": 3,
+    "state": "ND"
+  },
+  "datapoint #497": {
+    "schoolName": "Emerging Digital Academy",
+    "company": "Social Selling HQ",
+    "grads": 1,
+    "state": "ND"
+  },
+  "datapoint #498": {
+    "schoolName": "UNH Coding Boot Camp",
+    "company": "Comcast Business",
+    "grads": 1,
+    "state": "NH"
+  },
+  "datapoint #499": {
+    "schoolName": "UNH Coding Boot Camp",
+    "company": "Fidelity Investments",
+    "grads": 1,
+    "state": "NH"
+  },
+  "datapoint #500": {
+    "schoolName": "UNH Coding Boot Camp",
+    "company": "IANS",
+    "grads": 1,
+    "state": "NH"
+  },
+  "datapoint #501": {
+    "schoolName": "UNH Coding Boot Camp",
+    "company": "Known Point Technologies",
+    "grads": 1,
+    "state": "NH"
+  },
+  "datapoint #502": {
+    "schoolName": "UNH Coding Boot Camp",
+    "company": "Liberty Mutual Insurance",
+    "grads": 2,
+    "state": "NH"
+  },
+  "datapoint #503": {
+    "schoolName": "UNH Coding Boot Camp",
+    "company": "Loud Canvas Media",
+    "grads": 1,
+    "state": "NH"
+  },
+  "datapoint #504": {
+    "schoolName": "Rutgers Bootcamps",
+    "company": "Amazon",
+    "grads": 1,
+    "state": "NJ"
+  },
+  "datapoint #505": {
+    "schoolName": "Rutgers Bootcamps",
+    "company": "Banfield Pet Hospital",
+    "grads": 1,
+    "state": "NJ"
+  },
+  "datapoint #506": {
+    "schoolName": "Rutgers Bootcamps",
+    "company": "Bizzabo",
+    "grads": 1,
+    "state": "NJ"
+  },
+  "datapoint #507": {
+    "schoolName": "Rutgers Bootcamps",
+    "company": "Incyte Studios",
+    "grads": 1,
+    "state": "NJ"
+  },
+  "datapoint #508": {
+    "schoolName": "Rutgers Bootcamps",
+    "company": "PTC Therapeutics",
+    "grads": 1,
+    "state": "NJ"
+  },
+  "datapoint #509": {
+    "schoolName": "Rutgers Bootcamps",
+    "company": "Robert Wood Johnson University Hospital",
+    "grads": 1,
+    "state": "NJ"
+  },
+  "datapoint #510": {
+    "schoolName": "App Academy",
+    "company": "Amazon",
+    "grads": 22,
+    "state": "NY"
+  },
+  "datapoint #511": {
+    "schoolName": "App Academy",
+    "company": "Bloomberg LP",
+    "grads": 37,
+    "state": "NY"
+  },
+  "datapoint #512": {
+    "schoolName": "App Academy",
+    "company": "DailyPay Inc.",
+    "grads": 8,
+    "state": "NY"
+  },
+  "datapoint #513": {
+    "schoolName": "App Academy",
+    "company": "Etsy",
+    "grads": 7,
+    "state": "NY"
+  },
+  "datapoint #514": {
+    "schoolName": "App Academy",
+    "company": "Facebook",
+    "grads": 38,
+    "state": "NY"
+  },
+  "datapoint #515": {
+    "schoolName": "App Academy",
+    "company": "Google",
+    "grads": 86,
+    "state": "NY"
+  },
+  "datapoint #516": {
+    "schoolName": "App Academy",
+    "company": "Medidata Solutions",
+    "grads": 18,
+    "state": "NY"
+  },
+  "datapoint #517": {
+    "schoolName": "App Academy",
+    "company": "New Relic Inc.",
+    "grads": 5,
+    "state": "NY"
+  },
+  "datapoint #518": {
+    "schoolName": "App Academy",
+    "company": "Samsara",
+    "grads": 7,
+    "state": "NY"
+  },
+  "datapoint #519": {
+    "schoolName": "App Academy",
+    "company": "Twitter",
+    "grads": 8,
+    "state": "NY"
+  },
+  "datapoint #520": {
+    "schoolName": "App Academy",
+    "company": "Uber",
+    "grads": 14,
+    "state": "NY"
+  },
+  "datapoint #521": {
+    "schoolName": "App Academy",
+    "company": "Upwork",
+    "grads": 10,
+    "state": "NY"
+  },
+  "datapoint #522": {
+    "schoolName": "App Academy",
+    "company": "Wayfair",
+    "grads": 42,
+    "state": "NY"
+  },
+  "datapoint #523": {
+    "schoolName": "App Academy",
+    "company": "Zendesk",
+    "grads": 10,
+    "state": "NY"
+  },
+  "datapoint #524": {
+    "schoolName": "BrainStation",
+    "company": "BMO Financial Group",
+    "grads": 26,
+    "state": "NY"
+  },
+  "datapoint #525": {
+    "schoolName": "BrainStation",
+    "company": "Canadian Tire Corporation",
+    "grads": 33,
+    "state": "NY"
+  },
+  "datapoint #526": {
+    "schoolName": "BrainStation",
+    "company": "CIBC",
+    "grads": 55,
+    "state": "NY"
+  },
+  "datapoint #527": {
+    "schoolName": "BrainStation",
+    "company": "Hootsuite",
+    "grads": 21,
+    "state": "NY"
+  },
+  "datapoint #528": {
+    "schoolName": "BrainStation",
+    "company": "Konrad Group",
+    "grads": 45,
+    "state": "NY"
+  },
+  "datapoint #529": {
+    "schoolName": "BrainStation",
+    "company": "Loblaw Digital",
+    "grads": 15,
+    "state": "NY"
+  },
+  "datapoint #530": {
+    "schoolName": "BrainStation",
+    "company": "lululemon",
+    "grads": 33,
+    "state": "NY"
+  },
+  "datapoint #531": {
+    "schoolName": "BrainStation",
+    "company": "RBC",
+    "grads": 66,
+    "state": "NY"
+  },
+  "datapoint #532": {
+    "schoolName": "BrainStation",
+    "company": "Rogers Sports & Media",
+    "grads": 22,
+    "state": "NY"
+  },
+  "datapoint #533": {
+    "schoolName": "BrainStation",
+    "company": "Scotiabank",
+    "grads": 49,
+    "state": "NY"
+  },
+  "datapoint #534": {
+    "schoolName": "BrainStation",
+    "company": "Shopify",
+    "grads": 80,
+    "state": "NY"
+  },
+  "datapoint #535": {
+    "schoolName": "BrainStation",
+    "company": "TD",
+    "grads": 47,
+    "state": "NY"
+  },
+  "datapoint #536": {
+    "schoolName": "BrainStation",
+    "company": "TELUS",
+    "grads": 41,
+    "state": "NY"
+  },
+  "datapoint #537": {
+    "schoolName": "BrainStation",
+    "company": "The University of British Columbia",
+    "grads": 19,
+    "state": "NY"
+  },
+  "datapoint #538": {
+    "schoolName": "Byte Academy",
+    "company": "Absa Group",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #539": {
+    "schoolName": "Byte Academy",
+    "company": "BACKED VC",
+    "grads": 1,
+    "state": "NY"
+  },
+  "datapoint #540": {
+    "schoolName": "Byte Academy",
+    "company": "Capital Rx",
+    "grads": 1,
+    "state": "NY"
+  },
+  "datapoint #541": {
+    "schoolName": "Byte Academy",
+    "company": "College Truckers Inc.",
+    "grads": 1,
+    "state": "NY"
+  },
+  "datapoint #542": {
+    "schoolName": "Byte Academy",
+    "company": "Geodesic Techniques",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #543": {
+    "schoolName": "Byte Academy",
+    "company": "IBM",
+    "grads": 1,
+    "state": "NY"
+  },
+  "datapoint #544": {
+    "schoolName": "Byte Academy",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 5,
+    "state": "NY"
+  },
+  "datapoint #545": {
+    "schoolName": "Byte Academy",
+    "company": "NOV",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #546": {
+    "schoolName": "Byte Academy",
+    "company": "Oracle",
+    "grads": 1,
+    "state": "NY"
+  },
+  "datapoint #547": {
+    "schoolName": "Byte Academy",
+    "company": "SpryteLabs",
+    "grads": 8,
+    "state": "NY"
+  },
+  "datapoint #548": {
+    "schoolName": "Byte Academy",
+    "company": "Tempus Labs Inc.",
+    "grads": 1,
+    "state": "NY"
+  },
+  "datapoint #549": {
+    "schoolName": "Byte Academy",
+    "company": "Torus Teens",
+    "grads": 1,
+    "state": "NY"
+  },
+  "datapoint #550": {
+    "schoolName": "Flatiron School",
+    "company": "Accenture",
+    "grads": 27,
+    "state": "NY"
+  },
+  "datapoint #551": {
+    "schoolName": "Flatiron School",
+    "company": "Amazon",
+    "grads": 44,
+    "state": "NY"
+  },
+  "datapoint #552": {
+    "schoolName": "Flatiron School",
+    "company": "Citi",
+    "grads": 21,
+    "state": "NY"
+  },
+  "datapoint #553": {
+    "schoolName": "Flatiron School",
+    "company": "Datadog",
+    "grads": 37,
+    "state": "NY"
+  },
+  "datapoint #554": {
+    "schoolName": "Flatiron School",
+    "company": "IBM",
+    "grads": 31,
+    "state": "NY"
+  },
+  "datapoint #555": {
+    "schoolName": "Flatiron School",
+    "company": "Infosys",
+    "grads": 128,
+    "state": "NY"
+  },
+  "datapoint #556": {
+    "schoolName": "Flatiron School",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 41,
+    "state": "NY"
+  },
+  "datapoint #557": {
+    "schoolName": "Flatiron School",
+    "company": "Shopify",
+    "grads": 10,
+    "state": "NY"
+  },
+  "datapoint #558": {
+    "schoolName": "Flatiron School",
+    "company": "Spotify",
+    "grads": 16,
+    "state": "NY"
+  },
+  "datapoint #559": {
+    "schoolName": "Flatiron School",
+    "company": "The New York Times",
+    "grads": 15,
+    "state": "NY"
+  },
+  "datapoint #560": {
+    "schoolName": "Flatiron School",
+    "company": "Wayfair",
+    "grads": 23,
+    "state": "NY"
+  },
+  "datapoint #561": {
+    "schoolName": "Flatiron School",
+    "company": "WeWork",
+    "grads": 23,
+    "state": "NY"
+  },
+  "datapoint #562": {
+    "schoolName": "Fullstack Academy",
+    "company": "Amazon",
+    "grads": 18,
+    "state": "NY"
+  },
+  "datapoint #563": {
+    "schoolName": "Fullstack Academy",
+    "company": "American Express",
+    "grads": 25,
+    "state": "NY"
+  },
+  "datapoint #564": {
+    "schoolName": "Fullstack Academy",
+    "company": "BlackRock",
+    "grads": 9,
+    "state": "NY"
+  },
+  "datapoint #565": {
+    "schoolName": "Fullstack Academy",
+    "company": "Bloomberg LP",
+    "grads": 67,
+    "state": "NY"
+  },
+  "datapoint #566": {
+    "schoolName": "Fullstack Academy",
+    "company": "Etsy",
+    "grads": 20,
+    "state": "NY"
+  },
+  "datapoint #567": {
+    "schoolName": "Fullstack Academy",
+    "company": "Goldman Sachs",
+    "grads": 11,
+    "state": "NY"
+  },
+  "datapoint #568": {
+    "schoolName": "Fullstack Academy",
+    "company": "Google",
+    "grads": 45,
+    "state": "NY"
+  },
+  "datapoint #569": {
+    "schoolName": "Fullstack Academy",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 26,
+    "state": "NY"
+  },
+  "datapoint #570": {
+    "schoolName": "Fullstack Academy",
+    "company": "Northwestern Mutual",
+    "grads": 15,
+    "state": "NY"
+  },
+  "datapoint #571": {
+    "schoolName": "Fullstack Academy",
+    "company": "Spotify",
+    "grads": 16,
+    "state": "NY"
+  },
+  "datapoint #572": {
+    "schoolName": "Fullstack Academy",
+    "company": "The New York Times",
+    "grads": 14,
+    "state": "NY"
+  },
+  "datapoint #573": {
+    "schoolName": "Fullstack Academy",
+    "company": "Wunderkind (Formerly BounceX)",
+    "grads": 8,
+    "state": "NY"
+  },
+  "datapoint #574": {
+    "schoolName": "General Assembly",
+    "company": "Accenture",
+    "grads": 134,
+    "state": "NY"
+  },
+  "datapoint #575": {
+    "schoolName": "General Assembly",
+    "company": "Adobe",
+    "grads": 101,
+    "state": "NY"
+  },
+  "datapoint #576": {
+    "schoolName": "General Assembly",
+    "company": "Amazon",
+    "grads": 235,
+    "state": "NY"
+  },
+  "datapoint #577": {
+    "schoolName": "General Assembly",
+    "company": "Amazon Web Services (AWS)",
+    "grads": 94,
+    "state": "NY"
+  },
+  "datapoint #578": {
+    "schoolName": "General Assembly",
+    "company": "Apple",
+    "grads": 152,
+    "state": "NY"
+  },
+  "datapoint #579": {
+    "schoolName": "General Assembly",
+    "company": "Atlassian",
+    "grads": 62,
+    "state": "NY"
+  },
+  "datapoint #580": {
+    "schoolName": "General Assembly",
+    "company": "Booz Allen Hamilton",
+    "grads": 181,
+    "state": "NY"
+  },
+  "datapoint #581": {
+    "schoolName": "General Assembly",
+    "company": "Facebook",
+    "grads": 243,
+    "state": "NY"
+  },
+  "datapoint #582": {
+    "schoolName": "General Assembly",
+    "company": "Google",
+    "grads": 383,
+    "state": "NY"
+  },
+  "datapoint #583": {
+    "schoolName": "General Assembly",
+    "company": "IBM",
+    "grads": 149,
+    "state": "NY"
+  },
+  "datapoint #584": {
+    "schoolName": "General Assembly",
+    "company": "LinkedIn",
+    "grads": 78,
+    "state": "NY"
+  },
+  "datapoint #585": {
+    "schoolName": "General Assembly",
+    "company": "Microsoft",
+    "grads": 151,
+    "state": "NY"
+  },
+  "datapoint #586": {
+    "schoolName": "General Assembly",
+    "company": "Salesforce",
+    "grads": 108,
+    "state": "NY"
+  },
+  "datapoint #587": {
+    "schoolName": "General Assembly",
+    "company": "Spotify",
+    "grads": 71,
+    "state": "NY"
+  },
+  "datapoint #588": {
+    "schoolName": "Metis",
+    "company": "Amazon",
+    "grads": 4,
+    "state": "NY"
+  },
+  "datapoint #589": {
+    "schoolName": "Metis",
+    "company": "Bank of America",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #590": {
+    "schoolName": "Metis",
+    "company": "Citi",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #591": {
+    "schoolName": "Metis",
+    "company": "City of Amsterdam",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #592": {
+    "schoolName": "Metis",
+    "company": "Comcast",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #593": {
+    "schoolName": "Metis",
+    "company": "Disney Streaming Services",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #594": {
+    "schoolName": "Metis",
+    "company": "Facebook",
+    "grads": 4,
+    "state": "NY"
+  },
+  "datapoint #595": {
+    "schoolName": "Metis",
+    "company": "Google",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #596": {
+    "schoolName": "Metis",
+    "company": "IBM",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #597": {
+    "schoolName": "Metis",
+    "company": "Tempus Labs Inc. ",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #598": {
+    "schoolName": "Metis",
+    "company": "The Spur Group",
+    "grads": 4,
+    "state": "NY"
+  },
+  "datapoint #599": {
+    "schoolName": "Metis",
+    "company": "Trilogy Education",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #600": {
+    "schoolName": "Metis",
+    "company": "Uber",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #601": {
+    "schoolName": "Metis",
+    "company": "Warwick Investment Group",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #602": {
+    "schoolName": "New York Code + Design Academy",
+    "company": "ABN AMRO Bank N.V.",
+    "grads": 4,
+    "state": "NY"
+  },
+  "datapoint #603": {
+    "schoolName": "New York Code + Design Academy",
+    "company": "Apple",
+    "grads": 4,
+    "state": "NY"
+  },
+  "datapoint #604": {
+    "schoolName": "New York Code + Design Academy",
+    "company": "Capgemini",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #605": {
+    "schoolName": "New York Code + Design Academy",
+    "company": "Cognizant",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #606": {
+    "schoolName": "New York Code + Design Academy",
+    "company": "Comcast",
+    "grads": 5,
+    "state": "NY"
+  },
+  "datapoint #607": {
+    "schoolName": "New York Code + Design Academy",
+    "company": "Gartner",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #608": {
+    "schoolName": "New York Code + Design Academy",
+    "company": "Google",
+    "grads": 5,
+    "state": "NY"
+  },
+  "datapoint #609": {
+    "schoolName": "New York Code + Design Academy",
+    "company": "Incentro",
+    "grads": 4,
+    "state": "NY"
+  },
+  "datapoint #610": {
+    "schoolName": "New York Code + Design Academy",
+    "company": "IntuitSolutions",
+    "grads": 7,
+    "state": "NY"
+  },
+  "datapoint #611": {
+    "schoolName": "New York Code + Design Academy",
+    "company": "LinkedIn",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #612": {
+    "schoolName": "New York Code + Design Academy",
+    "company": "NYC Department of Education",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #613": {
+    "schoolName": "New York Code + Design Academy",
+    "company": "University of Pennsylvania",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #614": {
+    "schoolName": "Noble Desktop",
+    "company": "Apple",
+    "grads": 4,
+    "state": "NY"
+  },
+  "datapoint #615": {
+    "schoolName": "Noble Desktop",
+    "company": "Conscience VC",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #616": {
+    "schoolName": "Noble Desktop",
+    "company": "FCB Health",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #617": {
+    "schoolName": "Noble Desktop",
+    "company": "Hachette Book Group",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #618": {
+    "schoolName": "Noble Desktop",
+    "company": "IBM",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #619": {
+    "schoolName": "Noble Desktop",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #620": {
+    "schoolName": "Noble Desktop",
+    "company": "Meredith Corporation",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #621": {
+    "schoolName": "Noble Desktop",
+    "company": "Penguin Random House",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #622": {
+    "schoolName": "Noble Desktop",
+    "company": "Pratt Institute",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #623": {
+    "schoolName": "Noble Desktop",
+    "company": "Rodale Inc.",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #624": {
+    "schoolName": "Noble Desktop",
+    "company": "Scholastic",
+    "grads": 4,
+    "state": "NY"
+  },
+  "datapoint #625": {
+    "schoolName": "Noble Desktop",
+    "company": "The Conference Board",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #626": {
+    "schoolName": "Noble Desktop",
+    "company": "Upwork",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #627": {
+    "schoolName": "Noble Desktop",
+    "company": "Verizon",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #628": {
+    "schoolName": "Skillcrush",
+    "company": "CVS Health",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #629": {
+    "schoolName": "Skillcrush",
+    "company": "Flatiron School",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #630": {
+    "schoolName": "Skillcrush",
+    "company": "Independent Consultant",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #631": {
+    "schoolName": "Skillcrush",
+    "company": "lululemon",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #632": {
+    "schoolName": "Skillcrush",
+    "company": "Lyft",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #633": {
+    "schoolName": "Skillcrush",
+    "company": "Stitch Fix",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #634": {
+    "schoolName": "Skillcrush",
+    "company": "T-Mobile",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #635": {
+    "schoolName": "Skillcrush",
+    "company": "U.S. Department of Veterans Affairs",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #636": {
+    "schoolName": "Skillcrush",
+    "company": "Ulta Beauty",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #637": {
+    "schoolName": "Skillcrush",
+    "company": "VIPKid",
+    "grads": 6,
+    "state": "NY"
+  },
+  "datapoint #638": {
+    "schoolName": "Skillcrush",
+    "company": "Zapier",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #639": {
+    "schoolName": "The Grace Hopper Program at Fullstack Academy",
+    "company": "Annalect",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #640": {
+    "schoolName": "The Grace Hopper Program at Fullstack Academy",
+    "company": "Attentive",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #641": {
+    "schoolName": "The Grace Hopper Program at Fullstack Academy",
+    "company": "Bloomberg LP",
+    "grads": 7,
+    "state": "NY"
+  },
+  "datapoint #642": {
+    "schoolName": "The Grace Hopper Program at Fullstack Academy",
+    "company": "Bounteous",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #643": {
+    "schoolName": "The Grace Hopper Program at Fullstack Academy",
+    "company": "Datadog",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #644": {
+    "schoolName": "The Grace Hopper Program at Fullstack Academy",
+    "company": "Etsy",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #645": {
+    "schoolName": "The Grace Hopper Program at Fullstack Academy",
+    "company": "Fullstack Academy",
+    "grads": 4,
+    "state": "NY"
+  },
+  "datapoint #646": {
+    "schoolName": "The Grace Hopper Program at Fullstack Academy",
+    "company": "Goldman Sachs",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #647": {
+    "schoolName": "The Grace Hopper Program at Fullstack Academy",
+    "company": "Google",
+    "grads": 4,
+    "state": "NY"
+  },
+  "datapoint #648": {
+    "schoolName": "The Grace Hopper Program at Fullstack Academy",
+    "company": "Northwestern Mutual",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #649": {
+    "schoolName": "The Grace Hopper Program at Fullstack Academy",
+    "company": "T-Mobile",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #650": {
+    "schoolName": "The Grace Hopper Program at Fullstack Academy",
+    "company": "Unqork",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #651": {
+    "schoolName": "Thinkful",
+    "company": "Amazon",
+    "grads": 21,
+    "state": "NY"
+  },
+  "datapoint #652": {
+    "schoolName": "Thinkful",
+    "company": "Anant",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #653": {
+    "schoolName": "Thinkful",
+    "company": "Finix",
+    "grads": 2,
+    "state": "NY"
+  },
+  "datapoint #654": {
+    "schoolName": "Thinkful",
+    "company": "Fiverr",
+    "grads": 4,
+    "state": "NY"
+  },
+  "datapoint #655": {
+    "schoolName": "Thinkful",
+    "company": "Hack for LA",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #656": {
+    "schoolName": "Thinkful",
+    "company": "HubSpot",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #657": {
+    "schoolName": "Thinkful",
+    "company": "IBM",
+    "grads": 8,
+    "state": "NY"
+  },
+  "datapoint #658": {
+    "schoolName": "Thinkful",
+    "company": "Personal Projects",
+    "grads": 4,
+    "state": "NY"
+  },
+  "datapoint #659": {
+    "schoolName": "Thinkful",
+    "company": "Trilogy Education",
+    "grads": 10,
+    "state": "NY"
+  },
+  "datapoint #660": {
+    "schoolName": "Thinkful",
+    "company": "Upwork",
+    "grads": 7,
+    "state": "NY"
+  },
+  "datapoint #661": {
+    "schoolName": "Thinkful",
+    "company": "Walmart Global Tech",
+    "grads": 3,
+    "state": "NY"
+  },
+  "datapoint #662": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "Bottom Line Systems",
+    "grads": 1,
+    "state": "OH"
+  },
+  "datapoint #663": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "Eurostampa North America Inc.",
+    "grads": 1,
+    "state": "OH"
+  },
+  "datapoint #664": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "Great American Insurance Group",
+    "grads": 2,
+    "state": "OH"
+  },
+  "datapoint #665": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "IBM",
+    "grads": 1,
+    "state": "OH"
+  },
+  "datapoint #666": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "K-Electric",
+    "grads": 1,
+    "state": "OH"
+  },
+  "datapoint #667": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "Kroger Technology",
+    "grads": 4,
+    "state": "OH"
+  },
+  "datapoint #668": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "Matthews Automation Solutions",
+    "grads": 2,
+    "state": "OH"
+  },
+  "datapoint #669": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "Ohio National Financial Services",
+    "grads": 1,
+    "state": "OH"
+  },
+  "datapoint #670": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "Procter & Gamble",
+    "grads": 3,
+    "state": "OH"
+  },
+  "datapoint #671": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "Seven Hills Technology",
+    "grads": 1,
+    "state": "OH"
+  },
+  "datapoint #672": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "Shoptech Software - Manufacturing Software",
+    "grads": 1,
+    "state": "OH"
+  },
+  "datapoint #673": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "The Cincinnati Insurance Companies",
+    "grads": 1,
+    "state": "OH"
+  },
+  "datapoint #674": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "Top Gun Sales Performance",
+    "grads": 1,
+    "state": "OH"
+  },
+  "datapoint #675": {
+    "schoolName": "MAX Technical Training & Career Programs",
+    "company": "Total Quality Logistics",
+    "grads": 2,
+    "state": "OH"
+  },
+  "datapoint #676": {
+    "schoolName": "Tech Elevator",
+    "company": "AmTrust Financial Services Inc.",
+    "grads": 12,
+    "state": "OH"
+  },
+  "datapoint #677": {
+    "schoolName": "Tech Elevator",
+    "company": "BNY Mellon",
+    "grads": 20,
+    "state": "OH"
+  },
+  "datapoint #678": {
+    "schoolName": "Tech Elevator",
+    "company": "DICK'S Sporting Goods",
+    "grads": 11,
+    "state": "OH"
+  },
+  "datapoint #679": {
+    "schoolName": "Tech Elevator",
+    "company": "Edaptive Computing Inc.",
+    "grads": 10,
+    "state": "OH"
+  },
+  "datapoint #680": {
+    "schoolName": "Tech Elevator",
+    "company": "Fifth Third Bank",
+    "grads": 13,
+    "state": "OH"
+  },
+  "datapoint #681": {
+    "schoolName": "Tech Elevator",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 138,
+    "state": "OH"
+  },
+  "datapoint #682": {
+    "schoolName": "Tech Elevator",
+    "company": "KeyBank",
+    "grads": 14,
+    "state": "OH"
+  },
+  "datapoint #683": {
+    "schoolName": "Tech Elevator",
+    "company": "London Computer Systems",
+    "grads": 17,
+    "state": "OH"
+  },
+  "datapoint #684": {
+    "schoolName": "Tech Elevator",
+    "company": "National General Insurance",
+    "grads": 39,
+    "state": "OH"
+  },
+  "datapoint #685": {
+    "schoolName": "Tech Elevator",
+    "company": "Nationwide",
+    "grads": 18,
+    "state": "OH"
+  },
+  "datapoint #686": {
+    "schoolName": "Tech Elevator",
+    "company": "Olive",
+    "grads": 21,
+    "state": "OH"
+  },
+  "datapoint #687": {
+    "schoolName": "Tech Elevator",
+    "company": "PNC",
+    "grads": 243,
+    "state": "OH"
+  },
+  "datapoint #688": {
+    "schoolName": "Tech Elevator",
+    "company": "Progressive Insurance",
+    "grads": 34,
+    "state": "OH"
+  },
+  "datapoint #689": {
+    "schoolName": "Tech Elevator",
+    "company": "United Wholesale Mortgage",
+    "grads": 15,
+    "state": "OH"
+  },
+  "datapoint #690": {
+    "schoolName": "We Can Code IT",
+    "company": "Acumen Solutions",
+    "grads": 5,
+    "state": "OH"
+  },
+  "datapoint #691": {
+    "schoolName": "We Can Code IT",
+    "company": "Apple",
+    "grads": 3,
+    "state": "OH"
+  },
+  "datapoint #692": {
+    "schoolName": "We Can Code IT",
+    "company": "Cardinal Health",
+    "grads": 4,
+    "state": "OH"
+  },
+  "datapoint #693": {
+    "schoolName": "We Can Code IT",
+    "company": "CoverMyMeds",
+    "grads": 3,
+    "state": "OH"
+  },
+  "datapoint #694": {
+    "schoolName": "We Can Code IT",
+    "company": "Foundation Software",
+    "grads": 4,
+    "state": "OH"
+  },
+  "datapoint #695": {
+    "schoolName": "We Can Code IT",
+    "company": "Huntington National Bank",
+    "grads": 6,
+    "state": "OH"
+  },
+  "datapoint #696": {
+    "schoolName": "We Can Code IT",
+    "company": "JPMorgan Chase & Co.",
+    "grads": 23,
+    "state": "OH"
+  },
+  "datapoint #697": {
+    "schoolName": "We Can Code IT",
+    "company": "KeyBank",
+    "grads": 4,
+    "state": "OH"
+  },
+  "datapoint #698": {
+    "schoolName": "We Can Code IT",
+    "company": "MoreSteam",
+    "grads": 3,
+    "state": "OH"
+  },
+  "datapoint #699": {
+    "schoolName": "We Can Code IT",
+    "company": "National General Insurance",
+    "grads": 5,
+    "state": "OH"
+  },
+  "datapoint #700": {
+    "schoolName": "We Can Code IT",
+    "company": "Nationwide",
+    "grads": 6,
+    "state": "OH"
+  },
+  "datapoint #701": {
+    "schoolName": "We Can Code IT",
+    "company": "PNC",
+    "grads": 9,
+    "state": "OH"
+  },
+  "datapoint #702": {
+    "schoolName": "We Can Code IT",
+    "company": "Progressive Insurance",
+    "grads": 14,
+    "state": "OH"
+  },
+  "datapoint #703": {
+    "schoolName": "We Can Code IT",
+    "company": "Root Inc.",
+    "grads": 4,
+    "state": "OH"
+  },
+  "datapoint #704": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "Adobe",
+    "grads": 3,
+    "state": "OR"
+  },
+  "datapoint #705": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "Allocations",
+    "grads": 2,
+    "state": "OR"
+  },
+  "datapoint #706": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "Emsi",
+    "grads": 2,
+    "state": "OR"
+  },
+  "datapoint #707": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "Esri",
+    "grads": 2,
+    "state": "OR"
+  },
+  "datapoint #708": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "EventBuilder",
+    "grads": 1,
+    "state": "OR"
+  },
+  "datapoint #709": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "Hatch Data",
+    "grads": 2,
+    "state": "OR"
+  },
+  "datapoint #710": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "HealthSparq",
+    "grads": 2,
+    "state": "OR"
+  },
+  "datapoint #711": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "Kinship",
+    "grads": 3,
+    "state": "OR"
+  },
+  "datapoint #712": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "Kroger Technology",
+    "grads": 2,
+    "state": "OR"
+  },
+  "datapoint #713": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "Lithia Motors",
+    "grads": 5,
+    "state": "OR"
+  },
+  "datapoint #714": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "Nike",
+    "grads": 4,
+    "state": "OR"
+  },
+  "datapoint #715": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "Schoolhouse",
+    "grads": 2,
+    "state": "OR"
+  },
+  "datapoint #716": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "Sprinklr",
+    "grads": 5,
+    "state": "OR"
+  },
+  "datapoint #717": {
+    "schoolName": "Alchemy Code Lab",
+    "company": "Squishymedia",
+    "grads": 2,
+    "state": "OR"
+  },
+  "datapoint #718": {
+    "schoolName": "Epicodus",
+    "company": "Ascend Software",
+    "grads": 6,
+    "state": "OR"
+  },
+  "datapoint #719": {
+    "schoolName": "Epicodus",
+    "company": "EyeCue Lab",
+    "grads": 7,
+    "state": "OR"
+  },
+  "datapoint #720": {
+    "schoolName": "Epicodus",
+    "company": "Goalden Hour",
+    "grads": 4,
+    "state": "OR"
+  },
+  "datapoint #721": {
+    "schoolName": "Epicodus",
+    "company": "Hubb",
+    "grads": 3,
+    "state": "OR"
+  },
+  "datapoint #722": {
+    "schoolName": "Epicodus",
+    "company": "iGrafx",
+    "grads": 4,
+    "state": "OR"
+  },
+  "datapoint #723": {
+    "schoolName": "Epicodus",
+    "company": "Microsoft Leap Apprenticeship Program",
+    "grads": 3,
+    "state": "OR"
+  },
+  "datapoint #724": {
+    "schoolName": "Epicodus",
+    "company": "National Society of Black Engineers",
+    "grads": 3,
+    "state": "OR"
+  },
+  "datapoint #725": {
+    "schoolName": "Epicodus",
+    "company": "New Relic Inc.",
+    "grads": 6,
+    "state": "OR"
+  },
+  "datapoint #726": {
+    "schoolName": "Epicodus",
+    "company": "Nike",
+    "grads": 6,
+    "state": "OR"
+  },
+  "datapoint #727": {
+    "schoolName": "Epicodus",
+    "company": "Nombolo",
+    "grads": 8,
+    "state": "OR"
+  },
+  "datapoint #728": {
+    "schoolName": "Epicodus",
+    "company": "PDXR",
+    "grads": 3,
+    "state": "OR"
+  },
+  "datapoint #729": {
+    "schoolName": "Epicodus",
+    "company": "Pollinate",
+    "grads": 3,
+    "state": "OR"
+  },
+  "datapoint #730": {
+    "schoolName": "Epicodus",
+    "company": "Tuft & Needle",
+    "grads": 3,
+    "state": "OR"
+  },
+  "datapoint #731": {
+    "schoolName": "Epicodus",
+    "company": "UGrow",
+    "grads": 5,
+    "state": "OR"
+  },
+  "datapoint #732": {
+    "schoolName": "The Tech Academy",
+    "company": "Adobe",
+    "grads": 2,
+    "state": "OR"
+  },
+  "datapoint #733": {
+    "schoolName": "The Tech Academy",
+    "company": "Amazon",
+    "grads": 3,
+    "state": "OR"
+  },
+  "datapoint #734": {
+    "schoolName": "The Tech Academy",
+    "company": "Conduent",
+    "grads": 3,
+    "state": "OR"
+  },
+  "datapoint #735": {
+    "schoolName": "The Tech Academy",
+    "company": "Epiq",
+    "grads": 2,
+    "state": "OR"
+  },
+  "datapoint #736": {
+    "schoolName": "The Tech Academy",
+    "company": "Intel Corporation",
+    "grads": 4,
+    "state": "OR"
+  },
+  "datapoint #737": {
+    "schoolName": "The Tech Academy",
+    "company": "Microsoft",
+    "grads": 6,
+    "state": "OR"
+  },
+  "datapoint #738": {
+    "schoolName": "The Tech Academy",
+    "company": "New Relic Inc.",
+    "grads": 5,
+    "state": "OR"
+  },
+  "datapoint #739": {
+    "schoolName": "The Tech Academy",
+    "company": "Nike",
+    "grads": 4,
+    "state": "OR"
+  },
+  "datapoint #740": {
+    "schoolName": "The Tech Academy",
+    "company": "Novus Labs",
+    "grads": 2,
+    "state": "OR"
+  },
+  "datapoint #741": {
+    "schoolName": "The Tech Academy",
+    "company": "Prosper I.T. Consulting",
+    "grads": 28,
+    "state": "OR"
+  },
+  "datapoint #742": {
+    "schoolName": "The Tech Academy",
+    "company": "Smarsh",
+    "grads": 2,
+    "state": "OR"
+  },
+  "datapoint #743": {
+    "schoolName": "The Tech Academy",
+    "company": "The Home Depot",
+    "grads": 2,
+    "state": "OR"
+  },
+  "datapoint #744": {
+    "schoolName": "Academy Pittsburgh",
+    "company": "Advanced Computer & Network Corp. (AC&NC) JetStor",
+    "grads": 1,
+    "state": "PA"
+  },
+  "datapoint #745": {
+    "schoolName": "Academy Pittsburgh",
+    "company": "Behaivior",
+    "grads": 1,
+    "state": "PA"
+  },
+  "datapoint #746": {
+    "schoolName": "Academy Pittsburgh",
+    "company": "Build412 Tech",
+    "grads": 1,
+    "state": "PA"
+  },
+  "datapoint #747": {
+    "schoolName": "Academy Pittsburgh",
+    "company": "CoverMyMeds",
+    "grads": 1,
+    "state": "PA"
+  },
+  "datapoint #748": {
+    "schoolName": "Academy Pittsburgh",
+    "company": "numo llc",
+    "grads": 3,
+    "state": "PA"
+  },
+  "datapoint #749": {
+    "schoolName": "Academy Pittsburgh",
+    "company": "PNC",
+    "grads": 5,
+    "state": "PA"
+  },
+  "datapoint #750": {
+    "schoolName": "Academy Pittsburgh",
+    "company": "Seeking a New Opportunity",
+    "grads": 1,
+    "state": "PA"
+  },
+  "datapoint #751": {
+    "schoolName": "Academy Pittsburgh",
+    "company": "Sparkbox",
+    "grads": 1,
+    "state": "PA"
+  },
+  "datapoint #752": {
+    "schoolName": "Academy Pittsburgh",
+    "company": "Velocity Works",
+    "grads": 1,
+    "state": "PA"
+  },
+  "datapoint #753": {
+    "schoolName": "Academy Pittsburgh",
+    "company": "Work Hard Solutions",
+    "grads": 1,
+    "state": "PA"
+  },
+  "datapoint #754": {
+    "schoolName": "Nashville Software School",
+    "company": "Accenture",
+    "grads": 39,
+    "state": "TN"
+  },
+  "datapoint #755": {
+    "schoolName": "Nashville Software School",
+    "company": "AllianceBernstein",
+    "grads": 11,
+    "state": "TN"
+  },
+  "datapoint #756": {
+    "schoolName": "Nashville Software School",
+    "company": "Aspire Health Inc.",
+    "grads": 10,
+    "state": "TN"
+  },
+  "datapoint #757": {
+    "schoolName": "Nashville Software School",
+    "company": "Built Technologies",
+    "grads": 18,
+    "state": "TN"
+  },
+  "datapoint #758": {
+    "schoolName": "Nashville Software School",
+    "company": "FortyAU",
+    "grads": 12,
+    "state": "TN"
+  },
+  "datapoint #759": {
+    "schoolName": "Nashville Software School",
+    "company": "HCA Healthcare",
+    "grads": 16,
+    "state": "TN"
+  },
+  "datapoint #760": {
+    "schoolName": "Nashville Software School",
+    "company": "Healthcare Bluebook",
+    "grads": 13,
+    "state": "TN"
+  },
+  "datapoint #761": {
+    "schoolName": "Nashville Software School",
+    "company": "HealthStream",
+    "grads": 13,
+    "state": "TN"
+  },
+  "datapoint #762": {
+    "schoolName": "Nashville Software School",
+    "company": "National General Insurance",
+    "grads": 10,
+    "state": "TN"
+  },
+  "datapoint #763": {
+    "schoolName": "Nashville Software School",
+    "company": "naviHealth",
+    "grads": 9,
+    "state": "TN"
+  },
+  "datapoint #764": {
+    "schoolName": "Nashville Software School",
+    "company": "Ncontracts",
+    "grads": 10,
+    "state": "TN"
+  },
+  "datapoint #765": {
+    "schoolName": "Nashville Software School",
+    "company": "Ramsey Solutions",
+    "grads": 13,
+    "state": "TN"
+  },
+  "datapoint #766": {
+    "schoolName": "Nashville Software School",
+    "company": "Tennessee Department of Transportation",
+    "grads": 9,
+    "state": "TN"
+  },
+  "datapoint #767": {
+    "schoolName": "Nashville Software School",
+    "company": "Vanderbilt University Medical Center",
+    "grads": 12,
+    "state": "TN"
+  },
+  "datapoint #768": {
+    "schoolName": "Codeup",
+    "company": "Accenture",
+    "grads": 17,
+    "state": "TX"
+  },
+  "datapoint #769": {
+    "schoolName": "Codeup",
+    "company": "Accenture Federal Services",
+    "grads": 31,
+    "state": "TX"
+  },
+  "datapoint #770": {
+    "schoolName": "Codeup",
+    "company": "Appddiction Studio",
+    "grads": 20,
+    "state": "TX"
+  },
+  "datapoint #771": {
+    "schoolName": "Codeup",
+    "company": "Booz Allen Hamilton",
+    "grads": 8,
+    "state": "TX"
+  },
+  "datapoint #772": {
+    "schoolName": "Codeup",
+    "company": "CaptureRx",
+    "grads": 9,
+    "state": "TX"
+  },
+  "datapoint #773": {
+    "schoolName": "Codeup",
+    "company": "Cognizant",
+    "grads": 13,
+    "state": "TX"
+  },
+  "datapoint #774": {
+    "schoolName": "Codeup",
+    "company": "Guardian Premier Solutions (GPS) LLC",
+    "grads": 9,
+    "state": "TX"
+  },
+  "datapoint #775": {
+    "schoolName": "Codeup",
+    "company": "H-E-B",
+    "grads": 9,
+    "state": "TX"
+  },
+  "datapoint #776": {
+    "schoolName": "Codeup",
+    "company": "Silotech Group Inc",
+    "grads": 5,
+    "state": "TX"
+  },
+  "datapoint #777": {
+    "schoolName": "Codeup",
+    "company": "SWBC",
+    "grads": 10,
+    "state": "TX"
+  },
+  "datapoint #778": {
+    "schoolName": "Codeup",
+    "company": "TaskUs",
+    "grads": 6,
+    "state": "TX"
+  },
+  "datapoint #779": {
+    "schoolName": "Codeup",
+    "company": "USAA",
+    "grads": 47,
+    "state": "TX"
+  },
+  "datapoint #780": {
+    "schoolName": "Inventive Academy",
+    "company": "Darwin Homes - Property Management",
+    "grads": 1,
+    "state": "TX"
+  },
+  "datapoint #781": {
+    "schoolName": "Inventive Academy",
+    "company": "eCommission",
+    "grads": 1,
+    "state": "TX"
+  },
+  "datapoint #782": {
+    "schoolName": "Inventive Academy",
+    "company": "Graafschap College",
+    "grads": 1,
+    "state": "TX"
+  },
+  "datapoint #783": {
+    "schoolName": "Inventive Academy",
+    "company": "InstiWitty Media Studios",
+    "grads": 1,
+    "state": "TX"
+  },
+  "datapoint #784": {
+    "schoolName": "Inventive Academy",
+    "company": "Itzu Jobs",
+    "grads": 1,
+    "state": "TX"
+  },
+  "datapoint #785": {
+    "schoolName": "Inventive Academy",
+    "company": "MB Aerospace",
+    "grads": 1,
+    "state": "TX"
+  },
+  "datapoint #786": {
+    "schoolName": "Inventive Academy",
+    "company": "Mindtree",
+    "grads": 1,
+    "state": "TX"
+  },
+  "datapoint #787": {
+    "schoolName": "Inventive Academy",
+    "company": "Point Security LLC",
+    "grads": 1,
+    "state": "TX"
+  },
+  "datapoint #788": {
+    "schoolName": "Inventive Academy",
+    "company": "Polamer Precision Inc.",
+    "grads": 1,
+    "state": "TX"
+  },
+  "datapoint #789": {
+    "schoolName": "Inventive Academy",
+    "company": "RepHQ LLC",
+    "grads": 2,
+    "state": "TX"
+  },
+  "datapoint #790": {
+    "schoolName": "Inventive Academy",
+    "company": "Subh Muhurat",
+    "grads": 1,
+    "state": "TX"
+  },
+  "datapoint #791": {
+    "schoolName": "UT Austin Boot Camps",
+    "company": "Digital Pharmacist Inc.",
+    "grads": 1,
+    "state": "TX"
+  },
+  "datapoint #792": {
+    "schoolName": "UT Austin Boot Camps",
+    "company": "Siemens",
+    "grads": 1,
+    "state": "TX"
+  },
+  "datapoint #793": {
+    "schoolName": "UT Austin Boot Camps",
+    "company": "Visio Lending",
+    "grads": 1,
+    "state": "TX"
+  },
+  "datapoint #794": {
+    "schoolName": "Bottega Career Services",
+    "company": "Alder Holdings LLC",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #795": {
+    "schoolName": "Bottega Career Services",
+    "company": "Amazon",
+    "grads": 5,
+    "state": "UT"
+  },
+  "datapoint #796": {
+    "schoolName": "Bottega Career Services",
+    "company": "Avii",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #797": {
+    "schoolName": "Bottega Career Services",
+    "company": "Coforge",
+    "grads": 4,
+    "state": "UT"
+  },
+  "datapoint #798": {
+    "schoolName": "Bottega Career Services",
+    "company": "Conscience VC",
+    "grads": 6,
+    "state": "UT"
+  },
+  "datapoint #799": {
+    "schoolName": "Bottega Career Services",
+    "company": "Dev Pipeline",
+    "grads": 4,
+    "state": "UT"
+  },
+  "datapoint #800": {
+    "schoolName": "Bottega Career Services",
+    "company": "Edge by Ascential",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #801": {
+    "schoolName": "Bottega Career Services",
+    "company": "Hoverstate",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #802": {
+    "schoolName": "Bottega Career Services",
+    "company": "MX",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #803": {
+    "schoolName": "Bottega Career Services",
+    "company": "Upwork",
+    "grads": 4,
+    "state": "UT"
+  },
+  "datapoint #804": {
+    "schoolName": "Devmountain",
+    "company": "Divvy | Inc.",
+    "grads": 14,
+    "state": "UT"
+  },
+  "datapoint #805": {
+    "schoolName": "Devmountain",
+    "company": "MX",
+    "grads": 22,
+    "state": "UT"
+  },
+  "datapoint #806": {
+    "schoolName": "Devmountain",
+    "company": "Overstock.com",
+    "grads": 16,
+    "state": "UT"
+  },
+  "datapoint #807": {
+    "schoolName": "Devmountain",
+    "company": "Pluralsight",
+    "grads": 18,
+    "state": "UT"
+  },
+  "datapoint #808": {
+    "schoolName": "Devmountain",
+    "company": "Podium",
+    "grads": 25,
+    "state": "UT"
+  },
+  "datapoint #809": {
+    "schoolName": "Devmountain",
+    "company": "projekt202",
+    "grads": 8,
+    "state": "UT"
+  },
+  "datapoint #810": {
+    "schoolName": "Devmountain",
+    "company": "TCN",
+    "grads": 6,
+    "state": "UT"
+  },
+  "datapoint #811": {
+    "schoolName": "Devmountain",
+    "company": "The Church of Jesus Christ of Latter-day Saints",
+    "grads": 17,
+    "state": "UT"
+  },
+  "datapoint #812": {
+    "schoolName": "Devmountain",
+    "company": "Veryable",
+    "grads": 7,
+    "state": "UT"
+  },
+  "datapoint #813": {
+    "schoolName": "Devmountain",
+    "company": "Vivint",
+    "grads": 14,
+    "state": "UT"
+  },
+  "datapoint #814": {
+    "schoolName": "Devmountain",
+    "company": "Workfront",
+    "grads": 7,
+    "state": "UT"
+  },
+  "datapoint #815": {
+    "schoolName": "DevPoint Labs",
+    "company": "Acima Credit",
+    "grads": 4,
+    "state": "UT"
+  },
+  "datapoint #816": {
+    "schoolName": "DevPoint Labs",
+    "company": "ARUP Laboratories",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #817": {
+    "schoolName": "DevPoint Labs",
+    "company": "Direct®",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #818": {
+    "schoolName": "DevPoint Labs",
+    "company": "Divvy | Inc.",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #819": {
+    "schoolName": "DevPoint Labs",
+    "company": "ExpertVoice",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #820": {
+    "schoolName": "DevPoint Labs",
+    "company": "Fidelity Investments",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #821": {
+    "schoolName": "DevPoint Labs",
+    "company": "Goldman Sachs",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #822": {
+    "schoolName": "DevPoint Labs",
+    "company": "Instructure",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #823": {
+    "schoolName": "DevPoint Labs",
+    "company": "Mavenlink",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #824": {
+    "schoolName": "DevPoint Labs",
+    "company": "MX",
+    "grads": 5,
+    "state": "UT"
+  },
+  "datapoint #825": {
+    "schoolName": "DevPoint Labs",
+    "company": "Nav Inc.",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #826": {
+    "schoolName": "DevPoint Labs",
+    "company": "Shareworks by Morgan Stanley",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #827": {
+    "schoolName": "DevPoint Labs",
+    "company": "The Church of Jesus Christ of Latter-day Saints",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #828": {
+    "schoolName": "DevPoint Labs",
+    "company": "Verisys Corporation",
+    "grads": 6,
+    "state": "UT"
+  },
+  "datapoint #829": {
+    "schoolName": "V School",
+    "company": "Adobe",
+    "grads": 9,
+    "state": "UT"
+  },
+  "datapoint #830": {
+    "schoolName": "V School",
+    "company": "Conscience VC",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #831": {
+    "schoolName": "V School",
+    "company": "Divvy | Inc.",
+    "grads": 4,
+    "state": "UT"
+  },
+  "datapoint #832": {
+    "schoolName": "V School",
+    "company": "Fidelity Investments",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #833": {
+    "schoolName": "V School",
+    "company": "IBM",
+    "grads": 2,
+    "state": "UT"
+  },
+  "datapoint #834": {
+    "schoolName": "V School",
+    "company": "Impartner Software",
+    "grads": 2,
+    "state": "UT"
+  },
+  "datapoint #835": {
+    "schoolName": "V School",
+    "company": "O.C. Tanner",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #836": {
+    "schoolName": "V School",
+    "company": "Smash Creative",
+    "grads": 4,
+    "state": "UT"
+  },
+  "datapoint #837": {
+    "schoolName": "V School",
+    "company": "Verisage Custom Software",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #838": {
+    "schoolName": "V School",
+    "company": "VMware",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #839": {
+    "schoolName": "V School",
+    "company": "Weave HQ",
+    "grads": 2,
+    "state": "UT"
+  },
+  "datapoint #840": {
+    "schoolName": "V School",
+    "company": "XANT",
+    "grads": 3,
+    "state": "UT"
+  },
+  "datapoint #841": {
+    "schoolName": "Burlington Code Academy",
+    "company": "Asure Software",
+    "grads": 2,
+    "state": "VT"
+  },
+  "datapoint #842": {
+    "schoolName": "Burlington Code Academy",
+    "company": "Burton Snowboards",
+    "grads": 1,
+    "state": "VT"
+  },
+  "datapoint #843": {
+    "schoolName": "Burlington Code Academy",
+    "company": "Dealer.com",
+    "grads": 4,
+    "state": "VT"
+  },
+  "datapoint #844": {
+    "schoolName": "Burlington Code Academy",
+    "company": "EZ-Probate Inc.",
+    "grads": 1,
+    "state": "VT"
+  },
+  "datapoint #845": {
+    "schoolName": "Burlington Code Academy",
+    "company": "Impulse Creative",
+    "grads": 1,
+    "state": "VT"
+  },
+  "datapoint #846": {
+    "schoolName": "Burlington Code Academy",
+    "company": "Jay Peak Resort",
+    "grads": 1,
+    "state": "VT"
+  },
+  "datapoint #847": {
+    "schoolName": "Burlington Code Academy",
+    "company": "New Breed",
+    "grads": 2,
+    "state": "VT"
+  },
+  "datapoint #848": {
+    "schoolName": "Burlington Code Academy",
+    "company": "oK",
+    "grads": 3,
+    "state": "VT"
+  },
+  "datapoint #849": {
+    "schoolName": "Burlington Code Academy",
+    "company": "Select Design",
+    "grads": 2,
+    "state": "VT"
+  },
+  "datapoint #850": {
+    "schoolName": "Burlington Code Academy",
+    "company": "trUStr ®",
+    "grads": 1,
+    "state": "VT"
+  },
+  "datapoint #851": {
+    "schoolName": "Burlington Code Academy",
+    "company": "Vermont Systems",
+    "grads": 1,
+    "state": "VT"
+  },
+  "datapoint #852": {
+    "schoolName": "Code Fellows",
+    "company": "Abdul Aziz Al Ghurair School of Advanced Computing (ASAC)",
+    "grads": 6,
+    "state": "WA"
+  },
+  "datapoint #853": {
+    "schoolName": "Code Fellows",
+    "company": "Amazon",
+    "grads": 48,
+    "state": "WA"
+  },
+  "datapoint #854": {
+    "schoolName": "Code Fellows",
+    "company": "Amazon Web Services (AWS)",
+    "grads": 42,
+    "state": "WA"
+  },
+  "datapoint #855": {
+    "schoolName": "Code Fellows",
+    "company": "Avalara",
+    "grads": 13,
+    "state": "WA"
+  },
+  "datapoint #856": {
+    "schoolName": "Code Fellows",
+    "company": "Expedia Group",
+    "grads": 13,
+    "state": "WA"
+  },
+  "datapoint #857": {
+    "schoolName": "Code Fellows",
+    "company": "F5",
+    "grads": 7,
+    "state": "WA"
+  },
+  "datapoint #858": {
+    "schoolName": "Code Fellows",
+    "company": "Microsoft",
+    "grads": 100,
+    "state": "WA"
+  },
+  "datapoint #859": {
+    "schoolName": "Code Fellows",
+    "company": "Nike",
+    "grads": 7,
+    "state": "WA"
+  },
+  "datapoint #860": {
+    "schoolName": "Code Fellows",
+    "company": "Nordstrom",
+    "grads": 11,
+    "state": "WA"
+  },
+  "datapoint #861": {
+    "schoolName": "Code Fellows",
+    "company": "SAP Concur",
+    "grads": 7,
+    "state": "WA"
+  },
+  "datapoint #862": {
+    "schoolName": "Code Fellows",
+    "company": "Slalom Build",
+    "grads": 8,
+    "state": "WA"
+  },
+  "datapoint #863": {
+    "schoolName": "Code Fellows",
+    "company": "Smartsheet",
+    "grads": 6,
+    "state": "WA"
+  },
+  "datapoint #864": {
+    "schoolName": "Code Fellows",
+    "company": "US Army",
+    "grads": 9,
+    "state": "WA"
+  },
+  "datapoint #865": {
+    "schoolName": "Code Fellows",
+    "company": "Zonar Systems",
+    "grads": 10,
+    "state": "WA"
+  },
+  "datapoint #866": {
+    "schoolName": "Coding Dojo",
+    "company": "Accenture",
+    "grads": 13,
+    "state": "WA"
+  },
+  "datapoint #867": {
+    "schoolName": "Coding Dojo",
+    "company": "Amazon",
+    "grads": 52,
+    "state": "WA"
+  },
+  "datapoint #868": {
+    "schoolName": "Coding Dojo",
+    "company": "Amazon Web Services (AWS)",
+    "grads": 14,
+    "state": "WA"
+  },
+  "datapoint #869": {
+    "schoolName": "Coding Dojo",
+    "company": "Conscience VC",
+    "grads": 10,
+    "state": "WA"
+  },
+  "datapoint #870": {
+    "schoolName": "Coding Dojo",
+    "company": "Google",
+    "grads": 11,
+    "state": "WA"
+  },
+  "datapoint #871": {
+    "schoolName": "Coding Dojo",
+    "company": "Infosys",
+    "grads": 10,
+    "state": "WA"
+  },
+  "datapoint #872": {
+    "schoolName": "Coding Dojo",
+    "company": "Microsoft",
+    "grads": 53,
+    "state": "WA"
+  },
+  "datapoint #873": {
+    "schoolName": "Coding Dojo",
+    "company": "Mindtree",
+    "grads": 9,
+    "state": "WA"
+  },
+  "datapoint #874": {
+    "schoolName": "Coding Dojo",
+    "company": "The Difference Engine",
+    "grads": 5,
+    "state": "WA"
+  },
+  "datapoint #875": {
+    "schoolName": "Coding Dojo",
+    "company": "Upwork",
+    "grads": 8,
+    "state": "WA"
+  },
+  "datapoint #876": {
+    "schoolName": "Coding Dojo",
+    "company": "US Army",
+    "grads": 12,
+    "state": "WA"
+  },
+  "datapoint #877": {
+    "schoolName": "Nucamp Coding Bootcamp",
+    "company": "Amazon",
+    "grads": 8,
+    "state": "WA"
+  },
+  "datapoint #878": {
+    "schoolName": "Nucamp Coding Bootcamp",
+    "company": "Apple",
+    "grads": 3,
+    "state": "WA"
+  },
+  "datapoint #879": {
+    "schoolName": "Nucamp Coding Bootcamp",
+    "company": "Infosys",
+    "grads": 3,
+    "state": "WA"
+  },
+  "datapoint #880": {
+    "schoolName": "Nucamp Coding Bootcamp",
+    "company": "Microsoft",
+    "grads": 9,
+    "state": "WA"
+  },
+  "datapoint #881": {
+    "schoolName": "Nucamp Coding Bootcamp",
+    "company": "TEKsystems",
+    "grads": 3,
+    "state": "WA"
+  },
+  "datapoint #882": {
+    "schoolName": "Nucamp Coding Bootcamp",
+    "company": "United States Air Force",
+    "grads": 3,
+    "state": "WA"
+  },
+  "datapoint #883": {
+    "schoolName": "Nucamp Coding Bootcamp",
+    "company": "US Army",
+    "grads": 3,
+    "state": "WA"
+  },
+  "datapoint #884": {
+    "schoolName": "Nucamp Coding Bootcamp",
+    "company": "Verizon",
+    "grads": 3,
+    "state": "WA"
+  },
+  "datapoint #885": {
+    "schoolName": "Nucamp Coding Bootcamp",
+    "company": "Walgreens",
+    "grads": 3,
+    "state": "WA"
+  },
+  "datapoint #886": {
+    "schoolName": "Nucamp Coding Bootcamp",
+    "company": "Walmart",
+    "grads": 3,
+    "state": "WA"
+  },
+  "datapoint #887": {
+    "schoolName": "The Array School of Technology and Design",
+    "company": "Advent Information Systems L.L.C.",
+    "grads": 2,
+    "state": "WY"
+  },
+  "datapoint #888": {
+    "schoolName": "The Array School of Technology and Design",
+    "company": "Campbell County Public Library System",
+    "grads": 1,
+    "state": "WY"
+  },
+  "datapoint #889": {
+    "schoolName": "The Array School of Technology and Design",
+    "company": "Holland & Hart LLP",
+    "grads": 1,
+    "state": "WY"
+  },
+  "datapoint #890": {
+    "schoolName": "The Array School of Technology and Design",
+    "company": "Laramie County Library System",
+    "grads": 1,
+    "state": "WY"
+  },
+  "datapoint #891": {
+    "schoolName": "The Array School of Technology and Design",
+    "company": "Medicine Bow Technologies Inc.",
+    "grads": 1,
+    "state": "WY"
+  },
+  "datapoint #892": {
+    "schoolName": "The Array School of Technology and Design",
+    "company": "PBR MARKETING & PRINTING SOLUTIONS",
+    "grads": 1,
+    "state": "WY"
+  },
+  "datapoint #893": {
+    "schoolName": "The Array School of Technology and Design",
+    "company": "State of Wyoming",
+    "grads": 1,
+    "state": "WY"
+  },
+  "datapoint #894": {
+    "schoolName": "The Array School of Technology and Design",
+    "company": "The TJX Companies Inc.",
+    "grads": 1,
+    "state": "WY"
+  },
+  "datapoint #895": {
+    "schoolName": "The Array School of Technology and Design",
+    "company": "University of Wyoming",
+    "grads": 1,
+    "state": "WY"
+  },
+  "datapoint #896": {
+    "schoolName": "Lambda School",
+    "company": "AAK TELE-SCIENCE Inc.",
+    "grads": 6,
+    "state": ""
+  },
+  "datapoint #897": {
+    "schoolName": "Lambda School",
+    "company": "Amazon",
+    "grads": 20,
+    "state": ""
+  },
+  "datapoint #898": {
+    "schoolName": "Lambda School",
+    "company": "Amazon Web Services (AWS)",
+    "grads": 20,
+    "state": ""
+  },
+  "datapoint #899": {
+    "schoolName": "Lambda School",
+    "company": "Nexient",
+    "grads": 24,
+    "state": ""
+  },
+  "datapoint #900": {
+    "schoolName": "Lambda School",
+    "company": "Northwestern Mutual",
+    "grads": 12,
+    "state": ""
+  },
+  "datapoint #901": {
+    "schoolName": "Lambda School",
+    "company": "Sirch",
+    "grads": 8,
+    "state": ""
+  },
+  "datapoint #902": {
+    "schoolName": "Lambda School",
+    "company": "Sterling Bank Plc",
+    "grads": 5,
+    "state": ""
+  },
+  "datapoint #903": {
+    "schoolName": "Lambda School",
+    "company": "Story Squad",
+    "grads": 15,
+    "state": ""
+  },
+  "datapoint #904": {
+    "schoolName": "Lambda School",
+    "company": "Upwork",
+    "grads": 9,
+    "state": ""
+  },
+  "datapoint #905": {
+    "schoolName": "The Iron Yard",
+    "company": "Benefitfocus",
+    "grads": 5,
+    "state": ""
+  },
+  "datapoint #906": {
+    "schoolName": "The Iron Yard",
+    "company": "Blackbaud",
+    "grads": 10,
+    "state": ""
+  },
+  "datapoint #907": {
+    "schoolName": "The Iron Yard",
+    "company": "BoomTown - Real Estate Platform",
+    "grads": 5,
+    "state": ""
+  },
+  "datapoint #908": {
+    "schoolName": "The Iron Yard",
+    "company": "Booz Allen Hamilton",
+    "grads": 8,
+    "state": ""
+  },
+  "datapoint #909": {
+    "schoolName": "The Iron Yard",
+    "company": "Cox Automotive Inc.",
+    "grads": 5,
+    "state": ""
+  },
+  "datapoint #910": {
+    "schoolName": "The Iron Yard",
+    "company": "Experian's Clarity Services",
+    "grads": 4,
+    "state": ""
+  },
+  "datapoint #911": {
+    "schoolName": "The Iron Yard",
+    "company": "Liberty Mutual Insurance",
+    "grads": 13,
+    "state": ""
+  },
+  "datapoint #912": {
+    "schoolName": "The Iron Yard",
+    "company": "Pendo.io",
+    "grads": 4,
+    "state": ""
+  },
+  "datapoint #913": {
+    "schoolName": "The Iron Yard",
+    "company": "Red Hat",
+    "grads": 7,
+    "state": ""
+  },
+  "datapoint #914": {
+    "schoolName": "The Iron Yard",
+    "company": "Red Ventures",
+    "grads": 6,
+    "state": ""
+  },
+  "datapoint #915": {
+    "schoolName": "The Iron Yard",
+    "company": "Relias",
+    "grads": 4,
+    "state": ""
+  },
+  "datapoint #916": {
+    "schoolName": "The Iron Yard",
+    "company": "Salesforce",
+    "grads": 5,
+    "state": ""
+  },
+  "datapoint #917": {
+    "schoolName": "The Iron Yard",
+    "company": "Social Security Administration",
+    "grads": 4,
+    "state": ""
+  },
+  "datapoint #918": {
+    "schoolName": "The Iron Yard",
+    "company": "Somo Global",
+    "grads": 5,
+    "state": ""
+  },
+  "datapoint #919": {
+    "schoolName": "Wild Code School",
+    "company": "Apside",
+    "grads": 17,
+    "state": ""
+  },
+  "datapoint #920": {
+    "schoolName": "Wild Code School",
+    "company": "Betclic Group",
+    "grads": 4,
+    "state": ""
+  },
+  "datapoint #921": {
+    "schoolName": "Wild Code School",
+    "company": "Capgemini",
+    "grads": 14,
+    "state": ""
+  },
+  "datapoint #922": {
+    "schoolName": "Wild Code School",
+    "company": "Cdiscount",
+    "grads": 6,
+    "state": ""
+  },
+  "datapoint #923": {
+    "schoolName": "Wild Code School",
+    "company": "CGI",
+    "grads": 23,
+    "state": ""
+  },
+  "datapoint #924": {
+    "schoolName": "Wild Code School",
+    "company": "Clever Age",
+    "grads": 6,
+    "state": ""
+  },
+  "datapoint #925": {
+    "schoolName": "Wild Code School",
+    "company": "DECATHLON FRANCE",
+    "grads": 5,
+    "state": ""
+  },
+  "datapoint #926": {
+    "schoolName": "Wild Code School",
+    "company": "Enedis",
+    "grads": 5,
+    "state": ""
+  },
+  "datapoint #927": {
+    "schoolName": "Wild Code School",
+    "company": "Inetum",
+    "grads": 5,
+    "state": ""
+  },
+  "datapoint #928": {
+    "schoolName": "Wild Code School",
+    "company": "ITDM Group",
+    "grads": 4,
+    "state": ""
+  },
+  "datapoint #929": {
+    "schoolName": "Wild Code School",
+    "company": "La Pilule Rouge",
+    "grads": 11,
+    "state": ""
+  },
+  "datapoint #930": {
+    "schoolName": "Wild Code School",
+    "company": "onepoint",
+    "grads": 25,
+    "state": ""
+  },
+  "datapoint #931": {
+    "schoolName": "Wild Code School",
+    "company": "OpenClassrooms",
+    "grads": 11,
+    "state": ""
+  },
+  "datapoint #932": {
+    "schoolName": "Wild Code School",
+    "company": "Pôle emploi",
+    "grads": 10,
+    "state": ""
+  }
+}
