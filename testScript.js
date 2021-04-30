@@ -5,25 +5,28 @@ console.log(
     .join(",")
     .split("\n")
     .reduce((obj, cv, idx) => {
-      if (obj[cv.split(",")[0]]) {
+      const currentValueArray = cv.split(",");
+
+      if (obj[currentValueArray[0]]) {
         return (
-          (obj[cv.split(",")[0]] = {
-            ...obj[cv.split(",")[0]],
+          (obj[currentValueArray[0]] = {
+            ...obj[currentValueArray[0]],
             [idx]: {
-              state: String(cv.split(",").slice(1, 2)),
-              grads: String(cv.split(",").slice(2, 3)),
-              company: String(cv.split(",").slice(3)),
+              company: String(currentValueArray.slice(3)),
+              state: String(currentValueArray.slice(1, 2)),
+              grads: Number(currentValueArray.slice(2, 3)),
             },
           }),
           obj
         );
       }
+
       return (
-        (obj[cv.split(",")[0]] = {
+        (obj[currentValueArray[0]] = {
           [idx]: {
-            state: String(cv.split(",").slice(1, 2)),
-            grads: String(cv.split(",").slice(2, 3)),
-            company: String(cv.split(",").slice(3)),
+            company: String(currentValueArray.slice(3)),
+            state: String(currentValueArray.slice(1, 2)),
+            grads: Number(currentValueArray.slice(2, 3)),
           },
         }),
         obj
