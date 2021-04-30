@@ -13,8 +13,8 @@ console.log(
             ...obj[currentValueArray[0]],
             [idx]: {
               company: String(currentValueArray.slice(3)),
-              state: String(currentValueArray.slice(1, 2)),
               grads: Number(currentValueArray.slice(2, 3)),
+              state: String(currentValueArray.slice(1, 2)),
             },
           }),
           obj
@@ -25,8 +25,8 @@ console.log(
         (obj[currentValueArray[0]] = {
           [idx]: {
             company: String(currentValueArray.slice(3)),
-            state: String(currentValueArray.slice(1, 2)),
             grads: Number(currentValueArray.slice(2, 3)),
+            state: String(currentValueArray.slice(1, 2)),
           },
         }),
         obj
