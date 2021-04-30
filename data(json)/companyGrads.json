@@ -1,0 +1,1435 @@
+{
+  "School": { "0": { "company": "Company", "grads": NaN, "state": "State" } },
+  "TrueCoders": {
+    "1": { "company": "Carrigans Public House", "grads": 2, "state": "AL" },
+    "2": { "company": "Crossvale", "grads": 2, "state": "AL" },
+    "3": { "company": "Daxko", "grads": 2, "state": "AL" },
+    "4": { "company": "Disability:IN", "grads": 1, "state": "AL" },
+    "5": { "company": "FIS", "grads": 3, "state": "AL" },
+    "6": { "company": "Giant Eagle Inc.", "grads": 1, "state": "AL" },
+    "7": { "company": "Healthgrades", "grads": 3, "state": "AL" },
+    "8": { "company": "L&C Designs", "grads": 2, "state": "AL" },
+    "9": { "company": "Marshmello & Friends Co.", "grads": 2, "state": "AL" },
+    "10": { "company": "NextSite LLC", "grads": 1, "state": "AL" },
+    "11": { "company": "RxBenefits Inc.", "grads": 2, "state": "AL" },
+    "12": { "company": "ShadowDragon", "grads": 1, "state": "AL" },
+    "13": { "company": "Target", "grads": 2, "state": "AL" },
+    "14": { "company": "VIPKid", "grads": 2, "state": "AL" }
+  },
+  "University of Arizona Boot Camps": {
+    "15": { "company": "AmpleTech Refresh", "grads": 1, "state": "AZ" },
+    "16": { "company": "Empereon Constar", "grads": 1, "state": "AZ" },
+    "17": { "company": "ORIANA solutions, LLC", "grads": 1, "state": "AZ" },
+    "18": { "company": "Plexus Worldwide", "grads": 1, "state": "AZ" },
+    "19": { "company": "Waddell & Reed", "grads": 1, "state": "AZ" }
+  },
+  "Woz U": {
+    "20": { "company": "Accenture", "grads": 2, "state": "AZ" },
+    "21": { "company": "Amazon", "grads": 6, "state": "AZ" },
+    "22": { "company": "Apple", "grads": 3, "state": "AZ" },
+    "23": { "company": "DoorDash", "grads": 3, "state": "AZ" },
+    "24": { "company": "Facebook", "grads": 2, "state": "AZ" },
+    "25": { "company": "Infosys", "grads": 6, "state": "AZ" },
+    "26": { "company": "Intel Corporation", "grads": 2, "state": "AZ" },
+    "27": { "company": "Revature", "grads": 2, "state": "AZ" },
+    "28": {
+      "company": "Southern Careers Institute",
+      "grads": 3,
+      "state": "AZ"
+    },
+    "29": { "company": "Uber", "grads": 3, "state": "AZ" },
+    "30": {
+      "company": "United States Postal Service",
+      "grads": 3,
+      "state": "AZ"
+    },
+    "31": { "company": "US Army", "grads": 4, "state": "AZ" },
+    "32": { "company": "Verizon", "grads": 3, "state": "AZ" }
+  },
+  "Bloc": {
+    "33": { "company": "Airbnb", "grads": 2, "state": "CA" },
+    "34": { "company": "Apple", "grads": 15, "state": "CA" },
+    "35": { "company": "Capital One", "grads": 3, "state": "CA" },
+    "36": { "company": "CareerFoundry", "grads": 3, "state": "CA" },
+    "37": { "company": "Google", "grads": 13, "state": "CA" },
+    "38": { "company": "HubSpot", "grads": 3, "state": "CA" },
+    "39": { "company": "Microsoft", "grads": 14, "state": "CA" },
+    "40": { "company": "ServiceNow", "grads": 2, "state": "CA" },
+    "41": { "company": "Starbucks", "grads": 3, "state": "CA" },
+    "42": { "company": "Thinkful", "grads": 10, "state": "CA" }
+  },
+  "CodingNomads": {
+    "43": { "company": "Abarca Health", "grads": 1, "state": "CA" },
+    "44": { "company": "Answer Digital", "grads": 1, "state": "CA" },
+    "45": { "company": "Apogee Integration LLC", "grads": 1, "state": "CA" },
+    "46": { "company": "BCG Platinion", "grads": 1, "state": "CA" },
+    "47": { "company": "Bit", "grads": 1, "state": "CA" },
+    "48": { "company": "Citrix", "grads": 1, "state": "CA" },
+    "49": { "company": "Experian", "grads": 1, "state": "CA" },
+    "50": { "company": "Floyd County Productions", "grads": 1, "state": "CA" },
+    "51": { "company": "Nucamp Coding Bootcamp", "grads": 1, "state": "CA" },
+    "52": { "company": "Philips", "grads": 1, "state": "CA" },
+    "53": { "company": "VIKTOR", "grads": 1, "state": "CA" },
+    "54": { "company": "Webhelp", "grads": 1, "state": "CA" }
+  },
+  "Dev Bootcamp": {
+    "55": { "company": "Airbnb", "grads": 4, "state": "CA" },
+    "56": { "company": "Amazon", "grads": 14, "state": "CA" },
+    "57": { "company": "Chime", "grads": 7, "state": "CA" },
+    "58": { "company": "Datadog", "grads": 15, "state": "CA" },
+    "59": { "company": "Enova International", "grads": 6, "state": "CA" },
+    "60": { "company": "Google", "grads": 17, "state": "CA" },
+    "61": { "company": "Home Chef", "grads": 10, "state": "CA" },
+    "62": { "company": "Indeed.com", "grads": 5, "state": "CA" },
+    "63": { "company": "Salesforce", "grads": 13, "state": "CA" },
+    "64": { "company": "ServiceNow", "grads": 4, "state": "CA" },
+    "65": { "company": "Stitch Fix", "grads": 7, "state": "CA" },
+    "66": { "company": "ThoughtWorks", "grads": 8, "state": "CA" }
+  },
+  "Hack Reactor": {
+    "67": { "company": "Amazon", "grads": 45, "state": "CA" },
+    "68": { "company": "Apple", "grads": 26, "state": "CA" },
+    "69": { "company": "Capital One", "grads": 16, "state": "CA" },
+    "70": { "company": "Facebook", "grads": 74, "state": "CA" },
+    "71": { "company": "Google", "grads": 92, "state": "CA" },
+    "72": { "company": "IBM", "grads": 44, "state": "CA" },
+    "73": { "company": "JPMorgan Chase & Co.", "grads": 23, "state": "CA" },
+    "74": { "company": "LinkedIn", "grads": 25, "state": "CA" },
+    "75": { "company": "Microsoft", "grads": 21, "state": "CA" },
+    "76": { "company": "Personal Projects", "grads": 34, "state": "CA" },
+    "77": { "company": "Uber", "grads": 20, "state": "CA" }
+  },
+  "Hackbright Academy": {
+    "78": { "company": "Apple", "grads": 10, "state": "CA" },
+    "79": { "company": "Bloomberg LP", "grads": 6, "state": "CA" },
+    "80": { "company": "Datadog", "grads": 11, "state": "CA" },
+    "81": { "company": "Dropbox", "grads": 5, "state": "CA" },
+    "82": { "company": "Facebook", "grads": 17, "state": "CA" },
+    "83": { "company": "Fastly", "grads": 5, "state": "CA" },
+    "84": { "company": "Google", "grads": 25, "state": "CA" },
+    "85": { "company": "LinkedIn", "grads": 5, "state": "CA" },
+    "86": { "company": "Lyft", "grads": 6, "state": "CA" },
+    "87": { "company": "PagerDuty", "grads": 8, "state": "CA" },
+    "88": { "company": "Salesforce", "grads": 6, "state": "CA" },
+    "89": { "company": "Slack", "grads": 9, "state": "CA" },
+    "90": { "company": "Target", "grads": 27, "state": "CA" },
+    "91": { "company": "Twilio Inc.", "grads": 26, "state": "CA" }
+  },
+  "Holberton School": {
+    "92": { "company": "Altimetrik", "grads": 8, "state": "CA" },
+    "93": { "company": "Apple", "grads": 5, "state": "CA" },
+    "94": { "company": "Avantica", "grads": 5, "state": "CA" },
+    "95": { "company": "COMFAMA", "grads": 10, "state": "CA" },
+    "96": { "company": "Globant", "grads": 16, "state": "CA" },
+    "97": { "company": "Koombea", "grads": 12, "state": "CA" },
+    "98": { "company": "Mercado Libre", "grads": 4, "state": "CA" },
+    "99": { "company": "Rappi", "grads": 8, "state": "CA" },
+    "100": { "company": "Seguros Bolivar S.A", "grads": 9, "state": "CA" },
+    "101": { "company": "Siigo S.A.", "grads": 4, "state": "CA" },
+    "102": { "company": "Taos", "grads": 5, "state": "CA" }
+  },
+  "LearningFuze": {
+    "103": { "company": "Applied Medical", "grads": 3, "state": "CA" },
+    "104": { "company": "BeSmartee®", "grads": 5, "state": "CA" },
+    "105": { "company": "Blizzard Entertainment", "grads": 3, "state": "CA" },
+    "106": { "company": "Capital Group", "grads": 3, "state": "CA" },
+    "107": { "company": "Codazen", "grads": 7, "state": "CA" },
+    "108": { "company": "Doctor Genius", "grads": 7, "state": "CA" },
+    "109": { "company": "Member Splash", "grads": 5, "state": "CA" },
+    "110": { "company": "Novvum", "grads": 3, "state": "CA" },
+    "111": {
+      "company": "Parcel Pending by Quadient",
+      "grads": 3,
+      "state": "CA"
+    },
+    "112": { "company": "PriceSpider", "grads": 3, "state": "CA" },
+    "113": { "company": "VaynerCommerce", "grads": 3, "state": "CA" },
+    "114": { "company": "Verys", "grads": 7, "state": "CA" },
+    "115": { "company": "VoiceFoundry", "grads": 4, "state": "CA" }
+  },
+  "Microverse": {
+    "116": { "company": "Avance Venture Lab", "grads": 2, "state": "CA" },
+    "117": { "company": "CareerFoundry", "grads": 4, "state": "CA" },
+    "118": { "company": "MagmaLabs", "grads": 2, "state": "CA" },
+    "119": { "company": "NouKòd", "grads": 3, "state": "CA" },
+    "120": { "company": "Peoplebox", "grads": 3, "state": "CA" },
+    "121": { "company": "Torre", "grads": 3, "state": "CA" },
+    "122": { "company": "Upwork", "grads": 14, "state": "CA" }
+  },
+  "Orange County Code School": {
+    "123": { "company": "Apple", "grads": 2, "state": "CA" },
+    "124": { "company": "AT&T", "grads": 1, "state": "CA" },
+    "125": { "company": "Bank of the West", "grads": 1, "state": "CA" },
+    "126": {
+      "company": "Classic Cabinets and Upholstery",
+      "grads": 1,
+      "state": "CA"
+    },
+    "127": { "company": "Critical Mass", "grads": 1, "state": "CA" },
+    "128": {
+      "company": "HCA North Florida Division",
+      "grads": 1,
+      "state": "CA"
+    },
+    "129": { "company": "Intuit", "grads": 2, "state": "CA" },
+    "130": { "company": "JohnHart Real Estate", "grads": 1, "state": "CA" },
+    "131": { "company": "Kaiser Permanente", "grads": 1, "state": "CA" },
+    "132": { "company": "Kareo", "grads": 1, "state": "CA" },
+    "133": {
+      "company": "Kingsmen Digital Ventures",
+      "grads": 2,
+      "state": "CA"
+    },
+    "134": { "company": "Transurban", "grads": 1, "state": "CA" },
+    "135": {
+      "company": "University of California Irvine Division of Continuing Education",
+      "grads": 1,
+      "state": "CA"
+    },
+    "136": { "company": "Verys", "grads": 3, "state": "CA" },
+    "137": { "company": "Vincit", "grads": 3, "state": "CA" }
+  },
+  "Redwood Code Academy": {
+    "138": {
+      "company": "Action Property Management",
+      "grads": 1,
+      "state": "CA"
+    },
+    "139": { "company": "AUSAM", "grads": 1, "state": "CA" },
+    "140": { "company": "Empower", "grads": 1, "state": "CA" },
+    "141": { "company": "LandMonk", "grads": 2, "state": "CA" },
+    "142": { "company": "Lifehouse Agency", "grads": 1, "state": "CA" },
+    "143": {
+      "company": "Mortgage Machine Services",
+      "grads": 1,
+      "state": "CA"
+    },
+    "144": {
+      "company": "RedApple Digital Health Inc.",
+      "grads": 2,
+      "state": "CA"
+    },
+    "145": { "company": "Revature", "grads": 1, "state": "CA" },
+    "146": { "company": "Sonoma State University", "grads": 1, "state": "CA" },
+    "147": { "company": "Tabula Rasa HealthCare", "grads": 1, "state": "CA" },
+    "148": { "company": "TensorIoT Inc.", "grads": 2, "state": "CA" },
+    "149": { "company": "Trilogy Education", "grads": 1, "state": "CA" },
+    "150": { "company": "UFC", "grads": 1, "state": "CA" },
+    "151": { "company": "Zigzy", "grads": 2, "state": "CA" }
+  },
+  "Rithm School": {
+    "152": { "company": "Accenture", "grads": 1, "state": "CA" },
+    "153": { "company": "Birst", "grads": 2, "state": "CA" },
+    "154": { "company": "CleverCounsel LLC", "grads": 2, "state": "CA" },
+    "155": { "company": "doc.ai", "grads": 2, "state": "CA" },
+    "156": {
+      "company": "Dovenmuehle Mortgage Inc.",
+      "grads": 6,
+      "state": "CA"
+    },
+    "157": { "company": "Dropbox", "grads": 2, "state": "CA" },
+    "158": { "company": "Oracle", "grads": 1, "state": "CA" },
+    "159": { "company": "Pinterest", "grads": 2, "state": "CA" },
+    "160": { "company": "PlanetScale", "grads": 1, "state": "CA" },
+    "161": { "company": "Solvd Inc.", "grads": 2, "state": "CA" },
+    "162": { "company": "Twilio Inc.", "grads": 2, "state": "CA" },
+    "163": { "company": "WePay", "grads": 6, "state": "CA" },
+    "164": { "company": "Workday", "grads": 2, "state": "CA" },
+    "165": { "company": "YearOne (Techstars 2020)", "grads": 2, "state": "CA" }
+  },
+  "Springboard": {
+    "166": { "company": "Accenture", "grads": 11, "state": "CA" },
+    "167": { "company": "Amazon", "grads": 31, "state": "CA" },
+    "168": { "company": "Apple", "grads": 20, "state": "CA" },
+    "169": { "company": "Bed Bath & Beyond", "grads": 4, "state": "CA" },
+    "170": { "company": "Citi", "grads": 8, "state": "CA" },
+    "171": { "company": "Deloitte", "grads": 10, "state": "CA" },
+    "172": { "company": "Facebook", "grads": 20, "state": "CA" },
+    "173": { "company": "Google", "grads": 13, "state": "CA" },
+    "174": { "company": "Hack for LA", "grads": 6, "state": "CA" },
+    "175": { "company": "IBM", "grads": 8, "state": "CA" },
+    "176": { "company": "JPMorgan Chase & Co.", "grads": 12, "state": "CA" },
+    "177": { "company": "Wells Fargo", "grads": 12, "state": "CA" }
+  },
+  "Udacity": {
+    "178": { "company": "Accenture", "grads": 208, "state": "CA" },
+    "179": { "company": "Amazon", "grads": 368, "state": "CA" },
+    "180": { "company": "Aramco", "grads": 146, "state": "CA" },
+    "181": { "company": "Facebook", "grads": 206, "state": "CA" },
+    "182": { "company": "Fiverr", "grads": 150, "state": "CA" },
+    "183": { "company": "Google", "grads": 372, "state": "CA" },
+    "184": { "company": "IBM", "grads": 221, "state": "CA" },
+    "185": { "company": "Infosys", "grads": 174, "state": "CA" },
+    "186": { "company": "Microsoft", "grads": 306, "state": "CA" },
+    "187": { "company": "stc", "grads": 141, "state": "CA" },
+    "188": {
+      "company": "Tata Consultancy Services",
+      "grads": 157,
+      "state": "CA"
+    },
+    "189": { "company": "Upwork", "grads": 364, "state": "CA" }
+  },
+  "CodeCraft School of Technology": {
+    "190": { "company": "AMP Robotics", "grads": 1, "state": "CO" },
+    "191": { "company": "Buink Web Development", "grads": 1, "state": "CO" },
+    "192": { "company": "Charter Communications", "grads": 3, "state": "CO" },
+    "193": { "company": "CUORE of Switzerland", "grads": 1, "state": "CO" },
+    "194": { "company": "EduGuide", "grads": 1, "state": "CO" },
+    "195": { "company": "Engrain", "grads": 1, "state": "CO" },
+    "196": { "company": "LogRhythm", "grads": 2, "state": "CO" },
+    "197": { "company": "Oracle", "grads": 1, "state": "CO" },
+    "198": {
+      "company": "Simplified Website Design",
+      "grads": 1,
+      "state": "CO"
+    },
+    "199": { "company": "Springboard", "grads": 1, "state": "CO" },
+    "200": { "company": "Town of Nederland", "grads": 1, "state": "CO" },
+    "201": { "company": "Trimble Inc.", "grads": 2, "state": "CO" },
+    "202": { "company": "Zayo Group", "grads": 2, "state": "CO" }
+  },
+  "DaVinci Coders": {
+    "203": { "company": "ClearanceJobs", "grads": 1, "state": "CO" },
+    "204": {
+      "company": "Corellian Consulting Limited",
+      "grads": 1,
+      "state": "CO"
+    },
+    "205": { "company": "EVO Payments Inc.", "grads": 1, "state": "CO" },
+    "206": { "company": "IBM", "grads": 1, "state": "CO" },
+    "207": {
+      "company": "Institutional Cash Distributors (ICD)",
+      "grads": 1,
+      "state": "CO"
+    },
+    "208": { "company": "JPMA Inc", "grads": 1, "state": "CO" },
+    "209": { "company": "Kaffeinated Kodemonkey", "grads": 1, "state": "CO" },
+    "210": { "company": "Literally Media", "grads": 1, "state": "CO" },
+    "211": { "company": "Neap", "grads": 1, "state": "CO" },
+    "212": { "company": "Nite Ize Inc.", "grads": 1, "state": "CO" },
+    "213": { "company": "Oracle", "grads": 1, "state": "CO" },
+    "214": { "company": "RxRevu Inc.", "grads": 2, "state": "CO" },
+    "215": { "company": "Touch Control", "grads": 1, "state": "CO" },
+    "216": { "company": "Triad", "grads": 1, "state": "CO" }
+  },
+  "SecureSet": {
+    "217": { "company": "Avertium", "grads": 5, "state": "CO" },
+    "218": { "company": "Booz Allen Hamilton", "grads": 6, "state": "CO" },
+    "219": { "company": "Coalfire", "grads": 9, "state": "CO" },
+    "220": {
+      "company": "Colorado Governor's Office of Information Technology",
+      "grads": 5,
+      "state": "CO"
+    },
+    "221": { "company": "CyberGRX", "grads": 8, "state": "CO" },
+    "222": { "company": "deepwatch", "grads": 8, "state": "CO" },
+    "223": { "company": "Deloitte", "grads": 4, "state": "CO" },
+    "224": { "company": "Jacobs", "grads": 12, "state": "CO" },
+    "225": { "company": "Kivu Consulting", "grads": 8, "state": "CO" },
+    "226": { "company": "Pax8", "grads": 8, "state": "CO" },
+    "227": { "company": "ReliaQuest", "grads": 6, "state": "CO" },
+    "228": { "company": "US Army", "grads": 32, "state": "CO" },
+    "229": { "company": "VMware", "grads": 5, "state": "CO" }
+  },
+  "Skill Distillery": {
+    "230": { "company": "Angi", "grads": 2, "state": "CO" },
+    "231": { "company": "Bank of America", "grads": 2, "state": "CO" },
+    "232": { "company": "BIT Systems", "grads": 3, "state": "CO" },
+    "233": { "company": "Booz Allen Hamilton", "grads": 2, "state": "CO" },
+    "234": { "company": "CACI International Inc", "grads": 4, "state": "CO" },
+    "235": { "company": "Charter Communications", "grads": 3, "state": "CO" },
+    "236": { "company": "Comcast", "grads": 6, "state": "CO" },
+    "237": { "company": "Essendant", "grads": 3, "state": "CO" },
+    "238": { "company": "HomeAdvisor", "grads": 3, "state": "CO" },
+    "239": { "company": "Ibotta Inc.", "grads": 3, "state": "CO" },
+    "240": { "company": "NexGen Technologies Inc.", "grads": 6, "state": "CO" },
+    "241": {
+      "company": "Raytheon Intelligence & Space",
+      "grads": 3,
+      "state": "CO"
+    },
+    "242": { "company": "Tech Mahindra", "grads": 2, "state": "CO" },
+    "243": { "company": "The Walt Disney Company", "grads": 2, "state": "CO" }
+  },
+  "Turing School of Software & Design": {
+    "244": { "company": "Aetna", "grads": 21, "state": "CO" },
+    "245": { "company": "Allstate", "grads": 17, "state": "CO" },
+    "246": { "company": "Brandfolder", "grads": 6, "state": "CO" },
+    "247": { "company": "Charter Communications", "grads": 17, "state": "CO" },
+    "248": { "company": "Devetry (part of Dept)", "grads": 7, "state": "CO" },
+    "249": { "company": "Fastly", "grads": 8, "state": "CO" },
+    "250": { "company": "Guild Education", "grads": 14, "state": "CO" },
+    "251": { "company": "Handshake", "grads": 7, "state": "CO" },
+    "252": { "company": "Hotel Engine", "grads": 9, "state": "CO" },
+    "253": { "company": "Ibotta Inc.", "grads": 16, "state": "CO" },
+    "254": { "company": "Peloton Interactive", "grads": 6, "state": "CO" },
+    "255": { "company": "Slalom", "grads": 19, "state": "CO" },
+    "256": { "company": "Stitch Fix", "grads": 10, "state": "CO" },
+    "257": { "company": "TaxJar", "grads": 7, "state": "CO" }
+  },
+  "University of Denver Boot Camps": {
+    "258": { "company": "acumen", "grads": 1, "state": "CO" },
+    "259": { "company": "Chevron", "grads": 1, "state": "CO" },
+    "260": { "company": "En Gedi", "grads": 1, "state": "CO" },
+    "261": { "company": "Hunger Free Colorado", "grads": 1, "state": "CO" },
+    "262": {
+      "company": "Kärcher North America Inc.",
+      "grads": 1,
+      "state": "CO"
+    },
+    "263": { "company": "Rally Health", "grads": 1, "state": "CO" },
+    "264": { "company": "Scaled Agile Inc.", "grads": 1, "state": "CO" },
+    "265": { "company": "Sealcon", "grads": 1, "state": "CO" },
+    "266": { "company": "SonderMind", "grads": 1, "state": "CO" },
+    "267": { "company": "uBreakiFix", "grads": 2, "state": "CO" }
+  },
+  "4Geeks Academy": {
+    "268": { "company": "Boosmap", "grads": 2, "state": "FL" },
+    "269": { "company": "Bridge Patient Portal", "grads": 2, "state": "FL" },
+    "270": { "company": "Bridges Unite", "grads": 2, "state": "FL" },
+    "271": { "company": "Cornershop by Uber", "grads": 2, "state": "FL" },
+    "272": { "company": "DNA HUMAN CAPITAL", "grads": 3, "state": "FL" },
+    "273": { "company": "Nivelat", "grads": 2, "state": "FL" },
+    "274": { "company": "Patagonia IT", "grads": 2, "state": "FL" },
+    "275": { "company": "The Dog Company Chile", "grads": 2, "state": "FL" },
+    "276": { "company": "Uber", "grads": 3, "state": "FL" },
+    "277": { "company": "University of Miami", "grads": 3, "state": "FL" }
+  },
+  "Wyncode Academy": {
+    "278": { "company": "Apple", "grads": 6, "state": "FL" },
+    "279": { "company": "Augusta Hitech", "grads": 4, "state": "FL" },
+    "280": { "company": "BrainStation", "grads": 9, "state": "FL" },
+    "281": { "company": "CareCloud", "grads": 9, "state": "FL" },
+    "282": { "company": "Health Karma", "grads": 6, "state": "FL" },
+    "283": { "company": "IntelePeer", "grads": 5, "state": "FL" },
+    "284": { "company": "Kipu Health", "grads": 6, "state": "FL" },
+    "285": { "company": "MDLIVE Inc.", "grads": 5, "state": "FL" },
+    "286": { "company": "Miami Dev Shop", "grads": 5, "state": "FL" },
+    "287": { "company": "Microsoft", "grads": 5, "state": "FL" },
+    "288": { "company": "Papa", "grads": 5, "state": "FL" },
+    "289": {
+      "company": "Restaurant Brands International",
+      "grads": 13,
+      "state": "FL"
+    },
+    "290": { "company": "springbig", "grads": 5, "state": "FL" },
+    "291": { "company": "Watsco Ventures", "grads": 5, "state": "FL" }
+  },
+  "DigitalCrafts": {
+    "292": { "company": "Accenture", "grads": 4, "state": "GA" },
+    "293": {
+      "company": "Chick-fil-A Corporate Support Center",
+      "grads": 5,
+      "state": "GA"
+    },
+    "294": { "company": "Codoxo", "grads": 4, "state": "GA" },
+    "295": { "company": "Cox Automotive Inc.", "grads": 4, "state": "GA" },
+    "296": { "company": "Insiten", "grads": 8, "state": "GA" },
+    "297": { "company": "JPMorgan Chase & Co.", "grads": 5, "state": "GA" },
+    "298": { "company": "Luminare Inc.", "grads": 4, "state": "GA" },
+    "299": { "company": "Mailchimp", "grads": 5, "state": "GA" },
+    "300": { "company": "Microsoft", "grads": 3, "state": "GA" },
+    "301": { "company": "The Home Depot", "grads": 12, "state": "GA" },
+    "302": { "company": "Umbrage", "grads": 6, "state": "GA" },
+    "303": { "company": "Varsity Hype", "grads": 5, "state": "GA" },
+    "304": { "company": "Ware2Go", "grads": 6, "state": "GA" },
+    "305": { "company": "WarnerMedia", "grads": 4, "state": "GA" }
+  },
+  "Georgia Tech Boot Camps": {
+    "306": { "company": "XPO Logistics Inc.", "grads": 1, "state": "GA" }
+  },
+  "CodeWorks": {
+    "307": { "company": "Accenture", "grads": 1, "state": "ID" },
+    "308": { "company": "Adobe", "grads": 1, "state": "ID" },
+    "309": { "company": "Allata", "grads": 2, "state": "ID" },
+    "310": { "company": "BGZ brands™", "grads": 1, "state": "ID" },
+    "311": { "company": "Cask", "grads": 3, "state": "ID" },
+    "312": { "company": "Definitive Logic", "grads": 2, "state": "ID" },
+    "313": { "company": "In Time Tec", "grads": 8, "state": "ID" },
+    "314": { "company": "Microbe Formulas", "grads": 1, "state": "ID" },
+    "315": { "company": "P2 Energy Solutions", "grads": 1, "state": "ID" },
+    "316": { "company": "TrueBlue Inc.", "grads": 1, "state": "ID" },
+    "317": {
+      "company": "Western Power Sports (WPS)",
+      "grads": 2,
+      "state": "ID"
+    },
+    "318": { "company": "Zennify", "grads": 2, "state": "ID" }
+  },
+  "Actualize Coding Bootcamp": {
+    "319": { "company": "Accenture", "grads": 2, "state": "IL" },
+    "320": { "company": "ActiveCampaign", "grads": 3, "state": "IL" },
+    "321": { "company": "AHEAD", "grads": 3, "state": "IL" },
+    "322": { "company": "AT&T", "grads": 2, "state": "IL" },
+    "323": { "company": "Boomerang Exhibits", "grads": 2, "state": "IL" },
+    "324": { "company": "Costco Wholesale", "grads": 2, "state": "IL" },
+    "325": { "company": "CVS Health", "grads": 3, "state": "IL" },
+    "326": { "company": "Datadog", "grads": 2, "state": "IL" },
+    "327": { "company": "Healthie Inc.", "grads": 2, "state": "IL" },
+    "328": { "company": "Oracle", "grads": 3, "state": "IL" },
+    "329": { "company": "PayPal", "grads": 4, "state": "IL" },
+    "330": { "company": "The Difference Engine", "grads": 7, "state": "IL" }
+  },
+  "Code Platoon": {
+    "331": { "company": "8th Light", "grads": 2, "state": "IL" },
+    "332": { "company": "Army National Guard", "grads": 4, "state": "IL" },
+    "333": { "company": "Army National Guard", "grads": 4, "state": "IL" },
+    "334": { "company": "Cartão de Todos", "grads": 1, "state": "IL" },
+    "335": { "company": "Chicago Trading Company", "grads": 3, "state": "IL" },
+    "336": { "company": "Codementor", "grads": 1, "state": "IL" },
+    "337": { "company": "DRW", "grads": 7, "state": "IL" },
+    "338": { "company": "Enova International", "grads": 2, "state": "IL" },
+    "339": { "company": "Grainger", "grads": 2, "state": "IL" },
+    "340": { "company": "JPMorgan Chase & Co.", "grads": 7, "state": "IL" },
+    "341": { "company": "Motorola Solutions", "grads": 2, "state": "IL" },
+    "342": { "company": "Raise", "grads": 2, "state": "IL" },
+    "343": { "company": "United States Air Force", "grads": 6, "state": "IL" },
+    "344": { "company": "US Army", "grads": 6, "state": "IL" },
+    "345": { "company": "US Navy", "grads": 4, "state": "IL" }
+  },
+  "Coding Temple": {
+    "346": { "company": "Accenture", "grads": 1, "state": "IL" },
+    "347": { "company": "Amazon", "grads": 1, "state": "IL" },
+    "348": { "company": "Beyond Finance", "grads": 1, "state": "IL" },
+    "349": { "company": "Birchwood Foods", "grads": 1, "state": "IL" },
+    "350": { "company": "Booz Allen Hamilton", "grads": 1, "state": "IL" },
+    "351": { "company": "Capgemini", "grads": 1, "state": "IL" },
+    "352": {
+      "company": "City Colleges of Chicago-Olive-Harvey College",
+      "grads": 1,
+      "state": "IL"
+    },
+    "353": { "company": "Convoy Inc", "grads": 1, "state": "IL" },
+    "354": { "company": "Copado", "grads": 1, "state": "IL" },
+    "355": { "company": "Datadog", "grads": 1, "state": "IL" },
+    "356": { "company": "Numerated", "grads": 1, "state": "IL" },
+    "357": { "company": "SORACOM Inc.", "grads": 1, "state": "IL" },
+    "358": { "company": "U.S. Navy Reserve", "grads": 1, "state": "IL" },
+    "359": { "company": "Upwork", "grads": 2, "state": "IL" }
+  },
+  "Eleven Fifty Academy": {
+    "360": { "company": "Agilify Automation", "grads": 4, "state": "IN" },
+    "361": { "company": "Community Health Network", "grads": 3, "state": "IN" },
+    "362": {
+      "company": "DMI (Digital Management LLC)",
+      "grads": 4,
+      "state": "IN"
+    },
+    "363": { "company": "DoorDash", "grads": 4, "state": "IN" },
+    "364": { "company": "GEICO", "grads": 8, "state": "IN" },
+    "365": { "company": "Infosys", "grads": 12, "state": "IN" },
+    "366": { "company": "Ion Three", "grads": 4, "state": "IN" },
+    "367": { "company": "Liberty Mutual Insurance", "grads": 4, "state": "IN" },
+    "368": { "company": "Navient", "grads": 4, "state": "IN" },
+    "369": { "company": "Offprem Technology", "grads": 6, "state": "IN" },
+    "370": { "company": "R&M Software Inc.", "grads": 7, "state": "IN" },
+    "371": { "company": "Salesforce", "grads": 7, "state": "IN" },
+    "372": { "company": "TCC Software Solutions", "grads": 6, "state": "IN" },
+    "373": { "company": "US Army", "grads": 4, "state": "IN" }
+  },
+  "Kenzie Academy": {
+    "374": { "company": "Amazon", "grads": 136, "state": "IN" },
+    "375": {
+      "company": "Amazon Fulfillment Centre",
+      "grads": 16,
+      "state": "IN"
+    },
+    "376": { "company": "Amazon Logistics", "grads": 4, "state": "IN" },
+    "377": { "company": "AT&T", "grads": 2, "state": "IN" },
+    "378": { "company": "Career Karma", "grads": 2, "state": "IN" },
+    "379": {
+      "company": "DMI (Digital Management LLC)",
+      "grads": 3,
+      "state": "IN"
+    },
+    "380": { "company": "FedEx Ground", "grads": 2, "state": "IN" },
+    "381": { "company": "Infosys", "grads": 2, "state": "IN" },
+    "382": { "company": "Infosys Ltd", "grads": 4, "state": "IN" },
+    "383": { "company": "JPMorgan Chase & Co.", "grads": 2, "state": "IN" },
+    "384": {
+      "company": "KellyConnect | Contact Center Solutions",
+      "grads": 2,
+      "state": "IN"
+    },
+    "385": {
+      "company": "Southern New Hampshire University",
+      "grads": 8,
+      "state": "IN"
+    },
+    "386": { "company": "SuperWorld", "grads": 2, "state": "IN" },
+    "387": { "company": "Zylo", "grads": 2, "state": "IN" }
+  },
+  "Awesome Inc": {
+    "388": { "company": "APAX Software", "grads": 4, "state": "KY" },
+    "389": { "company": "Bitwerx Inc.", "grads": 2, "state": "KY" },
+    "390": { "company": "BlueFrame Technology", "grads": 2, "state": "KY" },
+    "391": { "company": "CSI", "grads": 1, "state": "KY" },
+    "392": { "company": "Infosys", "grads": 1, "state": "KY" },
+    "393": {
+      "company": "Kentucky Department of Revenue",
+      "grads": 1,
+      "state": "KY"
+    },
+    "394": { "company": "Lightwell Inc.", "grads": 2, "state": "KY" },
+    "395": { "company": "Nymbl Systems", "grads": 3, "state": "KY" },
+    "396": { "company": "OmniLife", "grads": 1, "state": "KY" },
+    "397": { "company": "Rev.com", "grads": 1, "state": "KY" },
+    "398": { "company": "Starbucks", "grads": 2, "state": "KY" },
+    "399": { "company": "Studio 34 Productions", "grads": 2, "state": "KY" }
+  },
+  "Code Louisville": {
+    "400": { "company": "Appriss", "grads": 8, "state": "KY" },
+    "401": { "company": "Atria Senior Living", "grads": 7, "state": "KY" },
+    "402": { "company": "El Toro IP Targeting", "grads": 9, "state": "KY" },
+    "403": { "company": "GE Appliances", "grads": 14, "state": "KY" },
+    "404": { "company": "Humana", "grads": 33, "state": "KY" },
+    "405": {
+      "company": "Jefferson County Public Schools",
+      "grads": 11,
+      "state": "KY"
+    },
+    "406": { "company": "Kroger", "grads": 6, "state": "KY" },
+    "407": { "company": "QSR Automations", "grads": 6, "state": "KY" },
+    "408": {
+      "company": "Rainbow Design Services Inc.",
+      "grads": 5,
+      "state": "KY"
+    },
+    "409": { "company": "University of Louisville", "grads": 6, "state": "KY" },
+    "410": { "company": "UPS", "grads": 18, "state": "KY" },
+    "411": { "company": "Waystar", "grads": 12, "state": "KY" }
+  },
+  "Practicum by Yandex": {
+    "412": { "company": "GlowByte Consulting", "grads": 3, "state": "MA" },
+    "413": { "company": "Infosys", "grads": 3, "state": "MA" },
+    "414": { "company": "JPMorgan Chase & Co.", "grads": 3, "state": "MA" },
+    "415": { "company": "OZON.ru", "grads": 4, "state": "MA" },
+    "416": { "company": "Rostelecom", "grads": 3, "state": "MA" },
+    "417": { "company": "Sberbank", "grads": 5, "state": "MA" },
+    "418": { "company": "uTest", "grads": 3, "state": "MA" },
+    "419": { "company": "X5 Retail Group", "grads": 3, "state": "MA" }
+  },
+  "Grand Circus": {
+    "420": { "company": "Accenture", "grads": 20, "state": "MI" },
+    "421": { "company": "Amrock", "grads": 18, "state": "MI" },
+    "422": {
+      "company": "Blue Cross Blue Shield of Michigan",
+      "grads": 11,
+      "state": "MI"
+    },
+    "423": { "company": "Detroit Labs", "grads": 16, "state": "MI" },
+    "424": {
+      "company": "Detroit Public Schools Community District",
+      "grads": 7,
+      "state": "MI"
+    },
+    "425": { "company": "Ford Motor Company", "grads": 16, "state": "MI" },
+    "426": { "company": "Meridian", "grads": 8, "state": "MI" },
+    "427": { "company": "MRM", "grads": 8, "state": "MI" },
+    "428": { "company": "Nexient", "grads": 30, "state": "MI" },
+    "429": { "company": "Perficient", "grads": 7, "state": "MI" },
+    "430": { "company": "Quicken Loans", "grads": 87, "state": "MI" },
+    "431": { "company": "Spectrum Health", "grads": 7, "state": "MI" },
+    "432": { "company": "United Shore", "grads": 11, "state": "MI" },
+    "433": {
+      "company": "United Wholesale Mortgage",
+      "grads": 84,
+      "state": "MI"
+    }
+  },
+  "Prime Digital Academy": {
+    "434": { "company": "Accessible360", "grads": 11, "state": "MN" },
+    "435": { "company": "Best Buy", "grads": 38, "state": "MN" },
+    "436": { "company": "C.H. Robinson", "grads": 25, "state": "MN" },
+    "437": { "company": "Datasite", "grads": 12, "state": "MN" },
+    "438": {
+      "company": "Daugherty Business Solutions",
+      "grads": 7,
+      "state": "MN"
+    },
+    "439": { "company": "Granicus", "grads": 10, "state": "MN" },
+    "440": { "company": "Optum", "grads": 13, "state": "MN" },
+    "441": { "company": "Slalom", "grads": 7, "state": "MN" },
+    "442": { "company": "SPS Commerce", "grads": 11, "state": "MN" },
+    "443": { "company": "Target", "grads": 38, "state": "MN" },
+    "444": { "company": "Thomson Reuters", "grads": 16, "state": "MN" },
+    "445": { "company": "Total Expert", "grads": 11, "state": "MN" },
+    "446": { "company": "Travelers", "grads": 19, "state": "MN" },
+    "447": { "company": "U.S. Bank", "grads": 8, "state": "MN" }
+  },
+  "Claim Academy": {
+    "448": {
+      "company": "Accenture Federal Services",
+      "grads": 4,
+      "state": "MO"
+    },
+    "449": { "company": "Army National Guard", "grads": 2, "state": "MO" },
+    "450": { "company": "Best Buy", "grads": 3, "state": "MO" },
+    "451": { "company": "Charter Communications", "grads": 6, "state": "MO" },
+    "452": { "company": "GalaxE.Solutions", "grads": 5, "state": "MO" },
+    "453": { "company": "LaunchCode", "grads": 3, "state": "MO" },
+    "454": { "company": "Mastercard", "grads": 4, "state": "MO" },
+    "455": {
+      "company": "NISA Investment Advisors LLC",
+      "grads": 5,
+      "state": "MO"
+    },
+    "456": { "company": "Perficient", "grads": 3, "state": "MO" },
+    "457": { "company": "Revature", "grads": 2, "state": "MO" },
+    "458": { "company": "Slalom", "grads": 3, "state": "MO" },
+    "459": { "company": "US Army", "grads": 2, "state": "MO" },
+    "460": {
+      "company": "Washington University in St. Louis",
+      "grads": 3,
+      "state": "MO"
+    }
+  },
+  "Momentum": {
+    "461": { "company": "Alberta Health Services", "grads": 4, "state": "NC" },
+    "462": { "company": "Discovery Limited", "grads": 3, "state": "NC" },
+    "463": { "company": "IBM", "grads": 3, "state": "NC" },
+    "464": { "company": "Infosys", "grads": 2, "state": "NC" },
+    "465": { "company": "JPMorgan Chase & Co.", "grads": 2, "state": "NC" },
+    "466": { "company": "Pendo.io", "grads": 5, "state": "NC" },
+    "467": { "company": "Salesforce", "grads": 3, "state": "NC" },
+    "468": { "company": "SciMed Solutions Inc.", "grads": 2, "state": "NC" },
+    "469": { "company": "ServiceTrade", "grads": 3, "state": "NC" },
+    "470": { "company": "Spreedly", "grads": 4, "state": "NC" },
+    "471": { "company": "Westcan Bulk Transport", "grads": 2, "state": "NC" }
+  },
+  "RMOTR": {
+    "472": { "company": "APEX Drone Racing", "grads": 1, "state": "NC" },
+    "473": { "company": "Bank of America", "grads": 1, "state": "NC" },
+    "474": {
+      "company": "Fitbit (now part of Google)",
+      "grads": 1,
+      "state": "NC"
+    },
+    "475": { "company": "How-To Geek", "grads": 1, "state": "NC" },
+    "476": { "company": "Intel Corporation", "grads": 1, "state": "NC" },
+    "477": { "company": "JPMorgan Chase & Co.", "grads": 1, "state": "NC" },
+    "478": { "company": "Milestone Digital", "grads": 1, "state": "NC" },
+    "479": {
+      "company": "Norges Bank Investment Management",
+      "grads": 1,
+      "state": "NC"
+    },
+    "480": { "company": "Satellogic", "grads": 1, "state": "NC" },
+    "481": { "company": "Shelley Automation", "grads": 1, "state": "NC" },
+    "482": {
+      "company": "Skytree | A Fresh Breath of Air",
+      "grads": 1,
+      "state": "NC"
+    },
+    "483": { "company": "US Army", "grads": 1, "state": "NC" },
+    "484": { "company": "Verizon", "grads": 1, "state": "NC" },
+    "485": { "company": "Zynga", "grads": 2, "state": "NC" }
+  },
+  "Emerging Digital Academy": {
+    "486": { "company": "701x", "grads": 1, "state": "ND" },
+    "487": { "company": "Auto Doctors LLC", "grads": 1, "state": "ND" },
+    "488": { "company": "BNG Team", "grads": 1, "state": "ND" },
+    "489": { "company": "Bushel", "grads": 2, "state": "ND" },
+    "490": { "company": "ByteSpeed", "grads": 1, "state": "ND" },
+    "491": {
+      "company": "Creatively Web Design & Development",
+      "grads": 1,
+      "state": "ND"
+    },
+    "492": { "company": "eXp Realty", "grads": 1, "state": "ND" },
+    "493": { "company": "Learn Or Teach LLC", "grads": 1, "state": "ND" },
+    "494": {
+      "company": "Penta Blockchain Solutions",
+      "grads": 1,
+      "state": "ND"
+    },
+    "495": { "company": "Project Phoenix", "grads": 2, "state": "ND" },
+    "496": { "company": "Scheels", "grads": 3, "state": "ND" },
+    "497": { "company": "Social Selling HQ", "grads": 1, "state": "ND" }
+  },
+  "UNH Coding Boot Camp": {
+    "498": { "company": "Comcast Business", "grads": 1, "state": "NH" },
+    "499": { "company": "Fidelity Investments", "grads": 1, "state": "NH" },
+    "500": { "company": "IANS", "grads": 1, "state": "NH" },
+    "501": { "company": "Known Point Technologies", "grads": 1, "state": "NH" },
+    "502": { "company": "Liberty Mutual Insurance", "grads": 2, "state": "NH" },
+    "503": { "company": "Loud Canvas Media", "grads": 1, "state": "NH" }
+  },
+  "Rutgers Bootcamps": {
+    "504": { "company": "Amazon", "grads": 1, "state": "NJ" },
+    "505": { "company": "Banfield Pet Hospital", "grads": 1, "state": "NJ" },
+    "506": { "company": "Bizzabo", "grads": 1, "state": "NJ" },
+    "507": { "company": "Incyte Studios", "grads": 1, "state": "NJ" },
+    "508": { "company": "PTC Therapeutics", "grads": 1, "state": "NJ" },
+    "509": {
+      "company": "Robert Wood Johnson University Hospital",
+      "grads": 1,
+      "state": "NJ"
+    }
+  },
+  "App Academy": {
+    "510": { "company": "Amazon", "grads": 22, "state": "NY" },
+    "511": { "company": "Bloomberg LP", "grads": 37, "state": "NY" },
+    "512": { "company": "DailyPay Inc.", "grads": 8, "state": "NY" },
+    "513": { "company": "Etsy", "grads": 7, "state": "NY" },
+    "514": { "company": "Facebook", "grads": 38, "state": "NY" },
+    "515": { "company": "Google", "grads": 86, "state": "NY" },
+    "516": { "company": "Medidata Solutions", "grads": 18, "state": "NY" },
+    "517": { "company": "New Relic Inc.", "grads": 5, "state": "NY" },
+    "518": { "company": "Samsara", "grads": 7, "state": "NY" },
+    "519": { "company": "Twitter", "grads": 8, "state": "NY" },
+    "520": { "company": "Uber", "grads": 14, "state": "NY" },
+    "521": { "company": "Upwork", "grads": 10, "state": "NY" },
+    "522": { "company": "Wayfair", "grads": 42, "state": "NY" },
+    "523": { "company": "Zendesk", "grads": 10, "state": "NY" }
+  },
+  "BrainStation": {
+    "524": { "company": "BMO Financial Group", "grads": 26, "state": "NY" },
+    "525": {
+      "company": "Canadian Tire Corporation",
+      "grads": 33,
+      "state": "NY"
+    },
+    "526": { "company": "CIBC", "grads": 55, "state": "NY" },
+    "527": { "company": "Hootsuite", "grads": 21, "state": "NY" },
+    "528": { "company": "Konrad Group", "grads": 45, "state": "NY" },
+    "529": { "company": "Loblaw Digital", "grads": 15, "state": "NY" },
+    "530": { "company": "lululemon", "grads": 33, "state": "NY" },
+    "531": { "company": "RBC", "grads": 66, "state": "NY" },
+    "532": { "company": "Rogers Sports & Media", "grads": 22, "state": "NY" },
+    "533": { "company": "Scotiabank", "grads": 49, "state": "NY" },
+    "534": { "company": "Shopify", "grads": 80, "state": "NY" },
+    "535": { "company": "TD", "grads": 47, "state": "NY" },
+    "536": { "company": "TELUS", "grads": 41, "state": "NY" },
+    "537": {
+      "company": "The University of British Columbia",
+      "grads": 19,
+      "state": "NY"
+    }
+  },
+  "Byte Academy": {
+    "538": { "company": "Absa Group", "grads": 2, "state": "NY" },
+    "539": { "company": "BACKED VC", "grads": 1, "state": "NY" },
+    "540": { "company": "Capital Rx", "grads": 1, "state": "NY" },
+    "541": { "company": "College Truckers Inc.", "grads": 1, "state": "NY" },
+    "542": { "company": "Geodesic Techniques", "grads": 2, "state": "NY" },
+    "543": { "company": "IBM", "grads": 1, "state": "NY" },
+    "544": { "company": "JPMorgan Chase & Co.", "grads": 5, "state": "NY" },
+    "545": { "company": "NOV", "grads": 3, "state": "NY" },
+    "546": { "company": "Oracle", "grads": 1, "state": "NY" },
+    "547": { "company": "SpryteLabs", "grads": 8, "state": "NY" },
+    "548": { "company": "Tempus Labs Inc.", "grads": 1, "state": "NY" },
+    "549": { "company": "Torus Teens", "grads": 1, "state": "NY" }
+  },
+  "Flatiron School": {
+    "550": { "company": "Accenture", "grads": 27, "state": "NY" },
+    "551": { "company": "Amazon", "grads": 44, "state": "NY" },
+    "552": { "company": "Citi", "grads": 21, "state": "NY" },
+    "553": { "company": "Datadog", "grads": 37, "state": "NY" },
+    "554": { "company": "IBM", "grads": 31, "state": "NY" },
+    "555": { "company": "Infosys", "grads": 128, "state": "NY" },
+    "556": { "company": "JPMorgan Chase & Co.", "grads": 41, "state": "NY" },
+    "557": { "company": "Shopify", "grads": 10, "state": "NY" },
+    "558": { "company": "Spotify", "grads": 16, "state": "NY" },
+    "559": { "company": "The New York Times", "grads": 15, "state": "NY" },
+    "560": { "company": "Wayfair", "grads": 23, "state": "NY" },
+    "561": { "company": "WeWork", "grads": 23, "state": "NY" }
+  },
+  "Fullstack Academy": {
+    "562": { "company": "Amazon", "grads": 18, "state": "NY" },
+    "563": { "company": "American Express", "grads": 25, "state": "NY" },
+    "564": { "company": "BlackRock", "grads": 9, "state": "NY" },
+    "565": { "company": "Bloomberg LP", "grads": 67, "state": "NY" },
+    "566": { "company": "Etsy", "grads": 20, "state": "NY" },
+    "567": { "company": "Goldman Sachs", "grads": 11, "state": "NY" },
+    "568": { "company": "Google", "grads": 45, "state": "NY" },
+    "569": { "company": "JPMorgan Chase & Co.", "grads": 26, "state": "NY" },
+    "570": { "company": "Northwestern Mutual", "grads": 15, "state": "NY" },
+    "571": { "company": "Spotify", "grads": 16, "state": "NY" },
+    "572": { "company": "The New York Times", "grads": 14, "state": "NY" },
+    "573": {
+      "company": "Wunderkind (Formerly BounceX)",
+      "grads": 8,
+      "state": "NY"
+    }
+  },
+  "General Assembly": {
+    "574": { "company": "Accenture", "grads": 134, "state": "NY" },
+    "575": { "company": "Adobe", "grads": 101, "state": "NY" },
+    "576": { "company": "Amazon", "grads": 235, "state": "NY" },
+    "577": {
+      "company": "Amazon Web Services (AWS)",
+      "grads": 94,
+      "state": "NY"
+    },
+    "578": { "company": "Apple", "grads": 152, "state": "NY" },
+    "579": { "company": "Atlassian", "grads": 62, "state": "NY" },
+    "580": { "company": "Booz Allen Hamilton", "grads": 181, "state": "NY" },
+    "581": { "company": "Facebook", "grads": 243, "state": "NY" },
+    "582": { "company": "Google", "grads": 383, "state": "NY" },
+    "583": { "company": "IBM", "grads": 149, "state": "NY" },
+    "584": { "company": "LinkedIn", "grads": 78, "state": "NY" },
+    "585": { "company": "Microsoft", "grads": 151, "state": "NY" },
+    "586": { "company": "Salesforce", "grads": 108, "state": "NY" },
+    "587": { "company": "Spotify", "grads": 71, "state": "NY" }
+  },
+  "Metis": {
+    "588": { "company": "Amazon", "grads": 4, "state": "NY" },
+    "589": { "company": "Bank of America", "grads": 2, "state": "NY" },
+    "590": { "company": "Citi", "grads": 2, "state": "NY" },
+    "591": { "company": "City of Amsterdam", "grads": 2, "state": "NY" },
+    "592": { "company": "Comcast", "grads": 2, "state": "NY" },
+    "593": {
+      "company": "Disney Streaming Services",
+      "grads": 2,
+      "state": "NY"
+    },
+    "594": { "company": "Facebook", "grads": 4, "state": "NY" },
+    "595": { "company": "Google", "grads": 3, "state": "NY" },
+    "596": { "company": "IBM", "grads": 3, "state": "NY" },
+    "597": { "company": "Tempus Labs Inc. ", "grads": 2, "state": "NY" },
+    "598": { "company": "The Spur Group", "grads": 4, "state": "NY" },
+    "599": { "company": "Trilogy Education", "grads": 2, "state": "NY" },
+    "600": { "company": "Uber", "grads": 2, "state": "NY" },
+    "601": { "company": "Warwick Investment Group", "grads": 2, "state": "NY" }
+  },
+  "New York Code + Design Academy": {
+    "602": { "company": "ABN AMRO Bank N.V.", "grads": 4, "state": "NY" },
+    "603": { "company": "Apple", "grads": 4, "state": "NY" },
+    "604": { "company": "Capgemini", "grads": 3, "state": "NY" },
+    "605": { "company": "Cognizant", "grads": 3, "state": "NY" },
+    "606": { "company": "Comcast", "grads": 5, "state": "NY" },
+    "607": { "company": "Gartner", "grads": 3, "state": "NY" },
+    "608": { "company": "Google", "grads": 5, "state": "NY" },
+    "609": { "company": "Incentro", "grads": 4, "state": "NY" },
+    "610": { "company": "IntuitSolutions", "grads": 7, "state": "NY" },
+    "611": { "company": "LinkedIn", "grads": 3, "state": "NY" },
+    "612": {
+      "company": "NYC Department of Education",
+      "grads": 3,
+      "state": "NY"
+    },
+    "613": {
+      "company": "University of Pennsylvania",
+      "grads": 3,
+      "state": "NY"
+    }
+  },
+  "Noble Desktop": {
+    "614": { "company": "Apple", "grads": 4, "state": "NY" },
+    "615": { "company": "Conscience VC", "grads": 2, "state": "NY" },
+    "616": { "company": "FCB Health", "grads": 3, "state": "NY" },
+    "617": { "company": "Hachette Book Group", "grads": 2, "state": "NY" },
+    "618": { "company": "IBM", "grads": 2, "state": "NY" },
+    "619": { "company": "JPMorgan Chase & Co.", "grads": 2, "state": "NY" },
+    "620": { "company": "Meredith Corporation", "grads": 2, "state": "NY" },
+    "621": { "company": "Penguin Random House", "grads": 2, "state": "NY" },
+    "622": { "company": "Pratt Institute", "grads": 2, "state": "NY" },
+    "623": { "company": "Rodale Inc.", "grads": 2, "state": "NY" },
+    "624": { "company": "Scholastic", "grads": 4, "state": "NY" },
+    "625": { "company": "The Conference Board", "grads": 2, "state": "NY" },
+    "626": { "company": "Upwork", "grads": 3, "state": "NY" },
+    "627": { "company": "Verizon", "grads": 2, "state": "NY" }
+  },
+  "Skillcrush": {
+    "628": { "company": "CVS Health", "grads": 3, "state": "NY" },
+    "629": { "company": "Flatiron School", "grads": 2, "state": "NY" },
+    "630": { "company": "Independent Consultant", "grads": 2, "state": "NY" },
+    "631": { "company": "lululemon", "grads": 2, "state": "NY" },
+    "632": { "company": "Lyft", "grads": 2, "state": "NY" },
+    "633": { "company": "Stitch Fix", "grads": 2, "state": "NY" },
+    "634": { "company": "T-Mobile", "grads": 2, "state": "NY" },
+    "635": {
+      "company": "U.S. Department of Veterans Affairs",
+      "grads": 3,
+      "state": "NY"
+    },
+    "636": { "company": "Ulta Beauty", "grads": 2, "state": "NY" },
+    "637": { "company": "VIPKid", "grads": 6, "state": "NY" },
+    "638": { "company": "Zapier", "grads": 2, "state": "NY" }
+  },
+  "The Grace Hopper Program at Fullstack Academy": {
+    "639": { "company": "Annalect", "grads": 2, "state": "NY" },
+    "640": { "company": "Attentive", "grads": 2, "state": "NY" },
+    "641": { "company": "Bloomberg LP", "grads": 7, "state": "NY" },
+    "642": { "company": "Bounteous", "grads": 2, "state": "NY" },
+    "643": { "company": "Datadog", "grads": 2, "state": "NY" },
+    "644": { "company": "Etsy", "grads": 3, "state": "NY" },
+    "645": { "company": "Fullstack Academy", "grads": 4, "state": "NY" },
+    "646": { "company": "Goldman Sachs", "grads": 2, "state": "NY" },
+    "647": { "company": "Google", "grads": 4, "state": "NY" },
+    "648": { "company": "Northwestern Mutual", "grads": 2, "state": "NY" },
+    "649": { "company": "T-Mobile", "grads": 2, "state": "NY" },
+    "650": { "company": "Unqork", "grads": 3, "state": "NY" }
+  },
+  "Thinkful": {
+    "651": { "company": "Amazon", "grads": 21, "state": "NY" },
+    "652": { "company": "Anant", "grads": 3, "state": "NY" },
+    "653": { "company": "Finix", "grads": 2, "state": "NY" },
+    "654": { "company": "Fiverr", "grads": 4, "state": "NY" },
+    "655": { "company": "Hack for LA", "grads": 3, "state": "NY" },
+    "656": { "company": "HubSpot", "grads": 3, "state": "NY" },
+    "657": { "company": "IBM", "grads": 8, "state": "NY" },
+    "658": { "company": "Personal Projects", "grads": 4, "state": "NY" },
+    "659": { "company": "Trilogy Education", "grads": 10, "state": "NY" },
+    "660": { "company": "Upwork", "grads": 7, "state": "NY" },
+    "661": { "company": "Walmart Global Tech", "grads": 3, "state": "NY" }
+  },
+  "MAX Technical Training & Career Programs": {
+    "662": { "company": "Bottom Line Systems", "grads": 1, "state": "OH" },
+    "663": {
+      "company": "Eurostampa North America Inc.",
+      "grads": 1,
+      "state": "OH"
+    },
+    "664": {
+      "company": "Great American Insurance Group",
+      "grads": 2,
+      "state": "OH"
+    },
+    "665": { "company": "IBM", "grads": 1, "state": "OH" },
+    "666": { "company": "K-Electric", "grads": 1, "state": "OH" },
+    "667": { "company": "Kroger Technology", "grads": 4, "state": "OH" },
+    "668": {
+      "company": "Matthews Automation Solutions",
+      "grads": 2,
+      "state": "OH"
+    },
+    "669": {
+      "company": "Ohio National Financial Services",
+      "grads": 1,
+      "state": "OH"
+    },
+    "670": { "company": "Procter & Gamble", "grads": 3, "state": "OH" },
+    "671": { "company": "Seven Hills Technology", "grads": 1, "state": "OH" },
+    "672": {
+      "company": "Shoptech Software - Manufacturing Software",
+      "grads": 1,
+      "state": "OH"
+    },
+    "673": {
+      "company": "The Cincinnati Insurance Companies",
+      "grads": 1,
+      "state": "OH"
+    },
+    "674": {
+      "company": "Top Gun Sales Performance",
+      "grads": 1,
+      "state": "OH"
+    },
+    "675": { "company": "Total Quality Logistics", "grads": 2, "state": "OH" }
+  },
+  "Tech Elevator": {
+    "676": {
+      "company": "AmTrust Financial Services Inc.",
+      "grads": 12,
+      "state": "OH"
+    },
+    "677": { "company": "BNY Mellon", "grads": 20, "state": "OH" },
+    "678": { "company": "DICK'S Sporting Goods", "grads": 11, "state": "OH" },
+    "679": { "company": "Edaptive Computing Inc.", "grads": 10, "state": "OH" },
+    "680": { "company": "Fifth Third Bank", "grads": 13, "state": "OH" },
+    "681": { "company": "JPMorgan Chase & Co.", "grads": 138, "state": "OH" },
+    "682": { "company": "KeyBank", "grads": 14, "state": "OH" },
+    "683": { "company": "London Computer Systems", "grads": 17, "state": "OH" },
+    "684": {
+      "company": "National General Insurance",
+      "grads": 39,
+      "state": "OH"
+    },
+    "685": { "company": "Nationwide", "grads": 18, "state": "OH" },
+    "686": { "company": "Olive", "grads": 21, "state": "OH" },
+    "687": { "company": "PNC", "grads": 243, "state": "OH" },
+    "688": { "company": "Progressive Insurance", "grads": 34, "state": "OH" },
+    "689": {
+      "company": "United Wholesale Mortgage",
+      "grads": 15,
+      "state": "OH"
+    }
+  },
+  "We Can Code IT": {
+    "690": { "company": "Acumen Solutions", "grads": 5, "state": "OH" },
+    "691": { "company": "Apple", "grads": 3, "state": "OH" },
+    "692": { "company": "Cardinal Health", "grads": 4, "state": "OH" },
+    "693": { "company": "CoverMyMeds", "grads": 3, "state": "OH" },
+    "694": { "company": "Foundation Software", "grads": 4, "state": "OH" },
+    "695": { "company": "Huntington National Bank", "grads": 6, "state": "OH" },
+    "696": { "company": "JPMorgan Chase & Co.", "grads": 23, "state": "OH" },
+    "697": { "company": "KeyBank", "grads": 4, "state": "OH" },
+    "698": { "company": "MoreSteam", "grads": 3, "state": "OH" },
+    "699": {
+      "company": "National General Insurance",
+      "grads": 5,
+      "state": "OH"
+    },
+    "700": { "company": "Nationwide", "grads": 6, "state": "OH" },
+    "701": { "company": "PNC", "grads": 9, "state": "OH" },
+    "702": { "company": "Progressive Insurance", "grads": 14, "state": "OH" },
+    "703": { "company": "Root Inc.", "grads": 4, "state": "OH" }
+  },
+  "Alchemy Code Lab": {
+    "704": { "company": "Adobe", "grads": 3, "state": "OR" },
+    "705": { "company": "Allocations", "grads": 2, "state": "OR" },
+    "706": { "company": "Emsi", "grads": 2, "state": "OR" },
+    "707": { "company": "Esri", "grads": 2, "state": "OR" },
+    "708": { "company": "EventBuilder", "grads": 1, "state": "OR" },
+    "709": { "company": "Hatch Data", "grads": 2, "state": "OR" },
+    "710": { "company": "HealthSparq", "grads": 2, "state": "OR" },
+    "711": { "company": "Kinship", "grads": 3, "state": "OR" },
+    "712": { "company": "Kroger Technology", "grads": 2, "state": "OR" },
+    "713": { "company": "Lithia Motors", "grads": 5, "state": "OR" },
+    "714": { "company": "Nike", "grads": 4, "state": "OR" },
+    "715": { "company": "Schoolhouse", "grads": 2, "state": "OR" },
+    "716": { "company": "Sprinklr", "grads": 5, "state": "OR" },
+    "717": { "company": "Squishymedia", "grads": 2, "state": "OR" }
+  },
+  "Epicodus": {
+    "718": { "company": "Ascend Software", "grads": 6, "state": "OR" },
+    "719": { "company": "EyeCue Lab", "grads": 7, "state": "OR" },
+    "720": { "company": "Goalden Hour", "grads": 4, "state": "OR" },
+    "721": { "company": "Hubb", "grads": 3, "state": "OR" },
+    "722": { "company": "iGrafx", "grads": 4, "state": "OR" },
+    "723": {
+      "company": "Microsoft Leap Apprenticeship Program",
+      "grads": 3,
+      "state": "OR"
+    },
+    "724": {
+      "company": "National Society of Black Engineers",
+      "grads": 3,
+      "state": "OR"
+    },
+    "725": { "company": "New Relic Inc.", "grads": 6, "state": "OR" },
+    "726": { "company": "Nike", "grads": 6, "state": "OR" },
+    "727": { "company": "Nombolo", "grads": 8, "state": "OR" },
+    "728": { "company": "PDXR", "grads": 3, "state": "OR" },
+    "729": { "company": "Pollinate", "grads": 3, "state": "OR" },
+    "730": { "company": "Tuft & Needle", "grads": 3, "state": "OR" },
+    "731": { "company": "UGrow", "grads": 5, "state": "OR" }
+  },
+  "The Tech Academy": {
+    "732": { "company": "Adobe", "grads": 2, "state": "OR" },
+    "733": { "company": "Amazon", "grads": 3, "state": "OR" },
+    "734": { "company": "Conduent", "grads": 3, "state": "OR" },
+    "735": { "company": "Epiq", "grads": 2, "state": "OR" },
+    "736": { "company": "Intel Corporation", "grads": 4, "state": "OR" },
+    "737": { "company": "Microsoft", "grads": 6, "state": "OR" },
+    "738": { "company": "New Relic Inc.", "grads": 5, "state": "OR" },
+    "739": { "company": "Nike", "grads": 4, "state": "OR" },
+    "740": { "company": "Novus Labs", "grads": 2, "state": "OR" },
+    "741": { "company": "Prosper I.T. Consulting", "grads": 28, "state": "OR" },
+    "742": { "company": "Smarsh", "grads": 2, "state": "OR" },
+    "743": { "company": "The Home Depot", "grads": 2, "state": "OR" }
+  },
+  "Academy Pittsburgh": {
+    "744": {
+      "company": "Advanced Computer & Network Corp. (AC&NC) JetStor",
+      "grads": 1,
+      "state": "PA"
+    },
+    "745": { "company": "Behaivior", "grads": 1, "state": "PA" },
+    "746": { "company": "Build412 Tech", "grads": 1, "state": "PA" },
+    "747": { "company": "CoverMyMeds", "grads": 1, "state": "PA" },
+    "748": { "company": "numo llc", "grads": 3, "state": "PA" },
+    "749": { "company": "PNC", "grads": 5, "state": "PA" },
+    "750": {
+      "company": "Seeking a New Opportunity",
+      "grads": 1,
+      "state": "PA"
+    },
+    "751": { "company": "Sparkbox", "grads": 1, "state": "PA" },
+    "752": { "company": "Velocity Works", "grads": 1, "state": "PA" },
+    "753": { "company": "Work Hard Solutions", "grads": 1, "state": "PA" }
+  },
+  "Nashville Software School": {
+    "754": { "company": "Accenture", "grads": 39, "state": "TN" },
+    "755": { "company": "AllianceBernstein", "grads": 11, "state": "TN" },
+    "756": { "company": "Aspire Health Inc.", "grads": 10, "state": "TN" },
+    "757": { "company": "Built Technologies", "grads": 18, "state": "TN" },
+    "758": { "company": "FortyAU", "grads": 12, "state": "TN" },
+    "759": { "company": "HCA Healthcare", "grads": 16, "state": "TN" },
+    "760": { "company": "Healthcare Bluebook", "grads": 13, "state": "TN" },
+    "761": { "company": "HealthStream", "grads": 13, "state": "TN" },
+    "762": {
+      "company": "National General Insurance",
+      "grads": 10,
+      "state": "TN"
+    },
+    "763": { "company": "naviHealth", "grads": 9, "state": "TN" },
+    "764": { "company": "Ncontracts", "grads": 10, "state": "TN" },
+    "765": { "company": "Ramsey Solutions", "grads": 13, "state": "TN" },
+    "766": {
+      "company": "Tennessee Department of Transportation",
+      "grads": 9,
+      "state": "TN"
+    },
+    "767": {
+      "company": "Vanderbilt University Medical Center",
+      "grads": 12,
+      "state": "TN"
+    }
+  },
+  "Codeup": {
+    "768": { "company": "Accenture", "grads": 17, "state": "TX" },
+    "769": {
+      "company": "Accenture Federal Services",
+      "grads": 31,
+      "state": "TX"
+    },
+    "770": { "company": "Appddiction Studio", "grads": 20, "state": "TX" },
+    "771": { "company": "Booz Allen Hamilton", "grads": 8, "state": "TX" },
+    "772": { "company": "CaptureRx", "grads": 9, "state": "TX" },
+    "773": { "company": "Cognizant", "grads": 13, "state": "TX" },
+    "774": {
+      "company": "Guardian Premier Solutions (GPS) LLC",
+      "grads": 9,
+      "state": "TX"
+    },
+    "775": { "company": "H-E-B", "grads": 9, "state": "TX" },
+    "776": { "company": "Silotech Group Inc", "grads": 5, "state": "TX" },
+    "777": { "company": "SWBC", "grads": 10, "state": "TX" },
+    "778": { "company": "TaskUs", "grads": 6, "state": "TX" },
+    "779": { "company": "USAA", "grads": 47, "state": "TX" }
+  },
+  "Inventive Academy": {
+    "780": {
+      "company": "Darwin Homes - Property Management",
+      "grads": 1,
+      "state": "TX"
+    },
+    "781": { "company": "eCommission", "grads": 1, "state": "TX" },
+    "782": { "company": "Graafschap College", "grads": 1, "state": "TX" },
+    "783": { "company": "InstiWitty Media Studios", "grads": 1, "state": "TX" },
+    "784": { "company": "Itzu Jobs", "grads": 1, "state": "TX" },
+    "785": { "company": "MB Aerospace", "grads": 1, "state": "TX" },
+    "786": { "company": "Mindtree", "grads": 1, "state": "TX" },
+    "787": { "company": "Point Security LLC", "grads": 1, "state": "TX" },
+    "788": { "company": "Polamer Precision Inc.", "grads": 1, "state": "TX" },
+    "789": { "company": "RepHQ LLC", "grads": 2, "state": "TX" },
+    "790": { "company": "Subh Muhurat", "grads": 1, "state": "TX" }
+  },
+  "UT Austin Boot Camps": {
+    "791": { "company": "Digital Pharmacist Inc.", "grads": 1, "state": "TX" },
+    "792": { "company": "Siemens", "grads": 1, "state": "TX" },
+    "793": { "company": "Visio Lending", "grads": 1, "state": "TX" }
+  },
+  "Bottega Career Services": {
+    "794": { "company": "Alder Holdings LLC", "grads": 3, "state": "UT" },
+    "795": { "company": "Amazon", "grads": 5, "state": "UT" },
+    "796": { "company": "Avii", "grads": 3, "state": "UT" },
+    "797": { "company": "Coforge", "grads": 4, "state": "UT" },
+    "798": { "company": "Conscience VC", "grads": 6, "state": "UT" },
+    "799": { "company": "Dev Pipeline", "grads": 4, "state": "UT" },
+    "800": { "company": "Edge by Ascential", "grads": 3, "state": "UT" },
+    "801": { "company": "Hoverstate", "grads": 3, "state": "UT" },
+    "802": { "company": "MX", "grads": 3, "state": "UT" },
+    "803": { "company": "Upwork", "grads": 4, "state": "UT" }
+  },
+  "Devmountain": {
+    "804": { "company": "Divvy | Inc.", "grads": 14, "state": "UT" },
+    "805": { "company": "MX", "grads": 22, "state": "UT" },
+    "806": { "company": "Overstock.com", "grads": 16, "state": "UT" },
+    "807": { "company": "Pluralsight", "grads": 18, "state": "UT" },
+    "808": { "company": "Podium", "grads": 25, "state": "UT" },
+    "809": { "company": "projekt202", "grads": 8, "state": "UT" },
+    "810": { "company": "TCN", "grads": 6, "state": "UT" },
+    "811": {
+      "company": "The Church of Jesus Christ of Latter-day Saints",
+      "grads": 17,
+      "state": "UT"
+    },
+    "812": { "company": "Veryable", "grads": 7, "state": "UT" },
+    "813": { "company": "Vivint", "grads": 14, "state": "UT" },
+    "814": { "company": "Workfront", "grads": 7, "state": "UT" }
+  },
+  "DevPoint Labs": {
+    "815": { "company": "Acima Credit", "grads": 4, "state": "UT" },
+    "816": { "company": "ARUP Laboratories", "grads": 3, "state": "UT" },
+    "817": { "company": "Direct®", "grads": 3, "state": "UT" },
+    "818": { "company": "Divvy | Inc.", "grads": 3, "state": "UT" },
+    "819": { "company": "ExpertVoice", "grads": 3, "state": "UT" },
+    "820": { "company": "Fidelity Investments", "grads": 3, "state": "UT" },
+    "821": { "company": "Goldman Sachs", "grads": 3, "state": "UT" },
+    "822": { "company": "Instructure", "grads": 3, "state": "UT" },
+    "823": { "company": "Mavenlink", "grads": 3, "state": "UT" },
+    "824": { "company": "MX", "grads": 5, "state": "UT" },
+    "825": { "company": "Nav Inc.", "grads": 3, "state": "UT" },
+    "826": {
+      "company": "Shareworks by Morgan Stanley",
+      "grads": 3,
+      "state": "UT"
+    },
+    "827": {
+      "company": "The Church of Jesus Christ of Latter-day Saints",
+      "grads": 3,
+      "state": "UT"
+    },
+    "828": { "company": "Verisys Corporation", "grads": 6, "state": "UT" }
+  },
+  "V School": {
+    "829": { "company": "Adobe", "grads": 9, "state": "UT" },
+    "830": { "company": "Conscience VC", "grads": 3, "state": "UT" },
+    "831": { "company": "Divvy | Inc.", "grads": 4, "state": "UT" },
+    "832": { "company": "Fidelity Investments", "grads": 3, "state": "UT" },
+    "833": { "company": "IBM", "grads": 2, "state": "UT" },
+    "834": { "company": "Impartner Software", "grads": 2, "state": "UT" },
+    "835": { "company": "O.C. Tanner", "grads": 3, "state": "UT" },
+    "836": { "company": "Smash Creative", "grads": 4, "state": "UT" },
+    "837": { "company": "Verisage Custom Software", "grads": 3, "state": "UT" },
+    "838": { "company": "VMware", "grads": 3, "state": "UT" },
+    "839": { "company": "Weave HQ", "grads": 2, "state": "UT" },
+    "840": { "company": "XANT", "grads": 3, "state": "UT" }
+  },
+  "Burlington Code Academy": {
+    "841": { "company": "Asure Software", "grads": 2, "state": "VT" },
+    "842": { "company": "Burton Snowboards", "grads": 1, "state": "VT" },
+    "843": { "company": "Dealer.com", "grads": 4, "state": "VT" },
+    "844": { "company": "EZ-Probate Inc.", "grads": 1, "state": "VT" },
+    "845": { "company": "Impulse Creative", "grads": 1, "state": "VT" },
+    "846": { "company": "Jay Peak Resort", "grads": 1, "state": "VT" },
+    "847": { "company": "New Breed", "grads": 2, "state": "VT" },
+    "848": { "company": "oK", "grads": 3, "state": "VT" },
+    "849": { "company": "Select Design", "grads": 2, "state": "VT" },
+    "850": { "company": "trUStr ®", "grads": 1, "state": "VT" },
+    "851": { "company": "Vermont Systems", "grads": 1, "state": "VT" }
+  },
+  "Code Fellows": {
+    "852": {
+      "company": "Abdul Aziz Al Ghurair School of Advanced Computing (ASAC)",
+      "grads": 6,
+      "state": "WA"
+    },
+    "853": { "company": "Amazon", "grads": 48, "state": "WA" },
+    "854": {
+      "company": "Amazon Web Services (AWS)",
+      "grads": 42,
+      "state": "WA"
+    },
+    "855": { "company": "Avalara", "grads": 13, "state": "WA" },
+    "856": { "company": "Expedia Group", "grads": 13, "state": "WA" },
+    "857": { "company": "F5", "grads": 7, "state": "WA" },
+    "858": { "company": "Microsoft", "grads": 100, "state": "WA" },
+    "859": { "company": "Nike", "grads": 7, "state": "WA" },
+    "860": { "company": "Nordstrom", "grads": 11, "state": "WA" },
+    "861": { "company": "SAP Concur", "grads": 7, "state": "WA" },
+    "862": { "company": "Slalom Build", "grads": 8, "state": "WA" },
+    "863": { "company": "Smartsheet", "grads": 6, "state": "WA" },
+    "864": { "company": "US Army", "grads": 9, "state": "WA" },
+    "865": { "company": "Zonar Systems", "grads": 10, "state": "WA" }
+  },
+  "Coding Dojo": {
+    "866": { "company": "Accenture", "grads": 13, "state": "WA" },
+    "867": { "company": "Amazon", "grads": 52, "state": "WA" },
+    "868": {
+      "company": "Amazon Web Services (AWS)",
+      "grads": 14,
+      "state": "WA"
+    },
+    "869": { "company": "Conscience VC", "grads": 10, "state": "WA" },
+    "870": { "company": "Google", "grads": 11, "state": "WA" },
+    "871": { "company": "Infosys", "grads": 10, "state": "WA" },
+    "872": { "company": "Microsoft", "grads": 53, "state": "WA" },
+    "873": { "company": "Mindtree", "grads": 9, "state": "WA" },
+    "874": { "company": "The Difference Engine", "grads": 5, "state": "WA" },
+    "875": { "company": "Upwork", "grads": 8, "state": "WA" },
+    "876": { "company": "US Army", "grads": 12, "state": "WA" }
+  },
+  "Nucamp Coding Bootcamp": {
+    "877": { "company": "Amazon", "grads": 8, "state": "WA" },
+    "878": { "company": "Apple", "grads": 3, "state": "WA" },
+    "879": { "company": "Infosys", "grads": 3, "state": "WA" },
+    "880": { "company": "Microsoft", "grads": 9, "state": "WA" },
+    "881": { "company": "TEKsystems", "grads": 3, "state": "WA" },
+    "882": { "company": "United States Air Force", "grads": 3, "state": "WA" },
+    "883": { "company": "US Army", "grads": 3, "state": "WA" },
+    "884": { "company": "Verizon", "grads": 3, "state": "WA" },
+    "885": { "company": "Walgreens", "grads": 3, "state": "WA" },
+    "886": { "company": "Walmart", "grads": 3, "state": "WA" }
+  },
+  "The Array School of Technology and Design": {
+    "887": {
+      "company": "Advent Information Systems L.L.C.",
+      "grads": 2,
+      "state": "WY"
+    },
+    "888": {
+      "company": "Campbell County Public Library System",
+      "grads": 1,
+      "state": "WY"
+    },
+    "889": { "company": "Holland & Hart LLP", "grads": 1, "state": "WY" },
+    "890": {
+      "company": "Laramie County Library System",
+      "grads": 1,
+      "state": "WY"
+    },
+    "891": {
+      "company": "Medicine Bow Technologies Inc.",
+      "grads": 1,
+      "state": "WY"
+    },
+    "892": {
+      "company": "PBR MARKETING & PRINTING SOLUTIONS",
+      "grads": 1,
+      "state": "WY"
+    },
+    "893": { "company": "State of Wyoming", "grads": 1, "state": "WY" },
+    "894": { "company": "The TJX Companies Inc.", "grads": 1, "state": "WY" },
+    "895": { "company": "University of Wyoming", "grads": 1, "state": "WY" }
+  },
+  "Lambda School": {
+    "896": { "company": "AAK TELE-SCIENCE Inc.", "grads": 6, "state": "" },
+    "897": { "company": "Amazon", "grads": 20, "state": "" },
+    "898": { "company": "Amazon Web Services (AWS)", "grads": 20, "state": "" },
+    "899": { "company": "Nexient", "grads": 24, "state": "" },
+    "900": { "company": "Northwestern Mutual", "grads": 12, "state": "" },
+    "901": { "company": "Sirch", "grads": 8, "state": "" },
+    "902": { "company": "Sterling Bank Plc", "grads": 5, "state": "" },
+    "903": { "company": "Story Squad", "grads": 15, "state": "" },
+    "904": { "company": "Upwork", "grads": 9, "state": "" }
+  },
+  "The Iron Yard": {
+    "905": { "company": "Benefitfocus", "grads": 5, "state": "" },
+    "906": { "company": "Blackbaud", "grads": 10, "state": "" },
+    "907": {
+      "company": "BoomTown - Real Estate Platform",
+      "grads": 5,
+      "state": ""
+    },
+    "908": { "company": "Booz Allen Hamilton", "grads": 8, "state": "" },
+    "909": { "company": "Cox Automotive Inc.", "grads": 5, "state": "" },
+    "910": {
+      "company": "Experian's Clarity Services",
+      "grads": 4,
+      "state": ""
+    },
+    "911": { "company": "Liberty Mutual Insurance", "grads": 13, "state": "" },
+    "912": { "company": "Pendo.io", "grads": 4, "state": "" },
+    "913": { "company": "Red Hat", "grads": 7, "state": "" },
+    "914": { "company": "Red Ventures", "grads": 6, "state": "" },
+    "915": { "company": "Relias", "grads": 4, "state": "" },
+    "916": { "company": "Salesforce", "grads": 5, "state": "" },
+    "917": {
+      "company": "Social Security Administration",
+      "grads": 4,
+      "state": ""
+    },
+    "918": { "company": "Somo Global", "grads": 5, "state": "" }
+  },
+  "Wild Code School": {
+    "919": { "company": "Apside", "grads": 17, "state": "" },
+    "920": { "company": "Betclic Group", "grads": 4, "state": "" },
+    "921": { "company": "Capgemini", "grads": 14, "state": "" },
+    "922": { "company": "Cdiscount", "grads": 6, "state": "" },
+    "923": { "company": "CGI", "grads": 23, "state": "" },
+    "924": { "company": "Clever Age", "grads": 6, "state": "" },
+    "925": { "company": "DECATHLON FRANCE", "grads": 5, "state": "" },
+    "926": { "company": "Enedis", "grads": 5, "state": "" },
+    "927": { "company": "Inetum", "grads": 5, "state": "" },
+    "928": { "company": "ITDM Group", "grads": 4, "state": "" },
+    "929": { "company": "La Pilule Rouge", "grads": 11, "state": "" },
+    "930": { "company": "onepoint", "grads": 25, "state": "" },
+    "931": { "company": "OpenClassrooms", "grads": 11, "state": "" },
+    "932": { "company": "Pôle emploi", "grads": 10, "state": "" }
+  }
+}
