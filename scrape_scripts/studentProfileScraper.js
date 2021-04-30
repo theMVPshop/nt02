@@ -1,6 +1,6 @@
 const util = require("util");
 const puppeteer = require("puppeteer");
-const studentLinks = require("./data(json)/tmpLinks.json");
+const studentLinks = require("../data(json)/tmpLinks.json");
 const sleep = require("util").promisify(setTimeout);
 const C = require("./constants");
 const USERNAME_SELECTOR = "#session_key";

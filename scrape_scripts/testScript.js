@@ -32,5 +32,3 @@ console.log(
       );
     }, {})
 );
-
-// {...obj, {[schoolName || idx]: datapointShape}}
