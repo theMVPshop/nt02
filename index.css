@@ -1,7 +1,36 @@
+/* @use postcss-cssnext; */
 body {
-    background-color: 'BBB';
+  font-family: system-ui;
+}
+section {
+  display: flex;
+  height: 100vh;
+}
+section > * {
+  margin: auto;
+}
+section div {
+  width: 70vw;
+}
+section svg {
+  width: 100%;
+  height: 100%;
+}
+path,
+circle {
+  /* fill: #16a085; */
+  transition: all 300ms;
+  transform-origin: 50% 50%;
+}
+path:hover,
+circle:hover {
+  fill: #2980b9;
+}
+
+/* body {
+  background-color: "BBB";
 }
 
 h1 {
-    color: Orange;
-}
+  color: Orange;
+} */
