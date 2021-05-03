@@ -1,0 +1,3569 @@
+{
+    "name": "companies",
+    "children": [
+        {
+            "name": "Google",
+            "children": [
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 49
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 53
+                },
+                {
+                    "name": "Developer",
+                    "value": 11
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 123
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 26
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 35
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 21
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 17
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 65
+                },
+                {
+                    "name": "Entry Level Network Engineer",
+                    "value": 5
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 42
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 20
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 119
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 15
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 20
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 33
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 19
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 27
+                },
+                {
+                    "name": "Robotics Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "Programmer",
+                    "value": 23
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 29
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 15
+                },
+                {
+                    "name": "Machine Learning Engineer",
+                    "value": 13
+                },
+                {
+                    "name": "Android Developer",
+                    "value": 3
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 12
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 20
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 13
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 30
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 31
+                },
+                {
+                    "name": "Wordpress Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 18
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 17
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 10
+                },
+                {
+                    "name": "React Developer",
+                    "value": 10
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 12
+                },
+                {
+                    "name": "Network Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Oracle Developer",
+                    "value": 3
+                },
+                {
+                    "name": "C# Developer",
+                    "value": 4
+                },
+                {
+                    "name": "QA Engineer",
+                    "value": 5
+                },
+                {
+                    "name": "Sharepoint Developer",
+                    "value": 6
+                },
+                {
+                    "name": "AWS Solutions Architect",
+                    "value": 11
+                },
+                {
+                    "name": "Application Security Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Java Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Programmer Analyst",
+                    "value": 2
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 12
+                },
+                {
+                    "name": "UI Developer",
+                    "value": 6
+                },
+                {
+                    "name": "IOS Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Oracle SQL Developer",
+                    "value": 1
+                },
+                {
+                    "name": "PHP Developer",
+                    "value": 6
+                },
+                {
+                    "name": "Embedded Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "JavaScript Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Blockchain Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Coder",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Springboard",
+            "children": [
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 72
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 44
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 42
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 13
+                },
+                {
+                    "name": "IOS Developer",
+                    "value": 7
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 15
+                },
+                {
+                    "name": "Sharepoint Developer",
+                    "value": 7
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 38
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 117
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 22
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 110
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 26
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 28
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 10
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 13
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 18
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 14
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 21
+                },
+                {
+                    "name": "QA Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "Developer",
+                    "value": 15
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 27
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 12
+                },
+                {
+                    "name": "Java Developer",
+                    "value": 8
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 8
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 17
+                },
+                {
+                    "name": "Embedded Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 20
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 7
+                },
+                {
+                    "name": "Oracle SQL Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 14
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 12
+                },
+                {
+                    "name": "Machine Learning Engineer",
+                    "value": 15
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 31
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 18
+                },
+                {
+                    "name": "Coder",
+                    "value": 7
+                },
+                {
+                    "name": "AWS Solutions Architect",
+                    "value": 5
+                },
+                {
+                    "name": "UI Developer",
+                    "value": 10
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 7
+                },
+                {
+                    "name": "Wordpress Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 8
+                },
+                {
+                    "name": "Network Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "JavaScript Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Programmer",
+                    "value": 11
+                },
+                {
+                    "name": "Blockchain Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Robotics Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "PHP Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Oracle Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Entry Level Network Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Android Developer",
+                    "value": 3
+                },
+                {
+                    "name": "React Developer",
+                    "value": 2
+                },
+                {
+                    "name": "C# Developer",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "name": "Microsoft",
+            "children": [
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 48
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 41
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 78
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 17
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 18
+                },
+                {
+                    "name": "Machine Learning Engineer",
+                    "value": 6
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 29
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 15
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 12
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 81
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 12
+                },
+                {
+                    "name": "Developer",
+                    "value": 11
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 13
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 27
+                },
+                {
+                    "name": "C# Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Oracle SQL Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 6
+                },
+                {
+                    "name": "Coder",
+                    "value": 8
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 15
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 11
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 10
+                },
+                {
+                    "name": "Sharepoint Developer",
+                    "value": 1
+                },
+                {
+                    "name": "IOS Developer",
+                    "value": 2
+                },
+                {
+                    "name": "AWS Solutions Architect",
+                    "value": 6
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 14
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 18
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 6
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 20
+                },
+                {
+                    "name": "Wordpress Developer",
+                    "value": 7
+                },
+                {
+                    "name": "Entry Level Network Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "Programmer Analyst",
+                    "value": 3
+                },
+                {
+                    "name": "QA Engineer",
+                    "value": 5
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 11
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 6
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 13
+                },
+                {
+                    "name": "UI Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Programmer",
+                    "value": 10
+                },
+                {
+                    "name": "Oracle Developer",
+                    "value": 2
+                },
+                {
+                    "name": "PHP Developer",
+                    "value": 8
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 11
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 11
+                },
+                {
+                    "name": "Robotics Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "React Developer",
+                    "value": 6
+                },
+                {
+                    "name": "JavaScript Developer",
+                    "value": 5
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 3
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 11
+                },
+                {
+                    "name": "Embedded Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 8
+                },
+                {
+                    "name": "Application Security Engineer",
+                    "value": 5
+                },
+                {
+                    "name": "Network Engineer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Facebook",
+            "children": [
+                {
+                    "name": "SQL Developer",
+                    "value": 22
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 18
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 13
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 41
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 18
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 8
+                },
+                {
+                    "name": "Programmer",
+                    "value": 11
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 15
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 63
+                },
+                {
+                    "name": "Machine Learning Engineer",
+                    "value": 9
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 36
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 14
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 7
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 23
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 40
+                },
+                {
+                    "name": "UI Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 15
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 7
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 63
+                },
+                {
+                    "name": "Entry Level Network Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Developer",
+                    "value": 7
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 9
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 3
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 17
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 12
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 10
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 10
+                },
+                {
+                    "name": "IOS Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 10
+                },
+                {
+                    "name": "Programmer Analyst",
+                    "value": 2
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 13
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 11
+                },
+                {
+                    "name": "Oracle SQL Developer",
+                    "value": 4
+                },
+                {
+                    "name": "React Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 10
+                },
+                {
+                    "name": "Embedded Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 7
+                },
+                {
+                    "name": "AWS Solutions Architect",
+                    "value": 4
+                },
+                {
+                    "name": "Robotics Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "JavaScript Developer",
+                    "value": 5
+                },
+                {
+                    "name": "PHP Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Java Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Blockchain Developer",
+                    "value": 2
+                },
+                {
+                    "name": "C# Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Android Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Oracle Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Sharepoint Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Coder",
+                    "value": 1
+                },
+                {
+                    "name": "QA Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Wordpress Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "IBM",
+            "children": [
+                {
+                    "name": "Front End Developer",
+                    "value": 9
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 7
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 12
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 28
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 25
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 11
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 13
+                },
+                {
+                    "name": "PHP Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 51
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 19
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 17
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 9
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 9
+                },
+                {
+                    "name": "QA Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Machine Learning Engineer",
+                    "value": 7
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 6
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 11
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 50
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 13
+                },
+                {
+                    "name": "Programmer",
+                    "value": 9
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 10
+                },
+                {
+                    "name": "UI Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 26
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 15
+                },
+                {
+                    "name": "Application Security Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 6
+                },
+                {
+                    "name": "Embedded Software Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 14
+                },
+                {
+                    "name": "Wordpress Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 12
+                },
+                {
+                    "name": "Blockchain Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Developer",
+                    "value": 6
+                },
+                {
+                    "name": "Java Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Sharepoint Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Oracle Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Robotics Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Network Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "JavaScript Developer",
+                    "value": 3
+                },
+                {
+                    "name": "React Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Network Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "AWS Solutions Architect",
+                    "value": 2
+                },
+                {
+                    "name": "C# Developer",
+                    "value": 2
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 4
+                },
+                {
+                    "name": "Android Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Oracle SQL Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Programmer Analyst",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Bloomberg LP",
+            "children": [
+                {
+                    "name": "Computer Programmer",
+                    "value": 4
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Entry Level Network Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 11
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 8
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 2
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Programmer",
+                    "value": 5
+                },
+                {
+                    "name": "Wordpress Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 10
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Sharepoint Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 6
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 5
+                },
+                {
+                    "name": "QA Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Machine Learning Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "C# Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 6
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Blockchain Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Embedded Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "LinkedIn",
+            "children": [
+                {
+                    "name": "CNC Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Sharepoint Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Machine Learning Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "PHP Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 6
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 6
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 6
+                },
+                {
+                    "name": "Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 8
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 8
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 1
+                },
+                {
+                    "name": "IOS Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 1
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Wordpress Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 7
+                },
+                {
+                    "name": "Oracle SQL Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Application Security Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 1
+                },
+                {
+                    "name": "UI Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 1
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Coder",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Spotify",
+            "children": [
+                {
+                    "name": "SQL Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 6
+                },
+                {
+                    "name": "IOS Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 9
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "Programmer",
+                    "value": 3
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 6
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 6
+                },
+                {
+                    "name": "Robotics Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "React Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 10
+                },
+                {
+                    "name": "Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 6
+                },
+                {
+                    "name": "C# Developer",
+                    "value": 1
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Machine Learning Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Sharepoint Developer",
+                    "value": 1
+                },
+                {
+                    "name": "PHP Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 2
+                },
+                {
+                    "name": "AWS Solutions Architect",
+                    "value": 3
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 2
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "name": "Quicken Loans",
+            "children": [
+                {
+                    "name": "Software Engineer",
+                    "value": 14
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 13
+                },
+                {
+                    "name": "Robotics Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Machine Learning Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 11
+                },
+                {
+                    "name": "Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 6
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Network Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 3
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 1
+                },
+                {
+                    "name": "IOS Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Target",
+            "children": [
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 4
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 11
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 3
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 6
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 1
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Wordpress Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "AWS Solutions Architect",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Machine Learning Engineer",
+                    "value": 1
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Wayfair",
+            "children": [
+                {
+                    "name": "Jr Developer",
+                    "value": 8
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 7
+                },
+                {
+                    "name": "Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 5
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "Embedded Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Machine Learning Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 1
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Sharepoint Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 2
+                },
+                {
+                    "name": "JavaScript Developer",
+                    "value": 1
+                },
+                {
+                    "name": "UI Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Wordpress Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Developer",
+                    "value": 1
+                },
+                {
+                    "name": "IOS Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Oracle Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Scotiabank",
+            "children": [
+                {
+                    "name": "Entry Level Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 7
+                },
+                {
+                    "name": "Developer",
+                    "value": 2
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 8
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 1
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 6
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 2
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Application Security Engineer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "National General Insurance",
+            "children": [
+                {
+                    "name": "CNC Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Sharepoint Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 3
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 5
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 8
+                },
+                {
+                    "name": "React Developer",
+                    "value": 1
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Oracle SQL Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Wordpress Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 5
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 1
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Application Security Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Machine Learning Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "QA Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Progressive Insurance",
+            "children": [
+                {
+                    "name": "Application Security Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Network Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 7
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 7
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 5
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "PHP Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Robotics Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Blockchain Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "lululemon",
+            "children": [
+                {
+                    "name": ".NET Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "PHP Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Robotics Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 1
+                },
+                {
+                    "name": "IOS Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "US Army",
+            "children": [
+                {
+                    "name": ".NET Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 8
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Java Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Oracle Developer",
+                    "value": 1
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Wordpress Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "React Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 1
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Sharepoint Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Best Buy",
+            "children": [
+                {
+                    "name": "Full Stack Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 2
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Application Security Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 6
+                },
+                {
+                    "name": "JavaScript Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Programmer Analyst",
+                    "value": 1
+                },
+                {
+                    "name": "UI Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 1
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 3
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Network Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Android Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Programmer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Uber",
+            "children": [
+                {
+                    "name": "Junior Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 8
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Embedded Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "QA Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Programmer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Citi",
+            "children": [
+                {
+                    "name": "Software Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 6
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "PHP Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Application Security Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Programmer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "The New York Times",
+            "children": [
+                {
+                    "name": "Software Engineer",
+                    "value": 5
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 2
+                },
+                {
+                    "name": "UI Developer",
+                    "value": 1
+                },
+                {
+                    "name": "JavaScript Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Embedded Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Oracle Developer",
+                    "value": 1
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "PHP Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Etsy",
+            "children": [
+                {
+                    "name": ".NET Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Android Developer",
+                    "value": 1
+                },
+                {
+                    "name": "IOS Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 1
+                },
+                {
+                    "name": "C# Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Nationwide",
+            "children": [
+                {
+                    "name": "Sharepoint Developer",
+                    "value": 2
+                },
+                {
+                    "name": "AWS Solutions Architect",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Unity Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Coder",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 2
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "WeWork",
+            "children": [
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Data Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "JavaScript Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Machine Learning Engineer",
+                    "value": 1
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Hootsuite",
+            "children": [
+                {
+                    "name": "Junior Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 1
+                },
+                {
+                    "name": "IOS Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 3
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Robotics Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Nike",
+            "children": [
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 5
+                },
+                {
+                    "name": "Java Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Application Security Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Sharepoint Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Capital One",
+            "children": [
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Full Stack Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Network Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Robotics Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Coder",
+                    "value": 1
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Ford_Motor Company",
+            "children": [
+                {
+                    "name": "Software Engineer",
+                    "value": 4
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 5
+                },
+                {
+                    "name": "Blockchain Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Computer Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Overstock.com",
+            "children": [
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Oracle Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "New Grad Software Engineer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "The Home Depot",
+            "children": [
+                {
+                    "name": "Software Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 4
+                },
+                {
+                    "name": "Junior Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Java Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Expedia Group",
+            "children": [
+                {
+                    "name": "Jr Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 3
+                },
+                {
+                    "name": "Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "UI Developer",
+                    "value": 1
+                },
+                {
+                    "name": "React Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Wells Fargo",
+            "children": [
+                {
+                    "name": "Junior Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Wordpress Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Android Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "name": "DICK'S Sporting Goods",
+            "children": [
+                {
+                    "name": "AWS Solutions Architect",
+                    "value": 1
+                },
+                {
+                    "name": "IOS Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior IOS Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Goldman Sachs",
+            "children": [
+                {
+                    "name": "Junior Software Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 1
+                },
+                {
+                    "name": "SQL Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Nordstrom",
+            "children": [
+                {
+                    "name": "Junior Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 2
+                },
+                {
+                    "name": ".NET Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Programmer",
+                    "value": 1
+                },
+                {
+                    "name": "Mulesoft Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Deloitte",
+            "children": [
+                {
+                    "name": "Software Engineer",
+                    "value": 2
+                },
+                {
+                    "name": "Jr Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Entry Level Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Python Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Salesforce Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Web Developer",
+                    "value": 1
+                },
+                {
+                    "name": "CNC Programmer",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "name": "Zendesk",
+            "children": [
+                {
+                    "name": "Jr Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Junior Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Software Engineer",
+                    "value": 1
+                },
+                {
+                    "name": "Software Engineer",
+                    "value": 3
+                },
+                {
+                    "name": "Developer",
+                    "value": 2
+                },
+                {
+                    "name": "Game Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Front End Developer",
+                    "value": 1
+                },
+                {
+                    "name": "Entry Level Programmer",
+                    "value": 1
+                }
+            ]
+        }
+    ]
+}

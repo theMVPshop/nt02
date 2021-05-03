@@ -919,55 +919,94 @@ let data = {
     children: []
 };
 
+let c = 0;
+
+function buildCompanies (c, currentCompanies, campIndex) {
+    // console.log(currentCompanies)
+    let datums = {...currentCompanies}
+    return datums
+}
+
 let b = 0;
 let countedBootcamps = [];
+let currentCompanies = [];
+let prevBootcamp = "";
+let stateData = [];
 
-function pushBootcamps(b, currentBootcamps, stateIndex) {
-     = currentBootcamps[b]
-    let currentState = currentData[1];
-    if(countedStates.includes(currentState) === false) {
-        countedStates.push(currentState)
-        data.children.push({name: currentState, children: []})
+function buildBootcamps(b, currentBootcamps, prevBootcamp, countedBootcamps) {
+    currentData = currentBootcamps[b];
+    // console.log (currentData)
+    let currentBootcamp = currentData[0];
+    if(countedBootcamps.includes(currentBootcamp) === false) {
+        countedBootcamps.push(currentBootcamp)
+        // data.children[stateIndex].children.push({name: currentBootcamp, children: []})
+        stateData.push({name: currentBootcamp, children: []})
+        console.log("state data", stateData)
     }
-    if(currentState === prevState) {
-        currentBootcamps.push(currentData);
+    if(currentBootcamp === prevBootcamp) {
+        currentCompanies.push(currentData);
     } else {
-        let stateIndex = countedStates.indexOf(prevState);
-        pushPositions(c, currentBootcamps, bootcampIndex);
-        prevState = currentState;
+        let campIndex = countedBootcamps.indexOf(prevBootcamp);
+        stateData[campIndex].children.push(
+            buildCompanies(c, currentCompanies, campIndex)
+        );
+        prevBootcamp = currentBootcamp;
         currentBootcamps = [];
     }
-    index++;
-    pushBootcamps(index, prevState, countedStates)
-    data.children[stateIndex].children.push(bootcamps)
+    b++;
+    if (b < currentBootcamps.length) {
+        buildBootcamps(b, currentBootcamps, prevBootcamp, countedBootcamps)
+    } else {
+        console.log("pushed bootcamps ", b)
+        return stateData;
+    }
+    
+    
+    
+    // data.children[stateIndex].children.push(bootcamps)
 }
 
 let a = 0;
-let currentData = grads[index];
+let currentData = grads[a];
 let prevState = currentData[1];
 let countedStates = [];
 let currentBootcamps = [];
 
-function pushStates(a, prevState, countedStates) {
+function buildStates(a, prevState, countedStates) {
     currentData = grads[a]
     let currentState = currentData[1];
     if(countedStates.includes(currentState) === false) {
         countedStates.push(currentState)
         data.children.push({name: currentState, children: []})
+        
     }
     if(currentState === prevState) {
         currentBootcamps.push(currentData);
+        prevBootcamp = currentData[0];
     } else {
+        console.log("prev boot camp ", prevBootcamp, "prev state ", countedStates.indexOf(prevState))
+        console.log("current", currentBootcamps)
         let stateIndex = countedStates.indexOf(prevState);
-        pushBootcamps(b, currentBootcamps, stateIndex);
+        data.children[stateIndex].children.push(
+            buildBootcamps(b, currentBootcamps, prevBootcamp, countedBootcamps)
+        );
         prevState = currentState;
         currentBootcamps = [];
+        currentBootcamps.push(currentData);
+        console.log(data.children)
     }
     a++;
-    pushStates(a, prevState, countedStates)
+    // console.log(a)
+    if (a < grads.length) {
+        buildStates(a, prevState, countedStates)
+    } else {
+        console.log("finished")
+    }
+    // return data;
+    
 }
 
-pushStates(a, prevState, countedStates);
+buildStates(a, prevState, countedStates)
 
 // for (let a = 0; a<grads.length; a++) {
 
@@ -980,7 +1019,7 @@ pushStates(a, prevState, countedStates);
     // if(currentState === prevState) {
     //     currentBootcamps.push(currentData);
     // } else {
-    //     pushBootcamps(currentBootcamps);
+    //     buildBootcamps(currentBootcamps);
     //     prevState = currentState;
     // }
     
