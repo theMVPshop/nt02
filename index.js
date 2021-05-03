@@ -1,3 +1,4 @@
+// jquery for showing selected state in header
 $("path, circle").click(function () {
   var getId = this.id;
   var selection = $("#selected-state");
@@ -10,6 +11,7 @@ $("path, circle").click(function () {
   );
 });
 
+// object of how many times each state occurs in company hiring
 const stateCounts = {
   AL: 14,
   AZ: 18,
@@ -41,13 +43,13 @@ const stateCounts = {
   WY: 9,
 };
 
-for (const property in stateCounts) {
-  let currentStateNode = document.getElementById(property);
-  let currentStateCount = stateCounts[property];
+// loops thru stateCounts and assigns color to each state node on the map based on stateCount range
+for (const state in stateCounts) {
+  let stateEl = document.getElementById(state);
+  let stateCount = stateCounts[state];
 
-  if (currentStateCount < 10) currentStateNode.attributes[1].nodeValue = "blue";
-  if (currentStateCount > 10 && currentStateCount < 25)
-    currentStateNode.attributes[1].nodeValue = "orange";
-  if (currentStateCount > 25)
-    currentStateNode.attributes[1].nodeValue = "green";
+  if (stateCount < 15) stateEl.attributes[1].nodeValue = "rgb(0,100,0, .32)";
+  if (stateCount >= 15 && stateCount <= 35)
+    stateEl.attributes[1].nodeValue = "rgb(0,100,0, .65)";
+  if (stateCount > 35) stateEl.attributes[1].nodeValue = "rgb(0,100,0)";
 }

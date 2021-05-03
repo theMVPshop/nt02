@@ -27,10 +27,10 @@ circle:hover {
   fill: #2980b9;
 }
 
-/* body {
-  background-color: "BBB";
+body {
+  background-color: darkgray;
 }
 
 h1 {
-  color: Orange;
-} */
+  color: dodgerblue;
+}
