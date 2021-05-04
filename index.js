@@ -32,7 +32,7 @@ const stateCounts = {
 // loops thru stateCounts and assigns color to each state node on the map based on stateCount range, as well as an eventListener for each state to display as a header onClick
 for (const state in stateCounts) {
   const stateEl = document.getElementById(state);
-  let selectedStateTitleEl = document.getElementById("selected-state");
+  const selectedStateTitleEl = document.getElementById("selected-state");
   const stateCount = stateCounts[state];
 
   stateEl.addEventListener("click", () => {
