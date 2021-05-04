@@ -1,4 +1,4 @@
-const bootcampInfoString = `School,State,Grads,Company
+const bootcampInfoString = `
 TrueCoders,AL,2,Carrigans Public House
 TrueCoders,AL,2,Crossvale
 TrueCoders,AL,2,Daxko
