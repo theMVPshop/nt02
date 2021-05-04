@@ -4,11 +4,11 @@ export default function define(runtime, observer) {
   // const fileAttachments = new Map([["flare-2.json",new URL("./files/e65374209781891f37dea1e7a6e1c5e020a3009b8aedf113b4c80942018887a1176ad4945cf14444603ff91d3da371b3b0d72419fa8d2ee0f6e815732475d5de",import.meta.url)]]);
   const fileAttachments = new Map([["companies.json", new URL("./companies.json", import.meta.url)]])
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
-  main.variable(observer()).define(["md"], function(md){return(
-md`# Zoomable Sunburst
+//   main.variable(observer()).define(["md"], function(md){return(
+// md`# Zoomable Sunburst
 
-This variant of a [sunburst diagram](/@d3/sunburst) shows only two layers of the hierarchy at a time. Click a node to zoom in, or the center to zoom out. Compare to an [icicle](/@d3/zoomable-icicle).`
-)});
+// This variant of a [sunburst diagram](/@d3/sunburst) shows only two layers of the hierarchy at a time. Click a node to zoom in, or the center to zoom out. Compare to an [icicle](/@d3/zoomable-icicle).`
+// )});
   main.variable(observer("chart")).define("chart", ["partition","data","d3","width","color","arc","format","radius"], function(partition,data,d3,width,color,arc,format,radius)
 {
   const root = partition(data);
@@ -140,8 +140,6 @@ d3.arc()
     .innerRadius(d => d.y0 * radius)
     .outerRadius(d => Math.max(d.y0 * radius, d.y1 * radius - 1))
 )});
-  main.variable(observer("d3")).define("d3", ["require"], function(require){return(
-require("d3@6")
-)});
+  main.variable(observer("d3")).define("d3", ["require"]);
   return main;
 }
