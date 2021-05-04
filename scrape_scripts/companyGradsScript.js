@@ -1,4 +1,4 @@
-const bootcampInfoString = require("./scrapedBootcamps");
+const bootcampInfoString = require("../data(json)/scrapedBootcamps");
 console.log(
   Object.values(bootcampInfoString) //
     .join(",") // returns a template literal that basically mirrors the source file
