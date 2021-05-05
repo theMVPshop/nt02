@@ -140,6 +140,8 @@ d3.arc()
     .innerRadius(d => d.y0 * radius)
     .outerRadius(d => Math.max(d.y0 * radius, d.y1 * radius - 1))
 )});
-  main.variable(observer("d3")).define("d3", ["require"]);
+  main.variable(observer("d3")).define("d3", ["require"], function(require){return(
+require("d3@6")
+)});
   return main;
 }
