@@ -20,19 +20,9 @@ const reducedByState = Object.values(bootcampInfoString)
     return obj;
   }, {});
 
-Object.entries(reducedByState).reduce((acc, cv, idx) => {}, {});
-
-//   let finalArr = [];
-// finalArr.push(Object.entries(reducedByState));
-
-// finalArr.map((x) => {
-//   console.log(util.inspect(x, { maxArrayLength: null, depth: null }));
-// });
-
 console.log(
   util.inspect(reducedByState, { maxArrayLength: null, depth: null })
 );
-// console.log(util.inspect(finalArr, { maxArrayLength: null, depth: null }));
 
 // let final = {
 //     name: 'states',
@@ -52,10 +42,4 @@ console.log(
 //             ]
 //         }
 //     ]
-// }
-
-// for (const state in reducedByState) {
-//   // console.log(reducedByState[state]);
-//   const eachState = reducedByState[state];
-//   console.log(eachState);
 // }
