@@ -894,42 +894,42 @@ The Array School of Technology and Design,WY,1,PBR MARKETING & PRINTING SOLUTION
 The Array School of Technology and Design,WY,1,State of Wyoming
 The Array School of Technology and Design,WY,1,The TJX Companies Inc.
 The Array School of Technology and Design,WY,1,University of Wyoming
-Lambda School,,6,AAK TELE-SCIENCE Inc.
-Lambda School,,20,Amazon
-Lambda School,,20,Amazon Web Services (AWS)
-Lambda School,,24,Nexient
-Lambda School,,12,Northwestern Mutual
-Lambda School,,8,Sirch
-Lambda School,,5,Sterling Bank Plc
-Lambda School,,15,Story Squad
-Lambda School,,9,Upwork
-The Iron Yard,,5,Benefitfocus
-The Iron Yard,,10,Blackbaud
-The Iron Yard,,5,BoomTown - Real Estate Platform
-The Iron Yard,,8,Booz Allen Hamilton
-The Iron Yard,,5,Cox Automotive Inc.
-The Iron Yard,,4,Experian's Clarity Services
-The Iron Yard,,13,Liberty Mutual Insurance
-The Iron Yard,,4,Pendo.io
-The Iron Yard,,7,Red Hat
-The Iron Yard,,6,Red Ventures
-The Iron Yard,,4,Relias
-The Iron Yard,,5,Salesforce
-The Iron Yard,,4,Social Security Administration
-The Iron Yard,,5,Somo Global
-Wild Code School,,17,Apside
-Wild Code School,,4,Betclic Group
-Wild Code School,,14,Capgemini
-Wild Code School,,6,Cdiscount
-Wild Code School,,23,CGI
-Wild Code School,,6,Clever Age
-Wild Code School,,5,DECATHLON FRANCE
-Wild Code School,,5,Enedis
-Wild Code School,,5,Inetum
-Wild Code School,,4,ITDM Group
-Wild Code School,,11,La Pilule Rouge
-Wild Code School,,25,onepoint
-Wild Code School,,11,OpenClassrooms
-Wild Code School,,10,Pôle emploi`;
+Lambda School,NONE,6,AAK TELE-SCIENCE Inc.
+Lambda School,NONE,20,Amazon
+Lambda School,NONE,20,Amazon Web Services (AWS)
+Lambda School,NONE,24,Nexient
+Lambda School,NONE,12,Northwestern Mutual
+Lambda School,NONE,8,Sirch
+Lambda School,NONE,5,Sterling Bank Plc
+Lambda School,NONE,15,Story Squad
+Lambda School,NONE,9,Upwork
+The Iron Yard,NONE,5,Benefitfocus
+The Iron Yard,NONE,10,Blackbaud
+The Iron Yard,NONE,5,BoomTown - Real Estate Platform
+The Iron Yard,NONE,8,Booz Allen Hamilton
+The Iron Yard,NONE,5,Cox Automotive Inc.
+The Iron Yard,NONE,4,Experian's Clarity Services
+The Iron Yard,NONE,13,Liberty Mutual Insurance
+The Iron Yard,NONE,4,Pendo.io
+The Iron Yard,NONE,7,Red Hat
+The Iron Yard,NONE,6,Red Ventures
+The Iron Yard,NONE,4,Relias
+The Iron Yard,NONE,5,Salesforce
+The Iron Yard,NONE,4,Social Security Administration
+The Iron Yard,NONE,5,Somo Global
+Wild Code School,NONE,17,Apside
+Wild Code School,NONE,4,Betclic Group
+Wild Code School,NONE,14,Capgemini
+Wild Code School,NONE,6,Cdiscount
+Wild Code School,NONE,23,CGI
+Wild Code School,NONE,6,Clever Age
+Wild Code School,NONE,5,DECATHLON FRANCE
+Wild Code School,NONE,5,Enedis
+Wild Code School,NONE,5,Inetum
+Wild Code School,NONE,4,ITDM Group
+Wild Code School,NONE,11,La Pilule Rouge
+Wild Code School,NONE,25,onepoint
+Wild Code School,NONE,11,OpenClassrooms
+Wild Code School,NONE,10,Pôle emploi`;
 
 module.exports = { bootcampInfoString };
