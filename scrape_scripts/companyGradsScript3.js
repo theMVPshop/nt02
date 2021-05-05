@@ -14,7 +14,7 @@ const reducedCSV = Object.values(bootcampInfoString) //
       obj[state]
         ? [
             ...obj[state],
-
+          obj[state] = 
             obj[state][schoolName]
             ? (obj[state][schoolName] = [
                 ...obj[state][schoolName]                
@@ -26,7 +26,7 @@ const reducedCSV = Object.values(bootcampInfoString) //
           name: state,
           children: [
             ...obj[state],
-            (obj[state][schoolName] = {
+            obj[state][schoolName] = {
               name: school,
               children: [
                 ...obj[state][schoolName],
@@ -36,7 +36,8 @@ const reducedCSV = Object.values(bootcampInfoString) //
                       value: grads,
                     }
                   : (obj[state][schoolName][company] = company),
-              ]},
+              ]
+            },
               
           ],
         },),
