@@ -47,10 +47,16 @@ for (const state in stateCounts) {
       });
   });
 
-  if (stateCount < 75) stateEl.attributes[1].nodeValue = "rgb(0,100,0, .15)";
+  if (stateCount < 75) stateEl.attributes[1].nodeValue = "rgb(0,80,0, .15)";
+
   if (stateCount >= 75 && stateCount <= 200)
-    stateEl.attributes[1].nodeValue = "rgb(0,100,0, .45)";
+    stateEl.attributes[1].nodeValue = "rgb(0,90,0, .45)";
+
   if (stateCount >= 200 && stateCount <= 500)
-    stateEl.attributes[1].nodeValue = "rgb(0,100,0, .65)";
-  if (stateCount > 500) stateEl.attributes[1].nodeValue = "rgb(0,100,0)";
+    stateEl.attributes[1].nodeValue = "rgb(0,110,0, .65)";
+
+  if (stateCount >= 500 && stateCount <= 1000)
+    stateEl.attributes[1].nodeValue = "rgb(20,180,10, .65)";
+
+  if (stateCount > 1000) stateEl.attributes[1].nodeValue = "rgb(20,220,20)";
 }
