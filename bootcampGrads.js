@@ -921,19 +921,28 @@ let data = {
 
 let c = 0;
 
-async function buildCompanies (c, currentCompanies, campIndex) {
+function buildCompanies (c, currentCompanies, campIndex) {
     console.log("Called 3rd function")
-    let datums = {...currentCompanies}
-    return datums
+    let companies = [];
+    for (let c = 0; c < currentCompanies.length; c++) {
+        let thisCompany = {
+            name: currentCompanies[c][3],
+            value: currentCompanies[c][2]
+        }
+        companies.push(thisCompany)
+    }
+    // let datums = [...currentCompanies]
+    return companies
 }
 
 let b = 0;
 let countedBootcamps = [];
 let currentCompanies = [];
-let prevBootcamp = "";
+let prevBootcamp = grads[0][0];
 let stateData = [];
 
-async function buildBootcamps(b, currentBootcamps, prevBootcamp, countedBootcamps) {
+function buildBootcamps(b, currentBootcamps, prevBootcamp, countedBootcamps) {
+    console.log("B prev bootcamp ", prevBootcamp)
     currentData = currentBootcamps[b];
     // console.log (currentData)
     let currentBootcamp = currentData[0];
@@ -943,13 +952,17 @@ async function buildBootcamps(b, currentBootcamps, prevBootcamp, countedBootcamp
         stateData.push({name: currentBootcamp, children: []})
         console.log("counted bootcamps", countedBootcamps)
     }
-    if(currentBootcamp === prevBootcamp) {
+    if(prevBootcamp === currentBootcamp && b < currentBootcamps.length - 1) {
         currentCompanies.push(currentData);
+        console.log(currentCompanies, " b ", b)
     } else {
         let campIndex = countedBootcamps.indexOf(prevBootcamp);
+        console.log("camp index ", campIndex)
         let returnedArray = buildCompanies(c, currentCompanies, campIndex);
-        prevBootcamp = currentBootcamp;
+        // prevBootcamp = currentBootcamp;
         currentCompanies = [];
+        currentCompanies.push(currentData);
+        prevBootcamp = currentBootcamp;
         stateData[campIndex].children.push(...returnedArray);
     }
     b++;
@@ -957,6 +970,7 @@ async function buildBootcamps(b, currentBootcamps, prevBootcamp, countedBootcamp
         buildBootcamps(b, currentBootcamps, prevBootcamp, countedBootcamps)
     } else {
         // console.log("pushed bootcamps ", b)
+        console.log("STATE DATA", stateData)
         return stateData;
     }
     
@@ -977,11 +991,12 @@ function buildStates(a, prevState, countedStates) {
     if(countedStates.includes(currentState) === false) {
         countedStates.push(currentState)
         data.children.push({name: currentState, children: []})
+        if (a > 0) {prevBootcamp = grads[a - 1][0];}
         
     }
     if(currentState === prevState) {
         currentBootcamps.push(currentData);
-        prevBootcamp = currentData[0];
+        console.log("A prev bootcamp ", prevBootcamp)
     } else {
         // console.log("prev boot camp ", prevBootcamp, "prev state ", countedStates.indexOf(prevState))
         console.log("current", a)
@@ -990,12 +1005,13 @@ function buildStates(a, prevState, countedStates) {
         // console.log("before timeout", returnedArray, data.children[stateIndex].children)
         // data.children[stateIndex].children.push(...returnedArray);
         
-        buildBootcamps(b, currentBootcamps, prevBootcamp, countedBootcamps).then((value) => {
-            data.children[stateIndex].children.push(...value);
-            prevState = currentState;
-            currentBootcamps = [];
-            currentBootcamps.push(currentData);
-        });
+        let value = buildBootcamps(b, currentBootcamps, prevBootcamp, countedBootcamps);
+        console.log("value ", value);
+        data.children[stateIndex].children.push(value);
+        prevState = currentState;
+        currentBootcamps = [];
+        // prevBootcamp = [];
+        currentBootcamps.push(currentData);
     }
     a++;
     // console.log(a)
