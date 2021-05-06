@@ -4,7 +4,7 @@ body {
 }
 section {
   display: flex;
-  height: 100vh;
+  /* height: 100vh; */
 }
 section > * {
   margin: auto;
@@ -32,5 +32,5 @@ body {
 }
 
 h1 {
-  color: dodgerblue;
+  color: blue;
 }

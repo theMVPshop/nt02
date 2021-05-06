@@ -967,6 +967,7 @@ function buildBootcamps(b, currentBootcamps, prevBootcamp, countedBootcamps) {
     }
     b++;
     if (b < currentBootcamps.length) {
+        console.log(b, "recusion!");
         buildBootcamps(b, currentBootcamps, prevBootcamp, countedBootcamps)
     } else {
         // console.log("pushed bootcamps ", b)
@@ -1014,7 +1015,7 @@ function buildStates(a, prevState, countedStates) {
         currentBootcamps.push(currentData);
     }
     a++;
-    // console.log(a)
+    // console.log(currentBootcamps)
     if (a < grads.length) {
         buildStates(a, prevState, countedStates)
     } else {

@@ -1,11 +1,4 @@
 {
-  "School": {
-    "0": {
-      "company": "Company",
-      "grads": "# of grads at company",
-      "state": "State"
-    }
-  },
   "TrueCoders": {
     "1": { "company": "Carrigans Public House", "grads": 2, "state": "AL" },
     "2": { "company": "Crossvale", "grads": 2, "state": "AL" },
@@ -38,17 +31,9 @@
     "25": { "company": "Infosys", "grads": 6, "state": "AZ" },
     "26": { "company": "Intel Corporation", "grads": 2, "state": "AZ" },
     "27": { "company": "Revature", "grads": 2, "state": "AZ" },
-    "28": {
-      "company": "Southern Careers Institute",
-      "grads": 3,
-      "state": "AZ"
-    },
+    "28": { "company": "Southern Careers Institute", "grads": 3, "state": "AZ" },
     "29": { "company": "Uber", "grads": 3, "state": "AZ" },
-    "30": {
-      "company": "United States Postal Service",
-      "grads": 3,
-      "state": "AZ"
-    },
+    "30": { "company": "United States Postal Service", "grads": 3, "state": "AZ" },
     "31": { "company": "US Army", "grads": 4, "state": "AZ" },
     "32": { "company": "Verizon", "grads": 3, "state": "AZ" }
   },
