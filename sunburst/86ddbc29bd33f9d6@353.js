@@ -151,12 +151,12 @@ export default function define(runtime, observer) {
       }
     );
   main
-    .variable(observer("data"))
+    // .variable(observer("data"))
     .define("data", ["FileAttachment"], function (FileAttachment) {
       return FileAttachment("companies.json").json();
     });
   main
-    .variable(observer("partition"))
+    // .variable(observer("partition"))
     .define("partition", ["d3"], function (d3) {
       return (data) => {
         const root = d3
@@ -167,25 +167,29 @@ export default function define(runtime, observer) {
       };
     });
   main
-    .variable(observer("color"))
+    // .variable(observer("color"))
     .define("color", ["d3", "data"], function (d3, data) {
       return d3.scaleOrdinal(
         d3.quantize(d3.interpolateRainbow, data.children.length + 1)
       );
     });
-  main.variable(observer("format")).define("format", ["d3"], function (d3) {
+  main
+  // .variable(observer("format"))
+  .define("format", ["d3"], function (d3) {
     return d3.format(",d");
   });
-  main.variable(observer("width")).define("width", function () {
+  main
+  // .variable(observer("width"))
+  .define("width", function () {
     return 932;
   });
   main
-    .variable(observer("radius"))
+    // .variable(observer("radius"))
     .define("radius", ["width"], function (width) {
       return width / 6;
     });
   main
-    .variable(observer("arc"))
+    // .variable(observer("arc"))
     .define("arc", ["d3", "radius"], function (d3, radius) {
       return d3
         .arc()
@@ -196,7 +200,9 @@ export default function define(runtime, observer) {
         .innerRadius((d) => d.y0 * radius)
         .outerRadius((d) => Math.max(d.y0 * radius, d.y1 * radius - 1));
     });
-  main.variable(observer("d3")).define("d3", ["require"], function (require) {
+  main
+  // .variable(observer("d3"))
+  .define("d3", ["require"], function (require) {
     return require("d3@6");
   });
 

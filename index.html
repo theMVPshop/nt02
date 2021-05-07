@@ -46,7 +46,7 @@
       </div>
     </nav>
     <div class="container">
-      <section>
+      <section class="justify-content-center">
         <div class="row justify-content-center">
           <div class="col-10">
             <h1>Who is hiring these Bootcamp Grads?</h1>
@@ -66,18 +66,9 @@
           </div>
         </div>
       </section>
-      <!-- 3d Chart -->
-      <canvas id="cvs" width="650" height="300"> [No canvas support] </canvas>
-      <!-- chart legend -->
-      <div style="font-weight: 800; font-size: 2rem">
-        Legend: <br />
-        <span style="color: green">US Population</span><br />
-        <span style="color: red">US CS 2019 Grads</span><br />
-        <span style="color: blue">US BOOTCAMP 2019 Grads</span>
-      </div>
-      <section>
-        <div class="row align-items-start">
-          <div class="col-8">
+      <section class="justify-content-center">
+        <div class="row align-items-center">
+          <div class="col-12">
             <h2 id="selected-state">The greener the better!</h2>
             <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 959 593">
               <title>US states</title>
@@ -344,7 +335,41 @@
               </g>
             </svg>
           </div>
-          <div id="sunburst" class="col-4">One of two columns</div>
+        </div>
+      </section>
+      <hr style="margin:20px;">
+      <section class="justify-content-center">
+        <div class="row justify-content-center">
+          <div class="col-5">
+            <h1>What does a Bootcamp Grad look like?</h1>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo cum
+              nulla quod corporis quaerat sed asperiores hic? Nihil aspernatur
+              eum, dignissimos voluptatibus libero nobis officiis hic
+              consectetur nulla, reiciendis rem. Lorem ipsum dolor sit amet
+              consectetur adipisicing elit. Illo cum nulla quod corporis quaerat
+              sed asperiores hic? Nihil aspernatur eum, dignissimos voluptatibus
+              libero nobis officiis hic consectetur nulla, reiciendis rem. Lorem
+              ipsum dolor sit amet consectetur adipisicing elit. Illo cum nulla
+              quod corporis quaerat sed asperiores hic? Nihil aspernatur eum,
+              dignissimos voluptatibus libero nobis officiis hic consectetur
+              nulla, reiciendis rem.
+            </p>
+          </div>
+          <div class="col-7">
+            <!-- 3d Chart -->
+            <canvas id="cvs" width="650" height="600"> [No canvas support] </canvas>
+            <!-- chart legend -->
+            <div style="font-weight: 800; font-size: 1rem">
+              Legend: <br />
+              <div style="background: green; height: 20px; width: 20px; float:left; margin-right:5px;"></div>
+              <span style="color: green; float:left; margin-right:15px;">US Population</span>
+              <div style="background: red; height: 20px; width: 20px; float:left; margin-right:5px;"></div>
+              <span style="color: red; float:left; margin-right:15px;">US CS 2019 Grads</span>
+              <div style="background: blue; height: 20px; width: 20px; float:left; margin-right:5px;"></div>
+              <span style="color: blue; float:left; margin-right:5px;">US Bootcamp 2019 Grads</span>
+            </div>
+          </div>
         </div>
       </section>
     </div>
@@ -358,6 +383,11 @@
       crossorigin="anonymous"
     ></script>
     <script defer src="./index.js"></script>
+    <div class="modal" id="myModal" style="background:rgba(100,100,100,.5)" tabindex="-1">
+      <div class="modal-dialog" style="max-width: 700px">
+        <div id="sunburst"></div>
+      </div>
+    </div>
   </body>
 </html>
 
