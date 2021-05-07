@@ -1,0 +1,1344 @@
+{
+  "name": "schools",
+  "children": [
+    {
+      "name": "TrueCoders",
+      "children": [
+        { "name": "Carrigans Public House", "value": 2 },
+        { "name": "Crossvale", "value": 2 },
+        { "name": "Daxko", "value": 2 },
+        { "name": "Disability:IN", "value": 1 },
+        { "name": "FIS", "value": 3 },
+        { "name": "Giant Eagle Inc.", "value": 1 },
+        { "name": "Healthgrades", "value": 3 },
+        { "name": "L&C Designs", "value": 2 },
+        { "name": "Marshmello & Friends Co.", "value": 2 },
+        { "name": "NextSite LLC", "value": 1 },
+        { "name": "RxBenefits Inc.", "value": 2 },
+        { "name": "ShadowDragon", "value": 1 },
+        { "name": "Target", "value": 2 },
+        { "name": "VIPKid", "value": 2 }
+      ]
+    },
+    {
+      "name": "University of Arizona Boot Camps",
+      "children": [
+        { "name": "AmpleTech Refresh", "value": 1 },
+        { "name": "Empereon Constar", "value": 1 },
+        { "name": "ORIANA solutions", "value": 1 },
+        { "name": "Plexus Worldwide", "value": 1 },
+        { "name": "Waddell & Reed", "value": 1 }
+      ]
+    },
+    {
+      "name": "Woz U",
+      "children": [
+        { "name": "Accenture", "value": 2 },
+        { "name": "Amazon", "value": 6 },
+        { "name": "Apple", "value": 3 },
+        { "name": "DoorDash", "value": 3 },
+        { "name": "Facebook", "value": 2 },
+        { "name": "Infosys", "value": 6 },
+        { "name": "Intel Corporation", "value": 2 },
+        { "name": "Revature", "value": 2 },
+        { "name": "Southern Careers Institute", "value": 3 },
+        { "name": "Uber", "value": 3 },
+        { "name": "United States Postal Service", "value": 3 },
+        { "name": "US Army", "value": 4 },
+        { "name": "Verizon", "value": 3 }
+      ]
+    },
+    {
+      "name": "Bloc",
+      "children": [
+        { "name": "Airbnb", "value": 2 },
+        { "name": "Apple", "value": 15 },
+        { "name": "Capital One", "value": 3 },
+        { "name": "CareerFoundry", "value": 3 },
+        { "name": "Google", "value": 13 },
+        { "name": "HubSpot", "value": 3 },
+        { "name": "Microsoft", "value": 14 },
+        { "name": "ServiceNow", "value": 2 },
+        { "name": "Starbucks", "value": 3 },
+        { "name": "Thinkful", "value": 10 }
+      ]
+    },
+    {
+      "name": "CodingNomads",
+      "children": [
+        { "name": "Abarca Health", "value": 1 },
+        { "name": "Answer Digital", "value": 1 },
+        { "name": "Apogee Integration LLC", "value": 1 },
+        { "name": "BCG Platinion", "value": 1 },
+        { "name": "Bit", "value": 1 },
+        { "name": "Citrix", "value": 1 },
+        { "name": "Experian", "value": 1 },
+        { "name": "Floyd County Productions", "value": 1 },
+        { "name": "Nucamp Coding Bootcamp", "value": 1 },
+        { "name": "Philips", "value": 1 },
+        { "name": "VIKTOR", "value": 1 },
+        { "name": "Webhelp", "value": 1 }
+      ]
+    },
+    {
+      "name": "Dev Bootcamp",
+      "children": [
+        { "name": "Airbnb", "value": 4 },
+        { "name": "Amazon", "value": 14 },
+        { "name": "Chime", "value": 7 },
+        { "name": "Datadog", "value": 15 },
+        { "name": "Enova International", "value": 6 },
+        { "name": "Google", "value": 17 },
+        { "name": "Home Chef", "value": 10 },
+        { "name": "Indeed.com", "value": 5 },
+        { "name": "Salesforce", "value": 13 },
+        { "name": "ServiceNow", "value": 4 },
+        { "name": "Stitch Fix", "value": 7 },
+        { "name": "ThoughtWorks", "value": 8 }
+      ]
+    },
+    {
+      "name": "Hack Reactor",
+      "children": [
+        { "name": "Amazon", "value": 45 },
+        { "name": "Apple", "value": 26 },
+        { "name": "Capital One", "value": 16 },
+        { "name": "Facebook", "value": 74 },
+        { "name": "Google", "value": 92 },
+        { "name": "IBM", "value": 44 },
+        { "name": "JPMorgan Chase & Co.", "value": 23 },
+        { "name": "LinkedIn", "value": 25 },
+        { "name": "Microsoft", "value": 21 },
+        { "name": "Personal Projects", "value": 34 },
+        { "name": "Uber", "value": 20 }
+      ]
+    },
+    {
+      "name": "Hackbright Academy",
+      "children": [
+        { "name": "Apple", "value": 10 },
+        { "name": "Bloomberg LP", "value": 6 },
+        { "name": "Datadog", "value": 11 },
+        { "name": "Dropbox", "value": 5 },
+        { "name": "Facebook", "value": 17 },
+        { "name": "Fastly", "value": 5 },
+        { "name": "Google", "value": 25 },
+        { "name": "LinkedIn", "value": 5 },
+        { "name": "Lyft", "value": 6 },
+        { "name": "PagerDuty", "value": 8 },
+        { "name": "Salesforce", "value": 6 },
+        { "name": "Slack", "value": 9 },
+        { "name": "Target", "value": 27 },
+        { "name": "Twilio Inc.", "value": 26 }
+      ]
+    },
+    {
+      "name": "Holberton School",
+      "children": [
+        { "name": "Altimetrik", "value": 8 },
+        { "name": "Apple", "value": 5 },
+        { "name": "Avantica", "value": 5 },
+        { "name": "COMFAMA", "value": 10 },
+        { "name": "Globant", "value": 16 },
+        { "name": "Koombea", "value": 12 },
+        { "name": "Mercado Libre", "value": 4 },
+        { "name": "Rappi", "value": 8 },
+        { "name": "Seguros Bolivar S.A", "value": 9 },
+        { "name": "Siigo S.A.", "value": 4 },
+        { "name": "Taos", "value": 5 }
+      ]
+    },
+    {
+      "name": "LearningFuze",
+      "children": [
+        { "name": "Applied Medical", "value": 3 },
+        { "name": "BeSmartee®", "value": 5 },
+        { "name": "Blizzard Entertainment", "value": 3 },
+        { "name": "Capital Group", "value": 3 },
+        { "name": "Codazen", "value": 7 },
+        { "name": "Doctor Genius", "value": 7 },
+        { "name": "Member Splash", "value": 5 },
+        { "name": "Novvum", "value": 3 },
+        { "name": "Parcel Pending by Quadient", "value": 3 },
+        { "name": "PriceSpider", "value": 3 },
+        { "name": "VaynerCommerce", "value": 3 },
+        { "name": "Verys", "value": 7 },
+        { "name": "VoiceFoundry", "value": 4 }
+      ]
+    },
+    {
+      "name": "Microverse",
+      "children": [
+        { "name": "Avance Venture Lab", "value": 2 },
+        { "name": "CareerFoundry", "value": 4 },
+        { "name": "MagmaLabs", "value": 2 },
+        { "name": "NouKòd", "value": 3 },
+        { "name": "Peoplebox", "value": 3 },
+        { "name": "Torre", "value": 3 },
+        { "name": "Upwork", "value": 14 }
+      ]
+    },
+    {
+      "name": "Orange County Code School",
+      "children": [
+        { "name": "Apple", "value": 2 },
+        { "name": "AT&T", "value": 1 },
+        { "name": "Bank of the West", "value": 1 },
+        { "name": "Classic Cabinets and Upholstery", "value": 1 },
+        { "name": "Critical Mass", "value": 1 },
+        { "name": "HCA North Florida Division", "value": 1 },
+        { "name": "Intuit", "value": 2 },
+        { "name": "JohnHart Real Estate", "value": 1 },
+        { "name": "Kaiser Permanente", "value": 1 },
+        { "name": "Kareo", "value": 1 },
+        { "name": "Kingsmen Digital Ventures", "value": 2 },
+        { "name": "Transurban", "value": 1 },
+        {
+          "name": "University of California Irvine Division of Continuing Education",
+          "value": 1
+        },
+        { "name": "Verys", "value": 3 },
+        { "name": "Vincit", "value": 3 }
+      ]
+    },
+    {
+      "name": "Redwood Code Academy",
+      "children": [
+        { "name": "Action Property Management", "value": 1 },
+        { "name": "AUSAM", "value": 1 },
+        { "name": "Empower", "value": 1 },
+        { "name": "LandMonk", "value": 2 },
+        { "name": "Lifehouse Agency", "value": 1 },
+        { "name": "Mortgage Machine Services", "value": 1 },
+        { "name": "RedApple Digital Health Inc.", "value": 2 },
+        { "name": "Revature", "value": 1 },
+        { "name": "Sonoma State University", "value": 1 },
+        { "name": "Tabula Rasa HealthCare", "value": 1 },
+        { "name": "TensorIoT Inc.", "value": 2 },
+        { "name": "Trilogy Education", "value": 1 },
+        { "name": "UFC", "value": 1 },
+        { "name": "Zigzy", "value": 2 }
+      ]
+    },
+    {
+      "name": "Rithm School",
+      "children": [
+        { "name": "Accenture", "value": 1 },
+        { "name": "Birst", "value": 2 },
+        { "name": "CleverCounsel LLC", "value": 2 },
+        { "name": "doc.ai", "value": 2 },
+        { "name": "Dovenmuehle Mortgage Inc.", "value": 6 },
+        { "name": "Dropbox", "value": 2 },
+        { "name": "Oracle", "value": 1 },
+        { "name": "Pinterest", "value": 2 },
+        { "name": "PlanetScale", "value": 1 },
+        { "name": "Solvd Inc.", "value": 2 },
+        { "name": "Twilio Inc.", "value": 2 },
+        { "name": "WePay", "value": 6 },
+        { "name": "Workday", "value": 2 },
+        { "name": "YearOne (Techstars 2020)", "value": 2 }
+      ]
+    },
+    {
+      "name": "Springboard",
+      "children": [
+        { "name": "Accenture", "value": 11 },
+        { "name": "Amazon", "value": 31 },
+        { "name": "Apple", "value": 20 },
+        { "name": "Bed Bath & Beyond", "value": 4 },
+        { "name": "Citi", "value": 8 },
+        { "name": "Deloitte", "value": 10 },
+        { "name": "Facebook", "value": 20 },
+        { "name": "Google", "value": 13 },
+        { "name": "Hack for LA", "value": 6 },
+        { "name": "IBM", "value": 8 },
+        { "name": "JPMorgan Chase & Co.", "value": 12 },
+        { "name": "Wells Fargo", "value": 12 }
+      ]
+    },
+    {
+      "name": "Udacity",
+      "children": [
+        { "name": "Accenture", "value": 208 },
+        { "name": "Amazon", "value": 368 },
+        { "name": "Aramco", "value": 146 },
+        { "name": "Facebook", "value": 206 },
+        { "name": "Fiverr", "value": 150 },
+        { "name": "Google", "value": 372 },
+        { "name": "IBM", "value": 221 },
+        { "name": "Infosys", "value": 174 },
+        { "name": "Microsoft", "value": 306 },
+        { "name": "stc", "value": 141 },
+        { "name": "Tata Consultancy Services", "value": 157 },
+        { "name": "Upwork", "value": 364 }
+      ]
+    },
+    {
+      "name": "CodeCraft School of Technology",
+      "children": [
+        { "name": "AMP Robotics", "value": 1 },
+        { "name": "Buink Web Development", "value": 1 },
+        { "name": "Charter Communications", "value": 3 },
+        { "name": "CUORE of Switzerland", "value": 1 },
+        { "name": "EduGuide", "value": 1 },
+        { "name": "Engrain", "value": 1 },
+        { "name": "LogRhythm", "value": 2 },
+        { "name": "Oracle", "value": 1 },
+        { "name": "Simplified Website Design", "value": 1 },
+        { "name": "Springboard", "value": 1 },
+        { "name": "Town of Nederland", "value": 1 },
+        { "name": "Trimble Inc.", "value": 2 },
+        { "name": "Zayo Group", "value": 2 }
+      ]
+    },
+    {
+      "name": "DaVinci Coders",
+      "children": [
+        { "name": "ClearanceJobs", "value": 1 },
+        { "name": "Corellian Consulting Limited", "value": 1 },
+        { "name": "EVO Payments Inc.", "value": 1 },
+        { "name": "IBM", "value": 1 },
+        { "name": "Institutional Cash Distributors (ICD)", "value": 1 },
+        { "name": "JPMA Inc", "value": 1 },
+        { "name": "Kaffeinated Kodemonkey", "value": 1 },
+        { "name": "Literally Media", "value": 1 },
+        { "name": "Neap", "value": 1 },
+        { "name": "Nite Ize Inc.", "value": 1 },
+        { "name": "Oracle", "value": 1 },
+        { "name": "RxRevu Inc.", "value": 2 },
+        { "name": "Touch Control", "value": 1 },
+        { "name": "Triad", "value": 1 }
+      ]
+    },
+    {
+      "name": "SecureSet",
+      "children": [
+        { "name": "Avertium", "value": 5 },
+        { "name": "Booz Allen Hamilton", "value": 6 },
+        { "name": "Coalfire", "value": 9 },
+        {
+          "name": "Colorado Governor's Office of Information Technology",
+          "value": 5
+        },
+        { "name": "CyberGRX", "value": 8 },
+        { "name": "deepwatch", "value": 8 },
+        { "name": "Deloitte", "value": 4 },
+        { "name": "Jacobs", "value": 12 },
+        { "name": "Kivu Consulting", "value": 8 },
+        { "name": "Pax8", "value": 8 },
+        { "name": "ReliaQuest", "value": 6 },
+        { "name": "US Army", "value": 32 },
+        { "name": "VMware", "value": 5 }
+      ]
+    },
+    {
+      "name": "Skill Distillery",
+      "children": [
+        { "name": "Angi", "value": 2 },
+        { "name": "Bank of America", "value": 2 },
+        { "name": "BIT Systems", "value": 3 },
+        { "name": "Booz Allen Hamilton", "value": 2 },
+        { "name": "CACI International Inc", "value": 4 },
+        { "name": "Charter Communications", "value": 3 },
+        { "name": "Comcast", "value": 6 },
+        { "name": "Essendant", "value": 3 },
+        { "name": "HomeAdvisor", "value": 3 },
+        { "name": "Ibotta Inc.", "value": 3 },
+        { "name": "NexGen Technologies Inc.", "value": 6 },
+        { "name": "Raytheon Intelligence & Space", "value": 3 },
+        { "name": "Tech Mahindra", "value": 2 },
+        { "name": "The Walt Disney Company", "value": 2 }
+      ]
+    },
+    {
+      "name": "Turing School of Software & Design",
+      "children": [
+        { "name": "Aetna", "value": 21 },
+        { "name": "Allstate", "value": 17 },
+        { "name": "Brandfolder", "value": 6 },
+        { "name": "Charter Communications", "value": 17 },
+        { "name": "Devetry (part of Dept)", "value": 7 },
+        { "name": "Fastly", "value": 8 },
+        { "name": "Guild Education", "value": 14 },
+        { "name": "Handshake", "value": 7 },
+        { "name": "Hotel Engine", "value": 9 },
+        { "name": "Ibotta Inc.", "value": 16 },
+        { "name": "Peloton Interactive", "value": 6 },
+        { "name": "Slalom", "value": 19 },
+        { "name": "Stitch Fix", "value": 10 },
+        { "name": "TaxJar", "value": 7 }
+      ]
+    },
+    {
+      "name": "University of Denver Boot Camps",
+      "children": [
+        { "name": "acumen", "value": 1 },
+        { "name": "Chevron", "value": 1 },
+        { "name": "En Gedi", "value": 1 },
+        { "name": "Hunger Free Colorado", "value": 1 },
+        { "name": "Kärcher North America Inc.", "value": 1 },
+        { "name": "Rally Health", "value": 1 },
+        { "name": "Scaled Agile Inc.", "value": 1 },
+        { "name": "Sealcon", "value": 1 },
+        { "name": "SonderMind", "value": 1 },
+        { "name": "uBreakiFix", "value": 2 }
+      ]
+    },
+    {
+      "name": "4Geeks Academy",
+      "children": [
+        { "name": "Boosmap", "value": 2 },
+        { "name": "Bridge Patient Portal", "value": 2 },
+        { "name": "Bridges Unite", "value": 2 },
+        { "name": "Cornershop by Uber", "value": 2 },
+        { "name": "DNA HUMAN CAPITAL", "value": 3 },
+        { "name": "Nivelat", "value": 2 },
+        { "name": "Patagonia IT", "value": 2 },
+        { "name": "The Dog Company Chile", "value": 2 },
+        { "name": "Uber", "value": 3 },
+        { "name": "University of Miami", "value": 3 }
+      ]
+    },
+    {
+      "name": "Wyncode Academy",
+      "children": [
+        { "name": "Apple", "value": 6 },
+        { "name": "Augusta Hitech", "value": 4 },
+        { "name": "BrainStation", "value": 9 },
+        { "name": "CareCloud", "value": 9 },
+        { "name": "Health Karma", "value": 6 },
+        { "name": "IntelePeer", "value": 5 },
+        { "name": "Kipu Health", "value": 6 },
+        { "name": "MDLIVE Inc.", "value": 5 },
+        { "name": "Miami Dev Shop", "value": 5 },
+        { "name": "Microsoft", "value": 5 },
+        { "name": "Papa", "value": 5 },
+        { "name": "Restaurant Brands International", "value": 13 },
+        { "name": "springbig", "value": 5 },
+        { "name": "Watsco Ventures", "value": 5 }
+      ]
+    },
+    {
+      "name": "DigitalCrafts",
+      "children": [
+        { "name": "Accenture", "value": 4 },
+        { "name": "Chick-fil-A Corporate Support Center", "value": 5 },
+        { "name": "Codoxo", "value": 4 },
+        { "name": "Cox Automotive Inc.", "value": 4 },
+        { "name": "Insiten", "value": 8 },
+        { "name": "JPMorgan Chase & Co.", "value": 5 },
+        { "name": "Luminare Inc.", "value": 4 },
+        { "name": "Mailchimp", "value": 5 },
+        { "name": "Microsoft", "value": 3 },
+        { "name": "The Home Depot", "value": 12 },
+        { "name": "Umbrage", "value": 6 },
+        { "name": "Varsity Hype", "value": 5 },
+        { "name": "Ware2Go", "value": 6 },
+        { "name": "WarnerMedia", "value": 4 }
+      ]
+    },
+
+    {
+      "name": "Georgia Tech Boot Camps",
+      "children": [{ "name": "XPO Logistics Inc.", "value": 1 }]
+    },
+    {
+      "name": "CodeWorks",
+      "children": [
+        { "name": "Accenture", "value": 1 },
+        { "name": "Adobe", "value": 1 },
+        { "name": "Allata", "value": 2 },
+        { "name": "BGZ brands™", "value": 1 },
+        { "name": "Cask", "value": 3 },
+        { "name": "Definitive Logic", "value": 2 },
+        { "name": "In Time Tec", "value": 8 },
+        { "name": "Microbe Formulas", "value": 1 },
+        { "name": "P2 Energy Solutions", "value": 1 },
+        { "name": "TrueBlue Inc.", "value": 1 },
+        { "name": "Western Power Sports (WPS)", "value": 2 },
+        { "name": "Zennify", "value": 2 }
+      ]
+    },
+    {
+      "name": "Actualize Coding Bootcamp",
+      "children": [
+        { "name": "Accenture", "value": 2 },
+        { "name": "ActiveCampaign", "value": 3 },
+        { "name": "AHEAD", "value": 3 },
+        { "name": "AT&T", "value": 2 },
+        { "name": "Boomerang Exhibits", "value": 2 },
+        { "name": "Costco Wholesale", "value": 2 },
+        { "name": "CVS Health", "value": 3 },
+        { "name": "Datadog", "value": 2 },
+        { "name": "Healthie Inc.", "value": 2 },
+        { "name": "Oracle", "value": 3 },
+        { "name": "PayPal", "value": 4 },
+        { "name": "The Difference Engine", "value": 7 }
+      ]
+    },
+    {
+      "name": "Code Platoon",
+      "children": [
+        { "name": "8th Light", "value": 2 },
+        { "name": "Army National Guard", "value": 4 },
+        { "name": "Army National Guard", "value": 4 },
+        { "name": "Cartão de Todos", "value": 1 },
+        { "name": "Chicago Trading Company", "value": 3 },
+        { "name": "Codementor", "value": 1 },
+        { "name": "DRW", "value": 7 },
+        { "name": "Enova International", "value": 2 },
+        { "name": "Grainger", "value": 2 },
+        { "name": "JPMorgan Chase & Co.", "value": 7 },
+        { "name": "Motorola Solutions", "value": 2 },
+        { "name": "Raise", "value": 2 },
+        { "name": "United States Air Force", "value": 6 },
+        { "name": "US Army", "value": 6 },
+        { "name": "US Navy", "value": 4 }
+      ]
+    },
+    {
+      "name": "Coding Temple",
+      "children": [
+        { "name": "Accenture", "value": 1 },
+        { "name": "Amazon", "value": 1 },
+        { "name": "Beyond Finance", "value": 1 },
+        { "name": "Birchwood Foods", "value": 1 },
+        { "name": "Booz Allen Hamilton", "value": 1 },
+        { "name": "Capgemini", "value": 1 },
+        { "name": "City Colleges of Chicago-Olive-Harvey College", "value": 1 },
+        { "name": "Convoy Inc", "value": 1 },
+        { "name": "Copado", "value": 1 },
+        { "name": "Datadog", "value": 1 },
+        { "name": "Numerated", "value": 1 },
+        { "name": "SORACOM Inc.", "value": 1 },
+        { "name": "U.S. Navy Reserve", "value": 1 },
+        { "name": "Upwork", "value": 2 }
+      ]
+    },
+    {
+      "name": "Eleven Fifty Academy",
+      "children": [
+        { "name": "Agilify Automation", "value": 4 },
+        { "name": "Community Health Network", "value": 3 },
+        { "name": "DMI (Digital Management LLC)", "value": 4 },
+        { "name": "DoorDash", "value": 4 },
+        { "name": "GEICO", "value": 8 },
+        { "name": "Infosys", "value": 12 },
+        { "name": "Ion Three", "value": 4 },
+        { "name": "Liberty Mutual Insurance", "value": 4 },
+        { "name": "Navient", "value": 4 },
+        { "name": "Offprem Technology", "value": 6 },
+        { "name": "R&M Software Inc.", "value": 7 },
+        { "name": "Salesforce", "value": 7 },
+        { "name": "TCC Software Solutions", "value": 6 },
+        { "name": "US Army", "value": 4 }
+      ]
+    },
+    {
+      "name": "Kenzie Academy",
+      "children": [
+        { "name": "Amazon", "value": 136 },
+        { "name": "Amazon Fulfillment Centre", "value": 16 },
+        { "name": "Amazon Logistics", "value": 4 },
+        { "name": "AT&T", "value": 2 },
+        { "name": "Career Karma", "value": 2 },
+        { "name": "DMI (Digital Management LLC)", "value": 3 },
+        { "name": "FedEx Ground", "value": 2 },
+        { "name": "Infosys", "value": 2 },
+        { "name": "Infosys Ltd", "value": 4 },
+        { "name": "JPMorgan Chase & Co.", "value": 2 },
+        { "name": "KellyConnect | Contact Center Solutions", "value": 2 },
+        { "name": "Southern New Hampshire University", "value": 8 },
+        { "name": "SuperWorld", "value": 2 },
+        { "name": "Zylo", "value": 2 }
+      ]
+    },
+    {
+      "name": "Awesome Inc",
+      "children": [
+        { "name": "APAX Software", "value": 4 },
+        { "name": "Bitwerx Inc.", "value": 2 },
+        { "name": "BlueFrame Technology", "value": 2 },
+        { "name": "CSI", "value": 1 },
+        { "name": "Infosys", "value": 1 },
+        { "name": "Kentucky Department of Revenue", "value": 1 },
+        { "name": "Lightwell Inc.", "value": 2 },
+        { "name": "Nymbl Systems", "value": 3 },
+        { "name": "OmniLife", "value": 1 },
+        { "name": "Rev.com", "value": 1 },
+        { "name": "Starbucks", "value": 2 },
+        { "name": "Studio 34 Productions", "value": 2 }
+      ]
+    },
+    {
+      "name": "Code Louisville",
+      "children": [
+        { "name": "Appriss", "value": 8 },
+        { "name": "Atria Senior Living", "value": 7 },
+        { "name": "El Toro IP Targeting", "value": 9 },
+        { "name": "GE Appliances", "value": 14 },
+        { "name": "Humana", "value": 33 },
+        { "name": "Jefferson County Public Schools", "value": 11 },
+        { "name": "Kroger", "value": 6 },
+        { "name": "QSR Automations", "value": 6 },
+        { "name": "Rainbow Design Services Inc.", "value": 5 },
+        { "name": "University of Louisville", "value": 6 },
+        { "name": "UPS", "value": 18 },
+        { "name": "Waystar", "value": 12 }
+      ]
+    },
+    {
+      "name": "Practicum by Yandex",
+      "children": [
+        { "name": "GlowByte Consulting", "value": 3 },
+        { "name": "Infosys", "value": 3 },
+        { "name": "JPMorgan Chase & Co.", "value": 3 },
+        { "name": "OZON.ru", "value": 4 },
+        { "name": "Rostelecom", "value": 3 },
+        { "name": "Sberbank", "value": 5 },
+        { "name": "uTest", "value": 3 },
+        { "name": "X5 Retail Group", "value": 3 }
+      ]
+    },
+    {
+      "name": "Grand Circus",
+      "children": [
+        { "name": "Accenture", "value": 20 },
+        { "name": "Amrock", "value": 18 },
+        { "name": "Blue Cross Blue Shield of Michigan", "value": 11 },
+        { "name": "Detroit Labs", "value": 16 },
+        { "name": "Detroit Public Schools Community District", "value": 7 },
+        { "name": "Ford Motor Company", "value": 16 },
+        { "name": "Meridian", "value": 8 },
+        { "name": "MRM", "value": 8 },
+        { "name": "Nexient", "value": 30 },
+        { "name": "Perficient", "value": 7 },
+        { "name": "Quicken Loans", "value": 87 },
+        { "name": "Spectrum Health", "value": 7 },
+        { "name": "United Shore", "value": 11 },
+        { "name": "United Wholesale Mortgage", "value": 84 }
+      ]
+    },
+    {
+      "name": "Prime Digital Academy",
+      "children": [
+        { "name": "Accessible360", "value": 11 },
+        { "name": "Best Buy", "value": 38 },
+        { "name": "C.H. Robinson", "value": 25 },
+        { "name": "Datasite", "value": 12 },
+        { "name": "Daugherty Business Solutions", "value": 7 },
+        { "name": "Granicus", "value": 10 },
+        { "name": "Optum", "value": 13 },
+        { "name": "Slalom", "value": 7 },
+        { "name": "SPS Commerce", "value": 11 },
+        { "name": "Target", "value": 38 },
+        { "name": "Thomson Reuters", "value": 16 },
+        { "name": "Total Expert", "value": 11 },
+        { "name": "Travelers", "value": 19 },
+        { "name": "U.S. Bank", "value": 8 }
+      ]
+    },
+    {
+      "name": "Claim Academy",
+      "children": [
+        { "name": "Accenture Federal Services", "value": 4 },
+        { "name": "Army National Guard", "value": 2 },
+        { "name": "Best Buy", "value": 3 },
+        { "name": "Charter Communications", "value": 6 },
+        { "name": "GalaxE.Solutions", "value": 5 },
+        { "name": "LaunchCode", "value": 3 },
+        { "name": "Mastercard", "value": 4 },
+        { "name": "NISA Investment Advisors LLC", "value": 5 },
+        { "name": "Perficient", "value": 3 },
+        { "name": "Revature", "value": 2 },
+        { "name": "Slalom", "value": 3 },
+        { "name": "US Army", "value": 2 },
+        { "name": "Washington University in St. Louis", "value": 3 }
+      ]
+    },
+    {
+      "name": "Momentum",
+      "children": [
+        { "name": "Alberta Health Services", "value": 4 },
+        { "name": "Discovery Limited", "value": 3 },
+        { "name": "IBM", "value": 3 },
+        { "name": "Infosys", "value": 2 },
+        { "name": "JPMorgan Chase & Co.", "value": 2 },
+        { "name": "Pendo.io", "value": 5 },
+        { "name": "Salesforce", "value": 3 },
+        { "name": "SciMed Solutions Inc.", "value": 2 },
+        { "name": "ServiceTrade", "value": 3 },
+        { "name": "Spreedly", "value": 4 },
+        { "name": "Westcan Bulk Transport", "value": 2 }
+      ]
+    },
+    {
+      "name": "RMOTR",
+      "children": [
+        { "name": "APEX Drone Racing", "value": 1 },
+        { "name": "Bank of America", "value": 1 },
+        { "name": "Fitbit (now part of Google)", "value": 1 },
+        { "name": "How-To Geek", "value": 1 },
+        { "name": "Intel Corporation", "value": 1 },
+        { "name": "JPMorgan Chase & Co.", "value": 1 },
+        { "name": "Milestone Digital", "value": 1 },
+        { "name": "Norges Bank Investment Management", "value": 1 },
+        { "name": "Satellogic", "value": 1 },
+        { "name": "Shelley Automation", "value": 1 },
+        { "name": "Skytree | A Fresh Breath of Air", "value": 1 },
+        { "name": "US Army", "value": 1 },
+        { "name": "Verizon", "value": 1 },
+        { "name": "Zynga", "value": 2 }
+      ]
+    },
+    {
+      "name": "Emerging Digital Academy",
+      "children": [
+        { "name": "701x", "value": 1 },
+        { "name": "Auto Doctors LLC", "value": 1 },
+        { "name": "BNG Team", "value": 1 },
+        { "name": "Bushel", "value": 2 },
+        { "name": "ByteSpeed", "value": 1 },
+        { "name": "Creatively Web Design & Development", "value": 1 },
+        { "name": "eXp Realty", "value": 1 },
+        { "name": "Learn Or Teach LLC", "value": 1 },
+        { "name": "Penta Blockchain Solutions", "value": 1 },
+        { "name": "Project Phoenix", "value": 2 },
+        { "name": "Scheels", "value": 3 },
+        { "name": "Social Selling HQ", "value": 1 }
+      ]
+    },
+    {
+      "name": "UNH Coding Boot Camp",
+      "children": [
+        { "name": "Comcast Business", "value": 1 },
+        { "name": "Fidelity Investments", "value": 1 },
+        { "name": "IANS", "value": 1 },
+        { "name": "Known Point Technologies", "value": 1 },
+        { "name": "Liberty Mutual Insurance", "value": 2 },
+        { "name": "Loud Canvas Media", "value": 1 }
+      ]
+    },
+    {
+      "name": "Rutgers Bootcamps",
+      "children": [
+        { "name": "Amazon", "value": 1 },
+        { "name": "Banfield Pet Hospital", "value": 1 },
+        { "name": "Bizzabo", "value": 1 },
+        { "name": "Incyte Studios", "value": 1 },
+        { "name": "PTC Therapeutics", "value": 1 },
+        { "name": "Robert Wood Johnson University Hospital", "value": 1 }
+      ]
+    },
+    {
+      "name": "App Academy",
+      "children": [
+        { "name": "Amazon", "value": 22 },
+        { "name": "Bloomberg LP", "value": 37 },
+        { "name": "DailyPay Inc.", "value": 8 },
+        { "name": "Etsy", "value": 7 },
+        { "name": "Facebook", "value": 38 },
+        { "name": "Google", "value": 86 },
+        { "name": "Medidata Solutions", "value": 18 },
+        { "name": "New Relic Inc.", "value": 5 },
+        { "name": "Samsara", "value": 7 },
+        { "name": "Twitter", "value": 8 },
+        { "name": "Uber", "value": 14 },
+        { "name": "Upwork", "value": 10 },
+        { "name": "Wayfair", "value": 42 },
+        { "name": "Zendesk", "value": 10 }
+      ]
+    },
+    {
+      "name": "BrainStation",
+      "children": [
+        { "name": "BMO Financial Group", "value": 26 },
+        { "name": "Canadian Tire Corporation", "value": 33 },
+        { "name": "CIBC", "value": 55 },
+        { "name": "Hootsuite", "value": 21 },
+        { "name": "Konrad Group", "value": 45 },
+        { "name": "Loblaw Digital", "value": 15 },
+        { "name": "lululemon", "value": 33 },
+        { "name": "RBC", "value": 66 },
+        { "name": "Rogers Sports & Media", "value": 22 },
+        { "name": "Scotiabank", "value": 49 },
+        { "name": "Shopify", "value": 80 },
+        { "name": "TD", "value": 47 },
+        { "name": "TELUS", "value": 41 },
+        { "name": "The University of British Columbia", "value": 19 }
+      ]
+    },
+    {
+      "name": "Byte Academy",
+      "children": [
+        { "name": "Absa Group", "value": 2 },
+        { "name": "BACKED VC", "value": 1 },
+        { "name": "Capital Rx", "value": 1 },
+        { "name": "College Truckers Inc.", "value": 1 },
+        { "name": "Geodesic Techniques", "value": 2 },
+        { "name": "IBM", "value": 1 },
+        { "name": "JPMorgan Chase & Co.", "value": 5 },
+        { "name": "NOV", "value": 3 },
+        { "name": "Oracle", "value": 1 },
+        { "name": "SpryteLabs", "value": 8 },
+        { "name": "Tempus Labs Inc.", "value": 1 },
+        { "name": "Torus Teens", "value": 1 }
+      ]
+    },
+    {
+      "name": "Flatiron School",
+      "children": [
+        { "name": "Accenture", "value": 27 },
+        { "name": "Amazon", "value": 44 },
+        { "name": "Citi", "value": 21 },
+        { "name": "Datadog", "value": 37 },
+        { "name": "IBM", "value": 31 },
+        { "name": "Infosys", "value": 128 },
+        { "name": "JPMorgan Chase & Co.", "value": 41 },
+        { "name": "Shopify", "value": 10 },
+        { "name": "Spotify", "value": 16 },
+        { "name": "The New York Times", "value": 15 },
+        { "name": "Wayfair", "value": 23 },
+        { "name": "WeWork", "value": 23 }
+      ]
+    },
+    {
+      "name": "Fullstack Academy",
+      "children": [
+        { "name": "Amazon", "value": 18 },
+        { "name": "American Express", "value": 25 },
+        { "name": "BlackRock", "value": 9 },
+        { "name": "Bloomberg LP", "value": 67 },
+        { "name": "Etsy", "value": 20 },
+        { "name": "Goldman Sachs", "value": 11 },
+        { "name": "Google", "value": 45 },
+        { "name": "JPMorgan Chase & Co.", "value": 26 },
+        { "name": "Northwestern Mutual", "value": 15 },
+        { "name": "Spotify", "value": 16 },
+        { "name": "The New York Times", "value": 14 },
+        { "name": "Wunderkind (Formerly BounceX)", "value": 8 }
+      ]
+    },
+    {
+      "name": "General Assembly",
+      "children": [
+        { "name": "Accenture", "value": 134 },
+        { "name": "Adobe", "value": 101 },
+        { "name": "Amazon", "value": 235 },
+        { "name": "Amazon Web Services (AWS)", "value": 94 },
+        { "name": "Apple", "value": 152 },
+        { "name": "Atlassian", "value": 62 },
+        { "name": "Booz Allen Hamilton", "value": 181 },
+        { "name": "Facebook", "value": 243 },
+        { "name": "Google", "value": 383 },
+        { "name": "IBM", "value": 149 },
+        { "name": "LinkedIn", "value": 78 },
+        { "name": "Microsoft", "value": 151 },
+        { "name": "Salesforce", "value": 108 },
+        { "name": "Spotify", "value": 71 }
+      ]
+    },
+    {
+      "name": "Metis",
+      "children": [
+        { "name": "Amazon", "value": 4 },
+        { "name": "Bank of America", "value": 2 },
+        { "name": "Citi", "value": 2 },
+        { "name": "City of Amsterdam", "value": 2 },
+        { "name": "Comcast", "value": 2 },
+        { "name": "Disney Streaming Services", "value": 2 },
+        { "name": "Facebook", "value": 4 },
+        { "name": "Google", "value": 3 },
+        { "name": "IBM", "value": 3 },
+        { "name": "Tempus Labs Inc. ", "value": 2 },
+        { "name": "The Spur Group", "value": 4 },
+        { "name": "Trilogy Education", "value": 2 },
+        { "name": "Uber", "value": 2 },
+        { "name": "Warwick Investment Group", "value": 2 }
+      ]
+    },
+    {
+      "name": "New York Code + Design Academy",
+      "children": [
+        { "name": "ABN AMRO Bank N.V.", "value": 4 },
+        { "name": "Apple", "value": 4 },
+        { "name": "Capgemini", "value": 3 },
+        { "name": "Cognizant", "value": 3 },
+        { "name": "Comcast", "value": 5 },
+        { "name": "Gartner", "value": 3 },
+        { "name": "Google", "value": 5 },
+        { "name": "Incentro", "value": 4 },
+        { "name": "IntuitSolutions", "value": 7 },
+        { "name": "LinkedIn", "value": 3 },
+        { "name": "NYC Department of Education", "value": 3 },
+        { "name": "University of Pennsylvania", "value": 3 }
+      ]
+    },
+    {
+      "name": "Noble Desktop",
+      "children": [
+        { "name": "Apple", "value": 4 },
+        { "name": "Conscience VC", "value": 2 },
+        { "name": "FCB Health", "value": 3 },
+        { "name": "Hachette Book Group", "value": 2 },
+        { "name": "IBM", "value": 2 },
+        { "name": "JPMorgan Chase & Co.", "value": 2 },
+        { "name": "Meredith Corporation", "value": 2 },
+        { "name": "Penguin Random House", "value": 2 },
+        { "name": "Pratt Institute", "value": 2 },
+        { "name": "Rodale Inc.", "value": 2 },
+        { "name": "Scholastic", "value": 4 },
+        { "name": "The Conference Board", "value": 2 },
+        { "name": "Upwork", "value": 3 },
+        { "name": "Verizon", "value": 2 }
+      ]
+    },
+    {
+      "name": "Skillcrush",
+      "children": [
+        { "name": "CVS Health", "value": 3 },
+        { "name": "Flatiron School", "value": 2 },
+        { "name": "Independent Consultant", "value": 2 },
+        { "name": "lululemon", "value": 2 },
+        { "name": "Lyft", "value": 2 },
+        { "name": "Stitch Fix", "value": 2 },
+        { "name": "T-Mobile", "value": 2 },
+        { "name": "U.S. Department of Veterans Affairs", "value": 3 },
+        { "name": "Ulta Beauty", "value": 2 },
+        { "name": "VIPKid", "value": 6 },
+        { "name": "Zapier", "value": 2 }
+      ]
+    },
+    {
+      "name": "The Grace Hopper Program at Fullstack Academy",
+      "children": [
+        { "name": "Annalect", "value": 2 },
+        { "name": "Attentive", "value": 2 },
+        { "name": "Bloomberg LP", "value": 7 },
+        { "name": "Bounteous", "value": 2 },
+        { "name": "Datadog", "value": 2 },
+        { "name": "Etsy", "value": 3 },
+        { "name": "Fullstack Academy", "value": 4 },
+        { "name": "Goldman Sachs", "value": 2 },
+        { "name": "Google", "value": 4 },
+        { "name": "Northwestern Mutual", "value": 2 },
+        { "name": "T-Mobile", "value": 2 },
+        { "name": "Unqork", "value": 3 }
+      ]
+    },
+    {
+      "name": "Thinkful",
+      "children": [
+        { "name": "Amazon", "value": 21 },
+        { "name": "Anant", "value": 3 },
+        { "name": "Finix", "value": 2 },
+        { "name": "Fiverr", "value": 4 },
+        { "name": "Hack for LA", "value": 3 },
+        { "name": "HubSpot", "value": 3 },
+        { "name": "IBM", "value": 8 },
+        { "name": "Personal Projects", "value": 4 },
+        { "name": "Trilogy Education", "value": 10 },
+        { "name": "Upwork", "value": 7 },
+        { "name": "Walmart Global Tech", "value": 3 }
+      ]
+    },
+    {
+      "name": "MAX Technical Training & Career Programs",
+      "children": [
+        { "name": "Bottom Line Systems", "value": 1 },
+        { "name": "Eurostampa North America Inc.", "value": 1 },
+        { "name": "Great American Insurance Group", "value": 2 },
+        { "name": "IBM", "value": 1 },
+        { "name": "K-Electric", "value": 1 },
+        { "name": "Kroger Technology", "value": 4 },
+        { "name": "Matthews Automation Solutions", "value": 2 },
+        { "name": "Ohio National Financial Services", "value": 1 },
+        { "name": "Procter & Gamble", "value": 3 },
+        { "name": "Seven Hills Technology", "value": 1 },
+        { "name": "Shoptech Software - Manufacturing Software", "value": 1 },
+        { "name": "The Cincinnati Insurance Companies", "value": 1 },
+        { "name": "Top Gun Sales Performance", "value": 1 },
+        { "name": "Total Quality Logistics", "value": 2 }
+      ]
+    },
+    {
+      "name": "Tech Elevator",
+      "children": [
+        { "name": "AmTrust Financial Services Inc.", "value": 12 },
+        { "name": "BNY Mellon", "value": 20 },
+        { "name": "DICK'S Sporting Goods", "value": 11 },
+        { "name": "Edaptive Computing Inc.", "value": 10 },
+        { "name": "Fifth Third Bank", "value": 13 },
+        { "name": "JPMorgan Chase & Co.", "value": 138 },
+        { "name": "KeyBank", "value": 14 },
+        { "name": "London Computer Systems", "value": 17 },
+        { "name": "National General Insurance", "value": 39 },
+        { "name": "Nationwide", "value": 18 },
+        { "name": "Olive", "value": 21 },
+        { "name": "PNC", "value": 243 },
+        { "name": "Progressive Insurance", "value": 34 },
+        { "name": "United Wholesale Mortgage", "value": 15 }
+      ]
+    },
+    {
+      "name": "We Can Code IT",
+      "children": [
+        { "name": "Acumen Solutions", "value": 5 },
+        { "name": "Apple", "value": 3 },
+        { "name": "Cardinal Health", "value": 4 },
+        { "name": "CoverMyMeds", "value": 3 },
+        { "name": "Foundation Software", "value": 4 },
+        { "name": "Huntington National Bank", "value": 6 },
+        { "name": "JPMorgan Chase & Co.", "value": 23 },
+        { "name": "KeyBank", "value": 4 },
+        { "name": "MoreSteam", "value": 3 },
+        { "name": "National General Insurance", "value": 5 },
+        { "name": "Nationwide", "value": 6 },
+        { "name": "PNC", "value": 9 },
+        { "name": "Progressive Insurance", "value": 14 },
+        { "name": "Root Inc.", "value": 4 }
+      ]
+    },
+    {
+      "name": "Alchemy Code Lab",
+      "children": [
+        { "name": "Adobe", "value": 3 },
+        { "name": "Allocations", "value": 2 },
+        { "name": "Emsi", "value": 2 },
+        { "name": "Esri", "value": 2 },
+        { "name": "EventBuilder", "value": 1 },
+        { "name": "Hatch Data", "value": 2 },
+        { "name": "HealthSparq", "value": 2 },
+        { "name": "Kinship", "value": 3 },
+        { "name": "Kroger Technology", "value": 2 },
+        { "name": "Lithia Motors", "value": 5 },
+        { "name": "Nike", "value": 4 },
+        { "name": "Schoolhouse", "value": 2 },
+        { "name": "Sprinklr", "value": 5 },
+        { "name": "Squishymedia", "value": 2 }
+      ]
+    },
+    {
+      "name": "Epicodus",
+      "children": [
+        { "name": "Ascend Software", "value": 6 },
+        { "name": "EyeCue Lab", "value": 7 },
+        { "name": "Goalden Hour", "value": 4 },
+        { "name": "Hubb", "value": 3 },
+        { "name": "iGrafx", "value": 4 },
+        { "name": "Microsoft Leap Apprenticeship Program", "value": 3 },
+        { "name": "National Society of Black Engineers", "value": 3 },
+        { "name": "New Relic Inc.", "value": 6 },
+        { "name": "Nike", "value": 6 },
+        { "name": "Nombolo", "value": 8 },
+        { "name": "PDXR", "value": 3 },
+        { "name": "Pollinate", "value": 3 },
+        { "name": "Tuft & Needle", "value": 3 },
+        { "name": "UGrow", "value": 5 }
+      ]
+    },
+    {
+      "name": "The Tech Academy",
+      "children": [
+        { "name": "Adobe", "value": 2 },
+        { "name": "Amazon", "value": 3 },
+        { "name": "Conduent", "value": 3 },
+        { "name": "Epiq", "value": 2 },
+        { "name": "Intel Corporation", "value": 4 },
+        { "name": "Microsoft", "value": 6 },
+        { "name": "New Relic Inc.", "value": 5 },
+        { "name": "Nike", "value": 4 },
+        { "name": "Novus Labs", "value": 2 },
+        { "name": "Prosper I.T. Consulting", "value": 28 },
+        { "name": "Smarsh", "value": 2 },
+        { "name": "The Home Depot", "value": 2 }
+      ]
+    },
+    {
+      "name": "Academy Pittsburgh",
+      "children": [
+        {
+          "name": "Advanced Computer & Network Corp. (AC&NC) JetStor",
+          "value": 1
+        },
+        { "name": "Behaivior", "value": 1 },
+        { "name": "Build412 Tech", "value": 1 },
+        { "name": "CoverMyMeds", "value": 1 },
+        { "name": "numo llc", "value": 3 },
+        { "name": "PNC", "value": 5 },
+        { "name": "Seeking a New Opportunity", "value": 1 },
+        { "name": "Sparkbox", "value": 1 },
+        { "name": "Velocity Works", "value": 1 },
+        { "name": "Work Hard Solutions", "value": 1 }
+      ]
+    },
+    {
+      "name": "Nashville Software School",
+      "children": [
+        { "name": "Accenture", "value": 39 },
+        { "name": "AllianceBernstein", "value": 11 },
+        { "name": "Aspire Health Inc.", "value": 10 },
+        { "name": "Built Technologies", "value": 18 },
+        { "name": "FortyAU", "value": 12 },
+        { "name": "HCA Healthcare", "value": 16 },
+        { "name": "Healthcare Bluebook", "value": 13 },
+        { "name": "HealthStream", "value": 13 },
+        { "name": "National General Insurance", "value": 10 },
+        { "name": "naviHealth", "value": 9 },
+        { "name": "Ncontracts", "value": 10 },
+        { "name": "Ramsey Solutions", "value": 13 },
+        { "name": "Tennessee Department of Transportation", "value": 9 },
+        { "name": "Vanderbilt University Medical Center", "value": 12 }
+      ]
+    },
+    {
+      "name": "Codeup",
+      "children": [
+        { "name": "Accenture", "value": 17 },
+        { "name": "Accenture Federal Services", "value": 31 },
+        { "name": "Appddiction Studio", "value": 20 },
+        { "name": "Booz Allen Hamilton", "value": 8 },
+        { "name": "CaptureRx", "value": 9 },
+        { "name": "Cognizant", "value": 13 },
+        { "name": "Guardian Premier Solutions (GPS) LLC", "value": 9 },
+        { "name": "H-E-B", "value": 9 },
+        { "name": "Silotech Group Inc", "value": 5 },
+        { "name": "SWBC", "value": 10 },
+        { "name": "TaskUs", "value": 6 },
+        { "name": "USAA", "value": 47 }
+      ]
+    },
+    {
+      "name": "Inventive Academy",
+      "children": [
+        { "name": "Darwin Homes - Property Management", "value": 1 },
+        { "name": "eCommission", "value": 1 },
+        { "name": "Graafschap College", "value": 1 },
+        { "name": "InstiWitty Media Studios", "value": 1 },
+        { "name": "Itzu Jobs", "value": 1 },
+        { "name": "MB Aerospace", "value": 1 },
+        { "name": "Mindtree", "value": 1 },
+        { "name": "Point Security LLC", "value": 1 },
+        { "name": "Polamer Precision Inc.", "value": 1 },
+        { "name": "RepHQ LLC", "value": 2 },
+        { "name": "Subh Muhurat", "value": 1 }
+      ]
+    },
+    {
+      "name": "UT Austin Boot Camps",
+      "children": [
+        { "name": "Digital Pharmacist Inc.", "value": 1 },
+        { "name": "Siemens", "value": 1 },
+        { "name": "Visio Lending", "value": 1 }
+      ]
+    },
+    {
+      "name": "Bottega Career Services",
+      "children": [
+        { "name": "Alder Holdings LLC", "value": 3 },
+        { "name": "Amazon", "value": 5 },
+        { "name": "Avii", "value": 3 },
+        { "name": "Coforge", "value": 4 },
+        { "name": "Conscience VC", "value": 6 },
+        { "name": "Dev Pipeline", "value": 4 },
+        { "name": "Edge by Ascential", "value": 3 },
+        { "name": "Hoverstate", "value": 3 },
+        { "name": "MX", "value": 3 },
+        { "name": "Upwork", "value": 4 }
+      ]
+    },
+    {
+      "name": "Devmountain",
+      "children": [
+        { "name": "Divvy | Inc.", "value": 14 },
+        { "name": "MX", "value": 22 },
+        { "name": "Overstock.com", "value": 16 },
+        { "name": "Pluralsight", "value": 18 },
+        { "name": "Podium", "value": 25 },
+        { "name": "projekt202", "value": 8 },
+        { "name": "TCN", "value": 6 },
+        {
+          "name": "The Church of Jesus Christ of Latter-day Saints",
+          "value": 17
+        },
+        { "name": "Veryable", "value": 7 },
+        { "name": "Vivint", "value": 14 },
+        { "name": "Workfront", "value": 7 }
+      ]
+    },
+    {
+      "name": "DevPoint Labs",
+      "children": [
+        { "name": "Acima Credit", "value": 4 },
+        { "name": "ARUP Laboratories", "value": 3 },
+        { "name": "Direct®", "value": 3 },
+        { "name": "Divvy | Inc.", "value": 3 },
+        { "name": "ExpertVoice", "value": 3 },
+        { "name": "Fidelity Investments", "value": 3 },
+        { "name": "Goldman Sachs", "value": 3 },
+        { "name": "Instructure", "value": 3 },
+        { "name": "Mavenlink", "value": 3 },
+        { "name": "MX", "value": 5 },
+        { "name": "Nav Inc.", "value": 3 },
+        { "name": "Shareworks by Morgan Stanley", "value": 3 },
+        {
+          "name": "The Church of Jesus Christ of Latter-day Saints",
+          "value": 3
+        },
+        { "name": "Verisys Corporation", "value": 6 }
+      ]
+    },
+    {
+      "name": "V School",
+      "children": [
+        { "name": "Adobe", "value": 9 },
+        { "name": "Conscience VC", "value": 3 },
+        { "name": "Divvy | Inc.", "value": 4 },
+        { "name": "Fidelity Investments", "value": 3 },
+        { "name": "IBM", "value": 2 },
+        { "name": "Impartner Software", "value": 2 },
+        { "name": "O.C. Tanner", "value": 3 },
+        { "name": "Smash Creative", "value": 4 },
+        { "name": "Verisage Custom Software", "value": 3 },
+        { "name": "VMware", "value": 3 },
+        { "name": "Weave HQ", "value": 2 },
+        { "name": "XANT", "value": 3 }
+      ]
+    },
+    {
+      "name": "Burlington Code Academy",
+      "children": [
+        { "name": "Asure Software", "value": 2 },
+        { "name": "Burton Snowboards", "value": 1 },
+        { "name": "Dealer.com", "value": 4 },
+        { "name": "EZ-Probate Inc.", "value": 1 },
+        { "name": "Impulse Creative", "value": 1 },
+        { "name": "Jay Peak Resort", "value": 1 },
+        { "name": "New Breed", "value": 2 },
+        { "name": "oK", "value": 3 },
+        { "name": "Select Design", "value": 2 },
+        { "name": "trUStr ®", "value": 1 },
+        { "name": "Vermont Systems", "value": 1 }
+      ]
+    },
+    {
+      "name": "Code Fellows",
+      "children": [
+        {
+          "name": "Abdul Aziz Al Ghurair School of Advanced Computing (ASAC)",
+          "value": 6
+        },
+        { "name": "Amazon", "value": 48 },
+        { "name": "Amazon Web Services (AWS)", "value": 42 },
+        { "name": "Avalara", "value": 13 },
+        { "name": "Expedia Group", "value": 13 },
+        { "name": "F5", "value": 7 },
+        { "name": "Microsoft", "value": 100 },
+        { "name": "Nike", "value": 7 },
+        { "name": "Nordstrom", "value": 11 },
+        { "name": "SAP Concur", "value": 7 },
+        { "name": "Slalom Build", "value": 8 },
+        { "name": "Smartsheet", "value": 6 },
+        { "name": "US Army", "value": 9 },
+        { "name": "Zonar Systems", "value": 10 }
+      ]
+    },
+    {
+      "name": "Coding Dojo",
+      "children": [
+        { "name": "Accenture", "value": 13 },
+        { "name": "Amazon", "value": 52 },
+        { "name": "Amazon Web Services (AWS)", "value": 14 },
+        { "name": "Conscience VC", "value": 10 },
+        { "name": "Google", "value": 11 },
+        { "name": "Infosys", "value": 10 },
+        { "name": "Microsoft", "value": 53 },
+        { "name": "Mindtree", "value": 9 },
+        { "name": "The Difference Engine", "value": 5 },
+        { "name": "Upwork", "value": 8 },
+        { "name": "US Army", "value": 12 }
+      ]
+    },
+    {
+      "name": "Nucamp Coding Bootcamp",
+      "children": [
+        { "name": "Amazon", "value": 8 },
+        { "name": "Apple", "value": 3 },
+        { "name": "Infosys", "value": 3 },
+        { "name": "Microsoft", "value": 9 },
+        { "name": "TEKsystems", "value": 3 },
+        { "name": "United States Air Force", "value": 3 },
+        { "name": "US Army", "value": 3 },
+        { "name": "Verizon", "value": 3 },
+        { "name": "Walgreens", "value": 3 },
+        { "name": "Walmart", "value": 3 }
+      ]
+    },
+    {
+      "name": "The Array School of Technology and Design",
+      "children": [
+        { "name": "Advent Information Systems L.L.C.", "value": 2 },
+        { "name": "Campbell County Public Library System", "value": 1 },
+        { "name": "Holland & Hart LLP", "value": 1 },
+        { "name": "Laramie County Library System", "value": 1 },
+        { "name": "Medicine Bow Technologies Inc.", "value": 1 },
+        { "name": "PBR MARKETING & PRINTING SOLUTIONS", "value": 1 },
+        { "name": "State of Wyoming", "value": 1 },
+        { "name": "The TJX Companies Inc.", "value": 1 },
+        { "name": "University of Wyoming", "value": 1 }
+      ]
+    },
+    {
+      "name": "Lambda School",
+      "children": [
+        { "name": "AAK TELE-SCIENCE Inc.", "value": 6 },
+        { "name": "Amazon", "value": 20 },
+        { "name": "Amazon Web Services (AWS)", "value": 20 },
+        { "name": "Nexient", "value": 24 },
+        { "name": "Northwestern Mutual", "value": 12 },
+        { "name": "Sirch", "value": 8 },
+        { "name": "Sterling Bank Plc", "value": 5 },
+        { "name": "Story Squad", "value": 15 },
+        { "name": "Upwork", "value": 9 }
+      ]
+    },
+    {
+      "name": "The Iron Yard",
+      "children": [
+        { "name": "Benefitfocus", "value": 5 },
+        { "name": "Blackbaud", "value": 10 },
+        { "name": "BoomTown - Real Estate Platform", "value": 5 },
+        { "name": "Booz Allen Hamilton", "value": 8 },
+        { "name": "Cox Automotive Inc.", "value": 5 },
+        { "name": "Experian's Clarity Services", "value": 4 },
+        { "name": "Liberty Mutual Insurance", "value": 13 },
+        { "name": "Pendo.io", "value": 4 },
+        { "name": "Red Hat", "value": 7 },
+        { "name": "Red Ventures", "value": 6 },
+        { "name": "Relias", "value": 4 },
+        { "name": "Salesforce", "value": 5 },
+        { "name": "Social Security Administration", "value": 4 },
+        { "name": "Somo Global", "value": 5 }
+      ]
+    },
+    {
+      "name": "Wild Code School",
+      "children": [
+        { "name": "Apside", "value": 17 },
+        { "name": "Betclic Group", "value": 4 },
+        { "name": "Capgemini", "value": 14 },
+        { "name": "Cdiscount", "value": 6 },
+        { "name": "CGI", "value": 23 },
+        { "name": "Clever Age", "value": 6 },
+        { "name": "DECATHLON FRANCE", "value": 5 },
+        { "name": "Enedis", "value": 5 },
+        { "name": "Inetum", "value": 5 },
+        { "name": "ITDM Group", "value": 4 },
+        { "name": "La Pilule Rouge", "value": 11 },
+        { "name": "onepoint", "value": 25 },
+        { "name": "OpenClassrooms", "value": 11 },
+        { "name": "Pôle emploi", "value": 10 }
+      ]
+    }
+  ]
+}
