@@ -44,6 +44,10 @@ for (const state in stateCounts) {
         selectedStateTitleEl.innerHTML = `{<span style="color:blue">${data[state]}</span>:
           <span style="color:green">${stateCount}</span>
          bootcamp grads hired}`;
+         var myModal = new bootstrap.Modal(document.getElementById('myModal'), {
+          keyboard: false
+        })
+         myModal.toggle();
       });
   });
 

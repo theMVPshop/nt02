@@ -18,6 +18,9 @@
 .observablehq--collapsed,.observablehq--inspect a{
     cursor:pointer
 }
+.observablehq {
+    width: 700px;
+}
 .observablehq--field{
     text-indent:-1em;
     margin-left:1em
