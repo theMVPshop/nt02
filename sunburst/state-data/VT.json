@@ -1,0 +1,21 @@
+{
+  "name": "VT",
+  "children": [
+    {
+      "name": "Burlington Code Academy",
+      "children": [
+        { "name": "Asure Software", "value": 2 },
+        { "name": "Burton Snowboards", "value": 1 },
+        { "name": "Dealer.com", "value": 4 },
+        { "name": "EZ-Probate Inc.", "value": 1 },
+        { "name": "Impulse Creative", "value": 1 },
+        { "name": "Jay Peak Resort", "value": 1 },
+        { "name": "New Breed", "value": 2 },
+        { "name": "oK", "value": 3 },
+        { "name": "Select Design", "value": 2 },
+        { "name": "trUStr ®", "value": 1 },
+        { "name": "Vermont Systems", "value": 1 }
+      ]
+    }
+  ]
+}

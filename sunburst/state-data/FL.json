@@ -1,0 +1,39 @@
+{
+  "name": "FL",
+  "children": [
+    {
+      "name": "4Geeks Academy",
+      "children": [
+        { "name": "Boosmap", "value": 2 },
+        { "name": "Bridge Patient Portal", "value": 2 },
+        { "name": "Bridges Unite", "value": 2 },
+        { "name": "Cornershop by Uber", "value": 2 },
+        { "name": "DNA HUMAN CAPITAL", "value": 3 },
+        { "name": "Nivelat", "value": 2 },
+        { "name": "Patagonia IT", "value": 2 },
+        { "name": "The Dog Company Chile", "value": 2 },
+        { "name": "Uber", "value": 3 },
+        { "name": "University of Miami", "value": 3 }
+      ]
+    },
+    {
+      "name": "Wyncode Academy",
+      "children": [
+        { "name": "Apple", "value": 6 },
+        { "name": "Augusta Hitech", "value": 4 },
+        { "name": "BrainStation", "value": 9 },
+        { "name": "CareCloud", "value": 9 },
+        { "name": "Health Karma", "value": 6 },
+        { "name": "IntelePeer", "value": 5 },
+        { "name": "Kipu Health", "value": 6 },
+        { "name": "MDLIVE Inc.", "value": 5 },
+        { "name": "Miami Dev Shop", "value": 5 },
+        { "name": "Microsoft", "value": 5 },
+        { "name": "Papa", "value": 5 },
+        { "name": "Restaurant Brands International", "value": 13 },
+        { "name": "springbig", "value": 5 },
+        { "name": "Watsco Ventures", "value": 5 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "N/A",
+  "children": [
+    {
+      "name": "Lambda School",
+      "children": [
+        { "name": "AAK TELE-SCIENCE Inc.", "value": 6 },
+        { "name": "Amazon", "value": 20 },
+        { "name": "Amazon Web Services (AWS)", "value": 20 },
+        { "name": "Nexient", "value": 24 },
+        { "name": "Northwestern Mutual", "value": 12 },
+        { "name": "Sirch", "value": 8 },
+        { "name": "Sterling Bank Plc", "value": 5 },
+        { "name": "Story Squad", "value": 15 },
+        { "name": "Upwork", "value": 9 }
+      ]
+    },
+    {
+      "name": "The Iron Yard",
+      "children": [
+        { "name": "Benefitfocus", "value": 5 },
+        { "name": "Blackbaud", "value": 10 },
+        { "name": "BoomTown - Real Estate Platform", "value": 5 },
+        { "name": "Booz Allen Hamilton", "value": 8 },
+        { "name": "Cox Automotive Inc.", "value": 5 },
+        { "name": "Experian's Clarity Services", "value": 4 },
+        { "name": "Liberty Mutual Insurance", "value": 13 },
+        { "name": "Pendo.io", "value": 4 },
+        { "name": "Red Hat", "value": 7 },
+        { "name": "Red Ventures", "value": 6 },
+        { "name": "Relias", "value": 4 },
+        { "name": "Salesforce", "value": 5 },
+        { "name": "Social Security Administration", "value": 4 },
+        { "name": "Somo Global", "value": 5 }
+      ]
+    },
+    {
+      "name": "Wild Code School",
+      "children": [
+        { "name": "Apside", "value": 17 },
+        { "name": "Betclic Group", "value": 4 },
+        { "name": "Capgemini", "value": 14 },
+        { "name": "Cdiscount", "value": 6 },
+        { "name": "CGI", "value": 23 },
+        { "name": "Clever Age", "value": 6 },
+        { "name": "DECATHLON FRANCE", "value": 5 },
+        { "name": "Enedis", "value": 5 },
+        { "name": "Inetum", "value": 5 },
+        { "name": "ITDM Group", "value": 4 },
+        { "name": "La Pilule Rouge", "value": 11 },
+        { "name": "onepoint", "value": 25 },
+        { "name": "OpenClassrooms", "value": 11 },
+        { "name": "Pôle emploi", "value": 10 }
+      ]
+    }
+  ]
+}

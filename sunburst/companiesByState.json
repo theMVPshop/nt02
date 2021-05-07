@@ -1370,7 +1370,6 @@
         }
       ]
     },
-
     {
       "name": "WA",
       "children": [
@@ -1431,7 +1430,6 @@
         }
       ]
     },
-
     {
       "name": "WY",
       "children": [
@@ -1451,7 +1449,6 @@
         }
       ]
     },
-
     {
       "name": "N/A",
       "children": [
@@ -1469,7 +1466,6 @@
             { "name": "Upwork", "value": 9 }
           ]
         },
-
         {
           "name": "The Iron Yard",
           "children": [
@@ -1489,7 +1485,6 @@
             { "name": "Somo Global", "value": 5 }
           ]
         },
-
         {
           "name": "Wild Code School",
           "children": [

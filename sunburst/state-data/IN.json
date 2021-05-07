@@ -1,0 +1,43 @@
+{
+  "name": "IN",
+  "children": [
+    {
+      "name": "Eleven Fifty Academy",
+      "children": [
+        { "name": "Agilify Automation", "value": 4 },
+        { "name": "Community Health Network", "value": 3 },
+        { "name": "DMI (Digital Management LLC)", "value": 4 },
+        { "name": "DoorDash", "value": 4 },
+        { "name": "GEICO", "value": 8 },
+        { "name": "Infosys", "value": 12 },
+        { "name": "Ion Three", "value": 4 },
+        { "name": "Liberty Mutual Insurance", "value": 4 },
+        { "name": "Navient", "value": 4 },
+        { "name": "Offprem Technology", "value": 6 },
+        { "name": "R&M Software Inc.", "value": 7 },
+        { "name": "Salesforce", "value": 7 },
+        { "name": "TCC Software Solutions", "value": 6 },
+        { "name": "US Army", "value": 4 }
+      ]
+    },
+    {
+      "name": "Kenzie Academy",
+      "children": [
+        { "name": "Amazon", "value": 136 },
+        { "name": "Amazon Fulfillment Centre", "value": 16 },
+        { "name": "Amazon Logistics", "value": 4 },
+        { "name": "AT&T", "value": 2 },
+        { "name": "Career Karma", "value": 2 },
+        { "name": "DMI (Digital Management LLC)", "value": 3 },
+        { "name": "FedEx Ground", "value": 2 },
+        { "name": "Infosys", "value": 2 },
+        { "name": "Infosys Ltd", "value": 4 },
+        { "name": "JPMorgan Chase & Co.", "value": 2 },
+        { "name": "KellyConnect | Contact Center Solutions", "value": 2 },
+        { "name": "Southern New Hampshire University", "value": 8 },
+        { "name": "SuperWorld", "value": 2 },
+        { "name": "Zylo", "value": 2 }
+      ]
+    }
+  ]
+}

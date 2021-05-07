@@ -1,0 +1,28 @@
+{
+  "name": "GA",
+  "children": [
+    {
+      "name": "DigitalCrafts",
+      "children": [
+        { "name": "Accenture", "value": 4 },
+        { "name": "Chick-fil-A Corporate Support Center", "value": 5 },
+        { "name": "Codoxo", "value": 4 },
+        { "name": "Cox Automotive Inc.", "value": 4 },
+        { "name": "Insiten", "value": 8 },
+        { "name": "JPMorgan Chase & Co.", "value": 5 },
+        { "name": "Luminare Inc.", "value": 4 },
+        { "name": "Mailchimp", "value": 5 },
+        { "name": "Microsoft", "value": 3 },
+        { "name": "The Home Depot", "value": 12 },
+        { "name": "Umbrage", "value": 6 },
+        { "name": "Varsity Hype", "value": 5 },
+        { "name": "Ware2Go", "value": 6 },
+        { "name": "WarnerMedia", "value": 4 }
+      ]
+    },
+    {
+      "name": "Georgia Tech Boot Camps",
+      "children": [{ "name": "XPO Logistics Inc.", "value": 1 }]
+    }
+  ]
+}
