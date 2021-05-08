@@ -1,0 +1,16 @@
+{
+  "name": "NJ",
+  "children": [
+    {
+      "name": "Rutgers Bootcamps",
+      "children": [
+        { "name": "Amazon", "value": 1 },
+        { "name": "Banfield Pet Hospital", "value": 1 },
+        { "name": "Bizzabo", "value": 1 },
+        { "name": "Incyte Studios", "value": 1 },
+        { "name": "PTC Therapeutics", "value": 1 },
+        { "name": "Robert Wood Johnson University Hospital", "value": 1 }
+      ]
+    }
+  ]
+}

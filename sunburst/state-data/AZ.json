@@ -1,0 +1,34 @@
+{
+  "name": "AZ",
+  "children": [
+    {
+      "name": "University of Arizona Boot Camps",
+      "children": [
+        { "name": "AmpleTech Refresh", "value": 1 },
+        { "name": "Empereon Constar", "value": 1 },
+        { "name": "ORIANA solutions", "value": 1 },
+        { "name": "Plexus Worldwide", "value": 1 },
+        { "name": "Waddell & Reed", "value": 1 }
+      ]
+    },
+
+    {
+      "name": "Woz U",
+      "children": [
+        { "name": "Accenture", "value": 2 },
+        { "name": "Amazon", "value": 6 },
+        { "name": "Apple", "value": 3 },
+        { "name": "DoorDash", "value": 3 },
+        { "name": "Facebook", "value": 2 },
+        { "name": "Infosys", "value": 6 },
+        { "name": "Intel Corporation", "value": 2 },
+        { "name": "Revature", "value": 2 },
+        { "name": "Southern Careers Institute", "value": 3 },
+        { "name": "Uber", "value": 3 },
+        { "name": "United States Postal Service", "value": 3 },
+        { "name": "US Army", "value": 4 },
+        { "name": "Verizon", "value": 3 }
+      ]
+    }
+  ]
+}

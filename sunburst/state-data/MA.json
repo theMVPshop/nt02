@@ -1,0 +1,18 @@
+{
+  "name": "MA",
+  "children": [
+    {
+      "name": "Practicum by Yandex",
+      "children": [
+        { "name": "GlowByte Consulting", "value": 3 },
+        { "name": "Infosys", "value": 3 },
+        { "name": "JPMorgan Chase & Co.", "value": 3 },
+        { "name": "OZON.ru", "value": 4 },
+        { "name": "Rostelecom", "value": 3 },
+        { "name": "Sberbank", "value": 5 },
+        { "name": "uTest", "value": 3 },
+        { "name": "X5 Retail Group", "value": 3 }
+      ]
+    }
+  ]
+}

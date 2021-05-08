@@ -1,0 +1,60 @@
+{
+  "name": "OR",
+  "children": [
+    {
+      "name": "Alchemy Code Lab",
+      "children": [
+        { "name": "Adobe", "value": 3 },
+        { "name": "Allocations", "value": 2 },
+        { "name": "Emsi", "value": 2 },
+        { "name": "Esri", "value": 2 },
+        { "name": "EventBuilder", "value": 1 },
+        { "name": "Hatch Data", "value": 2 },
+        { "name": "HealthSparq", "value": 2 },
+        { "name": "Kinship", "value": 3 },
+        { "name": "Kroger Technology", "value": 2 },
+        { "name": "Lithia Motors", "value": 5 },
+        { "name": "Nike", "value": 4 },
+        { "name": "Schoolhouse", "value": 2 },
+        { "name": "Sprinklr", "value": 5 },
+        { "name": "Squishymedia", "value": 2 }
+      ]
+    },
+    {
+      "name": "Epicodus",
+      "children": [
+        { "name": "Ascend Software", "value": 6 },
+        { "name": "EyeCue Lab", "value": 7 },
+        { "name": "Goalden Hour", "value": 4 },
+        { "name": "Hubb", "value": 3 },
+        { "name": "iGrafx", "value": 4 },
+        { "name": "Microsoft Leap Apprenticeship Program", "value": 3 },
+        { "name": "National Society of Black Engineers", "value": 3 },
+        { "name": "New Relic Inc.", "value": 6 },
+        { "name": "Nike", "value": 6 },
+        { "name": "Nombolo", "value": 8 },
+        { "name": "PDXR", "value": 3 },
+        { "name": "Pollinate", "value": 3 },
+        { "name": "Tuft & Needle", "value": 3 },
+        { "name": "UGrow", "value": 5 }
+      ]
+    },
+    {
+      "name": "The Tech Academy",
+      "children": [
+        { "name": "Adobe", "value": 2 },
+        { "name": "Amazon", "value": 3 },
+        { "name": "Conduent", "value": 3 },
+        { "name": "Epiq", "value": 2 },
+        { "name": "Intel Corporation", "value": 4 },
+        { "name": "Microsoft", "value": 6 },
+        { "name": "New Relic Inc.", "value": 5 },
+        { "name": "Nike", "value": 4 },
+        { "name": "Novus Labs", "value": 2 },
+        { "name": "Prosper I.T. Consulting", "value": 28 },
+        { "name": "Smarsh", "value": 2 },
+        { "name": "The Home Depot", "value": 2 }
+      ]
+    }
+  ]
+}

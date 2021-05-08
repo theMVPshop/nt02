@@ -1,0 +1,40 @@
+{
+  "name": "NC",
+  "children": [
+    {
+      "name": "Momentum",
+      "children": [
+        { "name": "Alberta Health Services", "value": 4 },
+        { "name": "Discovery Limited", "value": 3 },
+        { "name": "IBM", "value": 3 },
+        { "name": "Infosys", "value": 2 },
+        { "name": "JPMorgan Chase & Co.", "value": 2 },
+        { "name": "Pendo.io", "value": 5 },
+        { "name": "Salesforce", "value": 3 },
+        { "name": "SciMed Solutions Inc.", "value": 2 },
+        { "name": "ServiceTrade", "value": 3 },
+        { "name": "Spreedly", "value": 4 },
+        { "name": "Westcan Bulk Transport", "value": 2 }
+      ]
+    },
+    {
+      "name": "RMOTR",
+      "children": [
+        { "name": "APEX Drone Racing", "value": 1 },
+        { "name": "Bank of America", "value": 1 },
+        { "name": "Fitbit (now part of Google)", "value": 1 },
+        { "name": "How-To Geek", "value": 1 },
+        { "name": "Intel Corporation", "value": 1 },
+        { "name": "JPMorgan Chase & Co.", "value": 1 },
+        { "name": "Milestone Digital", "value": 1 },
+        { "name": "Norges Bank Investment Management", "value": 1 },
+        { "name": "Satellogic", "value": 1 },
+        { "name": "Shelley Automation", "value": 1 },
+        { "name": "Skytree | A Fresh Breath of Air", "value": 1 },
+        { "name": "US Army", "value": 1 },
+        { "name": "Verizon", "value": 1 },
+        { "name": "Zynga", "value": 2 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "WA",
+  "children": [
+    {
+      "name": "Code Fellows",
+      "children": [
+        {
+          "name": "Abdul Aziz Al Ghurair School of Advanced Computing (ASAC)",
+          "value": 6
+        },
+        { "name": "Amazon", "value": 48 },
+        { "name": "Amazon Web Services (AWS)", "value": 42 },
+        { "name": "Avalara", "value": 13 },
+        { "name": "Expedia Group", "value": 13 },
+        { "name": "F5", "value": 7 },
+        { "name": "Microsoft", "value": 100 },
+        { "name": "Nike", "value": 7 },
+        { "name": "Nordstrom", "value": 11 },
+        { "name": "SAP Concur", "value": 7 },
+        { "name": "Slalom Build", "value": 8 },
+        { "name": "Smartsheet", "value": 6 },
+        { "name": "US Army", "value": 9 },
+        { "name": "Zonar Systems", "value": 10 }
+      ]
+    },
+
+    {
+      "name": "Coding Dojo",
+      "children": [
+        { "name": "Accenture", "value": 13 },
+        { "name": "Amazon", "value": 52 },
+        { "name": "Amazon Web Services (AWS)", "value": 14 },
+        { "name": "Conscience VC", "value": 10 },
+        { "name": "Google", "value": 11 },
+        { "name": "Infosys", "value": 10 },
+        { "name": "Microsoft", "value": 53 },
+        { "name": "Mindtree", "value": 9 },
+        { "name": "The Difference Engine", "value": 5 },
+        { "name": "Upwork", "value": 8 },
+        { "name": "US Army", "value": 12 }
+      ]
+    },
+
+    {
+      "name": "Nucamp Coding Bootcamp",
+      "children": [
+        { "name": "Amazon", "value": 8 },
+        { "name": "Apple", "value": 3 },
+        { "name": "Infosys", "value": 3 },
+        { "name": "Microsoft", "value": 9 },
+        { "name": "TEKsystems", "value": 3 },
+        { "name": "United States Air Force", "value": 3 },
+        { "name": "US Army", "value": 3 },
+        { "name": "Verizon", "value": 3 },
+        { "name": "Walgreens", "value": 3 },
+        { "name": "Walmart", "value": 3 }
+      ]
+    }
+  ]
+}

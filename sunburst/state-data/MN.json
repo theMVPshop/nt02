@@ -1,0 +1,24 @@
+{
+  "name": "MN",
+  "children": [
+    {
+      "name": "Prime Digital Academy",
+      "children": [
+        { "name": "Accessible360", "value": 11 },
+        { "name": "Best Buy", "value": 38 },
+        { "name": "C.H. Robinson", "value": 25 },
+        { "name": "Datasite", "value": 12 },
+        { "name": "Daugherty Business Solutions", "value": 7 },
+        { "name": "Granicus", "value": 10 },
+        { "name": "Optum", "value": 13 },
+        { "name": "Slalom", "value": 7 },
+        { "name": "SPS Commerce", "value": 11 },
+        { "name": "Target", "value": 38 },
+        { "name": "Thomson Reuters", "value": 16 },
+        { "name": "Total Expert", "value": 11 },
+        { "name": "Travelers", "value": 19 },
+        { "name": "U.S. Bank", "value": 8 }
+      ]
+    }
+  ]
+}
