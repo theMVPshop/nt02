@@ -1,4 +1,5 @@
 // object of how many times each state occurs in company hiring
+let selectedState = "";
 const stateCounts = {
   AL: 26,
   AZ: 47,
@@ -41,14 +42,21 @@ for (const state in stateCounts) {
     )
       .then((response) => response.json())
       .then((data) => {
-        selectedStateTitleEl.innerHTML = `{<span style="color:blue">${data[state]}</span>:
-          <span style="color:green">${stateCount}</span>
+        selectedStateTitleEl.innerHTML = `{
+        <span style="color:blue">${data[state]}</span>:
+        <span style="color:green">${stateCount}</span>
          bootcamp grads hired}`;
-         var myModal = new bootstrap.Modal(document.getElementById('myModal'), {
-          keyboard: false
-        })
-         myModal.toggle();
       });
+    var myModal = new bootstrap.Modal(document.getElementById("myModal"), {
+      keyboard: false,
+    });
+    myModal.toggle();
+    selectedState = state;
+    main = runtime.module(
+      define,
+      Inspector.into(document.querySelector("#sunburst"))
+    );
+    console.log("sss", selectedState);
   });
 
   if (stateCount < 75) stateEl.attributes[1].nodeValue = "rgb(0,80,0, .15)";

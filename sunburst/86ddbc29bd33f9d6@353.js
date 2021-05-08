@@ -2,8 +2,12 @@
 export default function define(runtime, observer) {
   const main = runtime.module();
   // const fileAttachments = new Map([["flare-2.json",new URL("./files/e65374209781891f37dea1e7a6e1c5e020a3009b8aedf113b4c80942018887a1176ad4945cf14444603ff91d3da371b3b0d72419fa8d2ee0f6e815732475d5de",import.meta.url)]]);
-  const fileAttachments = new Map([
-    ["companies.json", new URL("./companies.json", import.meta.url)],
+  console.log("ss", selectedState);
+  let fileAttachments = new Map([
+    [
+      `${selectedState}.json`,
+      new URL(`./state-data/${selectedState}.json`, import.meta.url),
+    ],
   ]);
   main.builtin(
     "FileAttachment",
@@ -153,7 +157,7 @@ export default function define(runtime, observer) {
   main
     // .variable(observer("data"))
     .define("data", ["FileAttachment"], function (FileAttachment) {
-      return FileAttachment("companies.json").json();
+      return FileAttachment(`${selectedState}.json`).json();
     });
   main
     // .variable(observer("partition"))
@@ -174,15 +178,15 @@ export default function define(runtime, observer) {
       );
     });
   main
-  // .variable(observer("format"))
-  .define("format", ["d3"], function (d3) {
-    return d3.format(",d");
-  });
+    // .variable(observer("format"))
+    .define("format", ["d3"], function (d3) {
+      return d3.format(",d");
+    });
   main
-  // .variable(observer("width"))
-  .define("width", function () {
-    return 932;
-  });
+    // .variable(observer("width"))
+    .define("width", function () {
+      return 932;
+    });
   main
     // .variable(observer("radius"))
     .define("radius", ["width"], function (width) {
@@ -201,10 +205,10 @@ export default function define(runtime, observer) {
         .outerRadius((d) => Math.max(d.y0 * radius, d.y1 * radius - 1));
     });
   main
-  // .variable(observer("d3"))
-  .define("d3", ["require"], function (require) {
-    return require("d3@6");
-  });
+    // .variable(observer("d3"))
+    .define("d3", ["require"], function (require) {
+      return require("d3@6");
+    });
 
   // const stateCounts = {
   //   AL: 26,
@@ -240,12 +244,16 @@ export default function define(runtime, observer) {
   // for (const state in stateCounts) {
   //   // const stateEl = document.getElementById(state);
   //   // const stateEls = document.getElementsByClassName("observablehq");
-  //   const stateEls = document.getElementsByClassName("observablehq");
   //   // d3.select(".observablehq ").dispatch("click");
 
-  //   // d3.select("#TX").dispatch('click');
   //   stateEls.addEventListener("click", () => {
-  //     console.log(stateEls);
+  //     selectedState = state;
+  //     // fileAttachments = new Map([
+  //     //   [
+  //     //     `${state}.json`,
+  //     //     new URL(`./state-data/${state}.json`, import.meta.url),
+  //     //   ],
+  //     // ]);
   //   });
   // }
 
