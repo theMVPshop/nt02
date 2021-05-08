@@ -2,12 +2,12 @@
 // values - some are increased and some are reduced for each chart.
 marginLeft = 60;
 marginRight = 25;
-marginTop = 45;
+marginTop = 80;
 marginBottom = 65;
 marginInner = 20;
 
 // This is the same for each chart
-yaxisScaleMax = 35;
+yaxisScaleMax = 60;
 
 // How many animation frames there are
 frames = 20;
@@ -191,8 +191,9 @@ function draw3() {
         marginInner: marginInner,
       },
       callback: function () {
-        state.bar1.set("marginInner", 20);
-        state.bar2.set("marginInner", 20);
+        state.bar1.set("marginInner", 15);
+        state.bar2.set("marginInner", 15);
+        state.bar3.set("marginInner", 15);
         setTimeout(function () {
           state.yaxisObj.x = 635;
           state.yaxisObj.set("textSize", 12);
@@ -201,7 +202,7 @@ function draw3() {
       },
     },
     {
-      maxWidth: 900,
+      maxWidth: 1150,
       width: 450,
       height: 200,
       options: {
@@ -212,6 +213,7 @@ function draw3() {
       callback: function () {
         state.bar1.set("marginInner", 10);
         state.bar2.set("marginInner", 10);
+        state.bar3.set("marginInner", 10);
         state.yaxisObj.x = 435;
         state.yaxisObj.set("textSize", 8);
         RGraph.redraw();
