@@ -1,11 +1,11 @@
 // https://observablehq.com/@d3/zoomable-sunburst@353
 export default function define(runtime, observer) {
-  const main = runtime.module();
+  const main = runtime.module(define, selectedState);
   // const fileAttachments = new Map([["flare-2.json",new URL("./files/e65374209781891f37dea1e7a6e1c5e020a3009b8aedf113b4c80942018887a1176ad4945cf14444603ff91d3da371b3b0d72419fa8d2ee0f6e815732475d5de",import.meta.url)]]);
-  console.log("ss", selectedState);
+  // console.log("ss", selectedState);
   let fileAttachments = new Map([
     [
-      `${selectedState}.json`,
+      selectedState,
       new URL(`./state-data/${selectedState}.json`, import.meta.url),
     ],
   ]);
@@ -157,7 +157,7 @@ export default function define(runtime, observer) {
   main
     // .variable(observer("data"))
     .define("data", ["FileAttachment"], function (FileAttachment) {
-      return FileAttachment(`${selectedState}.json`).json();
+      return FileAttachment(selectedState).json();
     });
   main
     // .variable(observer("partition"))
@@ -209,53 +209,6 @@ export default function define(runtime, observer) {
     .define("d3", ["require"], function (require) {
       return require("d3@6");
     });
-
-  // const stateCounts = {
-  //   AL: 26,
-  //   AZ: 47,
-  //   CA: 3990,
-  //   CO: 368,
-  //   FL: 111,
-  //   GA: 76,
-  //   ID: 25,
-  //   IL: 103,
-  //   IN: 264,
-  //   KY: 157,
-  //   MA: 27,
-  //   MI: 330,
-  //   MN: 226,
-  //   MO: 45,
-  //   NC: 48,
-  //   ND: 16,
-  //   NH: 7,
-  //   NJ: 6,
-  //   NY: 3971,
-  //   OH: 720,
-  //   OR: 164,
-  //   PA: 16,
-  //   TN: 195,
-  //   TX: 199,
-  //   UT: 281,
-  //   VT: 19,
-  //   WA: 525,
-  //   WY: 10,
-  // };
-
-  // for (const state in stateCounts) {
-  //   // const stateEl = document.getElementById(state);
-  //   // const stateEls = document.getElementsByClassName("observablehq");
-  //   // d3.select(".observablehq ").dispatch("click");
-
-  //   stateEls.addEventListener("click", () => {
-  //     selectedState = state;
-  //     // fileAttachments = new Map([
-  //     //   [
-  //     //     `${state}.json`,
-  //     //     new URL(`./state-data/${state}.json`, import.meta.url),
-  //     //   ],
-  //     // ]);
-  //   });
-  // }
 
   return main;
 }
