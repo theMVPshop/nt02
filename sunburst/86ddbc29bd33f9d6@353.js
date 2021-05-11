@@ -1,16 +1,18 @@
 // https://observablehq.com/@d3/zoomable-sunburst@353
 export default function define(runtime, observer) {
-  const main = runtime.module();
+  const main = runtime.module(define, selectedState);
   // const fileAttachments = new Map([["flare-2.json",new URL("./files/e65374209781891f37dea1e7a6e1c5e020a3009b8aedf113b4c80942018887a1176ad4945cf14444603ff91d3da371b3b0d72419fa8d2ee0f6e815732475d5de",import.meta.url)]]);
   // console.log("ss", selectedState);
   let fileAttachments = new Map([
-    // [
-    //   `${selectedState}.json`,
-    //   new URL(`./state-data/${selectedState}.json`, import.meta.url),
-    // ],
-    [`AZ`, new URL(`./state-data/AZ.json`, import.meta.url)],
-    [`CA`, new URL(`./state-data/CA.json`, import.meta.url)],
-    [`TX`, new URL(`./state-data/TX.json`, import.meta.url)],
+    [
+      `${selectedState}`,
+      new URL(`./state-data/${selectedState}.json`, import.meta.url),
+    ],
+    // [`AZ`, new URL(`./state-data/AZ.json`, import.meta.url)],
+    // [`CA`, new URL(`./state-data/CA.json`, import.meta.url)],
+    // [`TX`, new URL(`./state-data/TX.json`, import.meta.url)],
+    // [`UT`, new URL(`./state-data/UT.json`, import.meta.url)],
+    // [`NY`, new URL(`./state-data/NY.json`, import.meta.url)],
   ]);
   main.builtin(
     "FileAttachment",
@@ -160,7 +162,7 @@ export default function define(runtime, observer) {
   main
     // .variable(observer("data"))
     .define("data", ["FileAttachment"], function (FileAttachment) {
-      return FileAttachment(`${selectedState}`).json();
+      return FileAttachment(selectedState).json();
     });
   main
     // .variable(observer("partition"))

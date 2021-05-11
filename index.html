@@ -433,9 +433,7 @@
   import define from "./sunburst/index.js";
   import { Runtime, Library, Inspector } from "./sunburst/runtime.js";
   // let selectedState = "TX";
-
-  let runtime;
-  let main;
+  // const runtime = new Runtime(builtins);
   // let main = runtime.module(
   //   define,
   //   Inspector.into(document.querySelector("#sunburst"))
@@ -490,10 +488,14 @@
          bootcamp grads hired}`;
         });
       runtime = new Runtime();
-      main = runtime.module(
-        define,
-        Inspector.into(document.querySelector("#sunburst"))
-      );
+      const main = runtime.module(define, () => {
+        selectedState = state;
+        return new Inspector(document.querySelector("#sunburst"));
+      });
+      // main = runtime.module(
+      //   define,
+      //   Inspector.into(document.querySelector("#sunburst"))
+      // );
       let myModal = new bootstrap.Modal(document.getElementById("myModal"), {
         keyboard: false,
       });
