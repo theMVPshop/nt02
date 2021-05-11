@@ -8,11 +8,6 @@ export default function define(runtime, observer) {
       `${selectedState}`,
       new URL(`./state-data/${selectedState}.json`, import.meta.url),
     ],
-    // [`AZ`, new URL(`./state-data/AZ.json`, import.meta.url)],
-    // [`CA`, new URL(`./state-data/CA.json`, import.meta.url)],
-    // [`TX`, new URL(`./state-data/TX.json`, import.meta.url)],
-    // [`UT`, new URL(`./state-data/UT.json`, import.meta.url)],
-    // [`NY`, new URL(`./state-data/NY.json`, import.meta.url)],
   ]);
   main.builtin(
     "FileAttachment",
@@ -214,53 +209,6 @@ export default function define(runtime, observer) {
     .define("d3", ["require"], function (require) {
       return require("d3@6");
     });
-
-  // const stateCounts = {
-  //   AL: 26,
-  //   AZ: 47,
-  //   CA: 3990,
-  //   CO: 368,
-  //   FL: 111,
-  //   GA: 76,
-  //   ID: 25,
-  //   IL: 103,
-  //   IN: 264,
-  //   KY: 157,
-  //   MA: 27,
-  //   MI: 330,
-  //   MN: 226,
-  //   MO: 45,
-  //   NC: 48,
-  //   ND: 16,
-  //   NH: 7,
-  //   NJ: 6,
-  //   NY: 3971,
-  //   OH: 720,
-  //   OR: 164,
-  //   PA: 16,
-  //   TN: 195,
-  //   TX: 199,
-  //   UT: 281,
-  //   VT: 19,
-  //   WA: 525,
-  //   WY: 10,
-  // };
-
-  // for (const state in stateCounts) {
-  //   // const stateEl = document.getElementById(state);
-  //   // const stateEls = document.getElementsByClassName("observablehq");
-  //   // d3.select(".observablehq ").dispatch("click");
-
-  //   stateEls.addEventListener("click", () => {
-  //     selectedState = state;
-  //     // fileAttachments = new Map([
-  //     //   [
-  //     //     `${state}.json`,
-  //     //     new URL(`./state-data/${state}.json`, import.meta.url),
-  //     //   ],
-  //     // ]);
-  //   });
-  // }
 
   return main;
 }

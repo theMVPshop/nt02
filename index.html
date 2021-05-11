@@ -432,13 +432,8 @@
 <script type="module">
   import define from "./sunburst/index.js";
   import { Runtime, Library, Inspector } from "./sunburst/runtime.js";
-  // let selectedState = "TX";
-  // const runtime = new Runtime(builtins);
-  // let main = runtime.module(
-  //   define,
-  //   Inspector.into(document.querySelector("#sunburst"))
-  // );
 
+  // object of how many times each state occurs in company hiring
   const stateCounts = {
     AL: 26,
     AZ: 47,
@@ -477,6 +472,8 @@
 
     stateEl.addEventListener("click", () => {
       selectedState = state;
+
+      // this fetch function is just to get states' full names
       fetch(
         "https://gist.githubusercontent.com/mshafrir/2646763/raw/8b0dbb93521f5d6889502305335104218454c2bf/states_hash.json"
       )
@@ -487,20 +484,17 @@
         <span style="color:green">${stateCount}</span>
          bootcamp grads hired}`;
         });
-      runtime = new Runtime();
-      const main = runtime.module(define, () => {
-        selectedState = state;
-        return new Inspector(document.querySelector("#sunburst"));
-      });
-      // main = runtime.module(
-      //   define,
-      //   Inspector.into(document.querySelector("#sunburst"))
-      // );
+
+      const runtime = new Runtime();
+      const main = runtime.module(
+        define,
+        () => new Inspector(document.querySelector("#sunburst"))
+      );
+
       let myModal = new bootstrap.Modal(document.getElementById("myModal"), {
         keyboard: false,
       });
       myModal.toggle();
-      // console.log("sss", selectedState);
     });
 
     if (stateCount < 75) stateEl.attributes[1].nodeValue = "rgb(0,80,0, .15)";
