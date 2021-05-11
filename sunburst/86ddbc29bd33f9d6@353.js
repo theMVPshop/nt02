@@ -5,7 +5,7 @@ export default function define(runtime, observer) {
   // console.log("ss", selectedState);
   let fileAttachments = new Map([
     [
-      `${selectedState}`,
+      selectedState,
       new URL(`./state-data/${selectedState}.json`, import.meta.url),
     ],
   ]);
