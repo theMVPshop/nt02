@@ -434,7 +434,7 @@
   import { Runtime, Library, Inspector } from "./sunburst/runtime.js";
   // let selectedState = "TX";
 
-  const runtime = new Runtime();
+  let runtime;
   let main;
   // let main = runtime.module(
   //   define,
@@ -489,12 +489,12 @@
         <span style="color:green">${stateCount}</span>
          bootcamp grads hired}`;
         });
-
+      runtime = new Runtime();
       main = runtime.module(
         define,
         Inspector.into(document.querySelector("#sunburst"))
       );
-      var myModal = new bootstrap.Modal(document.getElementById("myModal"), {
+      let myModal = new bootstrap.Modal(document.getElementById("myModal"), {
         keyboard: false,
       });
       myModal.toggle();

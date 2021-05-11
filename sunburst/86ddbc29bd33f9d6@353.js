@@ -8,9 +8,9 @@ export default function define(runtime, observer) {
     //   `${selectedState}.json`,
     //   new URL(`./state-data/${selectedState}.json`, import.meta.url),
     // ],
-    [`AZ.json`, new URL(`./state-data/AZ.json`, import.meta.url)],
-    [`CA.json`, new URL(`./state-data/CA.json`, import.meta.url)],
-    [`TX.json`, new URL(`./state-data/TX.json`, import.meta.url)],
+    [`AZ`, new URL(`./state-data/AZ.json`, import.meta.url)],
+    [`CA`, new URL(`./state-data/CA.json`, import.meta.url)],
+    [`TX`, new URL(`./state-data/TX.json`, import.meta.url)],
   ]);
   main.builtin(
     "FileAttachment",
@@ -160,7 +160,7 @@ export default function define(runtime, observer) {
   main
     // .variable(observer("data"))
     .define("data", ["FileAttachment"], function (FileAttachment) {
-      return FileAttachment(`${selectedState}.json`).json();
+      return FileAttachment(`${selectedState}`).json();
     });
   main
     // .variable(observer("partition"))
