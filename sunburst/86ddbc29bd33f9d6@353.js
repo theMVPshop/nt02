@@ -4,10 +4,13 @@ export default function define(runtime, observer) {
   // const fileAttachments = new Map([["flare-2.json",new URL("./files/e65374209781891f37dea1e7a6e1c5e020a3009b8aedf113b4c80942018887a1176ad4945cf14444603ff91d3da371b3b0d72419fa8d2ee0f6e815732475d5de",import.meta.url)]]);
   // console.log("ss", selectedState);
   let fileAttachments = new Map([
-    [
-      `${selectedState}.json`,
-      new URL(`./state-data/${selectedState}.json`, import.meta.url),
-    ],
+    // [
+    //   `${selectedState}.json`,
+    //   new URL(`./state-data/${selectedState}.json`, import.meta.url),
+    // ],
+    [`AZ.json`, new URL(`./state-data/AZ.json`, import.meta.url)],
+    [`CA.json`, new URL(`./state-data/CA.json`, import.meta.url)],
+    [`TX.json`, new URL(`./state-data/TX.json`, import.meta.url)],
   ]);
   main.builtin(
     "FileAttachment",
