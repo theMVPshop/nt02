@@ -5,13 +5,13 @@
       "name": "App Academy",
       "children": [
         { "name": "Amazon", "value": 22 },
-        { "name": "Bloomberg LP", "value": 37 },
-        { "name": "DailyPay Inc.", "value": 8 },
+        { "name": "Bloomberg", "value": 37 },
+        { "name": "DailyPay", "value": 8 },
         { "name": "Etsy", "value": 7 },
         { "name": "Facebook", "value": 38 },
         { "name": "Google", "value": 86 },
         { "name": "Medidata Solutions", "value": 18 },
-        { "name": "New Relic Inc.", "value": 5 },
+        { "name": "New Relic", "value": 5 },
         { "name": "Samsara", "value": 7 },
         { "name": "Twitter", "value": 8 },
         { "name": "Uber", "value": 14 },
@@ -24,7 +24,7 @@
       "name": "BrainStation",
       "children": [
         { "name": "BMO Financial Group", "value": 26 },
-        { "name": "Canadian Tire Corporation", "value": 33 },
+        { "name": "Canadian Tire Corp", "value": 33 },
         { "name": "CIBC", "value": 55 },
         { "name": "Hootsuite", "value": 21 },
         { "name": "Konrad Group", "value": 45 },
@@ -36,7 +36,7 @@
         { "name": "Shopify", "value": 80 },
         { "name": "TD", "value": 47 },
         { "name": "TELUS", "value": 41 },
-        { "name": "The University of British Columbia", "value": 19 }
+        { "name": "U of British Columbia", "value": 19 }
       ]
     },
     {
@@ -45,14 +45,14 @@
         { "name": "Absa Group", "value": 2 },
         { "name": "BACKED VC", "value": 1 },
         { "name": "Capital Rx", "value": 1 },
-        { "name": "College Truckers Inc.", "value": 1 },
+        { "name": "College Truckers", "value": 1 },
         { "name": "Geodesic Techniques", "value": 2 },
         { "name": "IBM", "value": 1 },
-        { "name": "JPMorgan Chase & Co.", "value": 5 },
+        { "name": "JPMorgan Chase", "value": 5 },
         { "name": "NOV", "value": 3 },
         { "name": "Oracle", "value": 1 },
         { "name": "SpryteLabs", "value": 8 },
-        { "name": "Tempus Labs Inc.", "value": 1 },
+        { "name": "Tempus Labs", "value": 1 },
         { "name": "Torus Teens", "value": 1 }
       ]
     },
@@ -65,10 +65,10 @@
         { "name": "Datadog", "value": 37 },
         { "name": "IBM", "value": 31 },
         { "name": "Infosys", "value": 128 },
-        { "name": "JPMorgan Chase & Co.", "value": 41 },
+        { "name": "JPMorgan", "value": 41 },
         { "name": "Shopify", "value": 10 },
         { "name": "Spotify", "value": 16 },
-        { "name": "The New York Times", "value": 15 },
+        { "name": "The NY Times", "value": 15 },
         { "name": "Wayfair", "value": 23 },
         { "name": "WeWork", "value": 23 }
       ]
@@ -83,30 +83,30 @@
         { "name": "Etsy", "value": 20 },
         { "name": "Goldman Sachs", "value": 11 },
         { "name": "Google", "value": 45 },
-        { "name": "JPMorgan Chase & Co.", "value": 26 },
+        { "name": "JPMorgan Chase", "value": 26 },
         { "name": "Northwestern Mutual", "value": 15 },
         { "name": "Spotify", "value": 16 },
-        { "name": "The New York Times", "value": 14 },
-        { "name": "Wunderkind (Formerly BounceX)", "value": 8 }
+        { "name": "The NY Times", "value": 14 },
+        { "name": "Wunderkind", "value": 8 }
       ]
     },
     {
       "name": "General Assembly",
       "children": [
-        { "name": "Accenture", "value": 134 },
-        { "name": "Adobe", "value": 101 },
-        { "name": "Amazon", "value": 235 },
-        { "name": "Amazon Web Services (AWS)", "value": 94 },
-        { "name": "Apple", "value": 152 },
-        { "name": "Atlassian", "value": 62 },
-        { "name": "Booz Allen Hamilton", "value": 181 },
-        { "name": "Facebook", "value": 243 },
-        { "name": "Google", "value": 383 },
-        { "name": "IBM", "value": 149 },
-        { "name": "LinkedIn", "value": 78 },
-        { "name": "Microsoft", "value": 151 },
-        { "name": "Salesforce", "value": 108 },
-        { "name": "Spotify", "value": 71 }
+        { "name": "Accenture", "value": 100 },
+        { "name": "Adobe", "value": 83 },
+        { "name": "Amazon", "value": 187 },
+        { "name": "Amazon Web Services", "value": 76 },
+        { "name": "Apple", "value": 132 },
+        { "name": "Atlassian", "value": 51 },
+        { "name": "Booz Allen", "value": 158 },
+        { "name": "Facebook", "value": 211 },
+        { "name": "Google", "value": 343 },
+        { "name": "IBM", "value": 129 },
+        { "name": "LinkedIn", "value": 61 },
+        { "name": "Microsoft", "value": 131 },
+        { "name": "Salesforce", "value": 87 },
+        { "name": "Spotify", "value": 66 }
       ]
     },
     {
@@ -117,11 +117,11 @@
         { "name": "Citi", "value": 2 },
         { "name": "City of Amsterdam", "value": 2 },
         { "name": "Comcast", "value": 2 },
-        { "name": "Disney Streaming Services", "value": 2 },
+        { "name": "Disney Streaming", "value": 2 },
         { "name": "Facebook", "value": 4 },
         { "name": "Google", "value": 3 },
         { "name": "IBM", "value": 3 },
-        { "name": "Tempus Labs Inc. ", "value": 2 },
+        { "name": "Tempus Labs", "value": 2 },
         { "name": "The Spur Group", "value": 4 },
         { "name": "Trilogy Education", "value": 2 },
         { "name": "Uber", "value": 2 },
@@ -129,9 +129,9 @@
       ]
     },
     {
-      "name": "New York Code + Design Academy",
+      "name": "New York Code + Design",
       "children": [
-        { "name": "ABN AMRO Bank N.V.", "value": 4 },
+        { "name": "ABN AMRO Bank", "value": 4 },
         { "name": "Apple", "value": 4 },
         { "name": "Capgemini", "value": 3 },
         { "name": "Cognizant", "value": 3 },
@@ -141,8 +141,8 @@
         { "name": "Incentro", "value": 4 },
         { "name": "IntuitSolutions", "value": 7 },
         { "name": "LinkedIn", "value": 3 },
-        { "name": "NYC Department of Education", "value": 3 },
-        { "name": "University of Pennsylvania", "value": 3 }
+        { "name": "NYC Dept of Education", "value": 3 },
+        { "name": "U of Penn", "value": 3 }
       ]
     },
     {
@@ -153,11 +153,11 @@
         { "name": "FCB Health", "value": 3 },
         { "name": "Hachette Book Group", "value": 2 },
         { "name": "IBM", "value": 2 },
-        { "name": "JPMorgan Chase & Co.", "value": 2 },
-        { "name": "Meredith Corporation", "value": 2 },
+        { "name": "JPMorgan Chase", "value": 2 },
+        { "name": "Meredith Corp", "value": 2 },
         { "name": "Penguin Random House", "value": 2 },
         { "name": "Pratt Institute", "value": 2 },
-        { "name": "Rodale Inc.", "value": 2 },
+        { "name": "Rodale", "value": 2 },
         { "name": "Scholastic", "value": 4 },
         { "name": "The Conference Board", "value": 2 },
         { "name": "Upwork", "value": 3 },
@@ -174,14 +174,14 @@
         { "name": "Lyft", "value": 2 },
         { "name": "Stitch Fix", "value": 2 },
         { "name": "T-Mobile", "value": 2 },
-        { "name": "U.S. Department of Veterans Affairs", "value": 3 },
+        { "name": "U.S. Dept of Veterans Affairs", "value": 3 },
         { "name": "Ulta Beauty", "value": 2 },
         { "name": "VIPKid", "value": 6 },
         { "name": "Zapier", "value": 2 }
       ]
     },
     {
-      "name": "The Grace Hopper Program at Fullstack Academy",
+      "name": "The Grace Hopper Program",
       "children": [
         { "name": "Annalect", "value": 2 },
         { "name": "Attentive", "value": 2 },

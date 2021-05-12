@@ -4,11 +4,11 @@
     {
       "name": "Bottega Career Services",
       "children": [
-        { "name": "Alder Holdings LLC", "value": 3 },
+        { "name": "Alder Holdings", "value": 3 },
         { "name": "Amazon", "value": 5 },
         { "name": "Avii", "value": 3 },
         { "name": "Coforge", "value": 4 },
-        { "name": "Conscience VC", "value": 6 },
+        { "name": "Conscience", "value": 6 },
         { "name": "Dev Pipeline", "value": 4 },
         { "name": "Edge by Ascential", "value": 3 },
         { "name": "Hoverstate", "value": 3 },
@@ -19,17 +19,14 @@
     {
       "name": "Devmountain",
       "children": [
-        { "name": "Divvy | Inc.", "value": 14 },
+        { "name": "Divvy", "value": 14 },
         { "name": "MX", "value": 22 },
         { "name": "Overstock.com", "value": 16 },
         { "name": "Pluralsight", "value": 18 },
         { "name": "Podium", "value": 25 },
         { "name": "projekt202", "value": 8 },
         { "name": "TCN", "value": 6 },
-        {
-          "name": "The Church of Jesus Christ of Latter-day Saints",
-          "value": 17
-        },
+        { "name": "The Church of LDS", "value": 17 },
         { "name": "Veryable", "value": 7 },
         { "name": "Vivint", "value": 14 },
         { "name": "Workfront", "value": 7 }
@@ -39,9 +36,9 @@
       "name": "DevPoint Labs",
       "children": [
         { "name": "Acima Credit", "value": 4 },
-        { "name": "ARUP Laboratories", "value": 3 },
+        { "name": "ARUP Labs", "value": 3 },
         { "name": "Direct®", "value": 3 },
-        { "name": "Divvy | Inc.", "value": 3 },
+        { "name": "Divvy", "value": 3 },
         { "name": "ExpertVoice", "value": 3 },
         { "name": "Fidelity Investments", "value": 3 },
         { "name": "Goldman Sachs", "value": 3 },
@@ -49,26 +46,23 @@
         { "name": "Mavenlink", "value": 3 },
         { "name": "MX", "value": 5 },
         { "name": "Nav Inc.", "value": 3 },
-        { "name": "Shareworks by Morgan Stanley", "value": 3 },
-        {
-          "name": "The Church of Jesus Christ of Latter-day Saints",
-          "value": 3
-        },
-        { "name": "Verisys Corporation", "value": 6 }
+        { "name": "Shareworks", "value": 3 },
+        { "name": "The Church of LDS", "value": 3 },
+        { "name": "Verisys Corp", "value": 6 }
       ]
     },
     {
       "name": "V School",
       "children": [
         { "name": "Adobe", "value": 9 },
-        { "name": "Conscience VC", "value": 3 },
-        { "name": "Divvy | Inc.", "value": 4 },
+        { "name": "Conscience", "value": 3 },
+        { "name": "Divvy", "value": 4 },
         { "name": "Fidelity Investments", "value": 3 },
         { "name": "IBM", "value": 2 },
         { "name": "Impartner Software", "value": 2 },
         { "name": "O.C. Tanner", "value": 3 },
         { "name": "Smash Creative", "value": 4 },
-        { "name": "Verisage Custom Software", "value": 3 },
+        { "name": "Verisage Software", "value": 3 },
         { "name": "VMware", "value": 3 },
         { "name": "Weave HQ", "value": 2 },
         { "name": "XANT", "value": 3 }

@@ -2,7 +2,7 @@
   "name": "IL",
   "children": [
     {
-      "name": "Actualize Coding Bootcamp",
+      "name": "Actualize",
       "children": [
         { "name": "Accenture", "value": 2 },
         { "name": "ActiveCampaign", "value": 3 },
@@ -15,7 +15,7 @@
         { "name": "Healthie Inc.", "value": 2 },
         { "name": "Oracle", "value": 3 },
         { "name": "PayPal", "value": 4 },
-        { "name": "The Difference Engine", "value": 7 }
+        { "name": "Difference Engine", "value": 7 }
       ]
     },
     {
@@ -23,17 +23,15 @@
       "children": [
         { "name": "8th Light", "value": 2 },
         { "name": "Army National Guard", "value": 4 },
-        { "name": "Army National Guard", "value": 4 },
-        { "name": "Cartão de Todos", "value": 1 },
-        { "name": "Chicago Trading Company", "value": 3 },
+        { "name": "Chicago Trading Co", "value": 3 },
         { "name": "Codementor", "value": 1 },
         { "name": "DRW", "value": 7 },
-        { "name": "Enova International", "value": 2 },
+        { "name": "Enova Intl", "value": 2 },
         { "name": "Grainger", "value": 2 },
-        { "name": "JPMorgan Chase & Co.", "value": 7 },
-        { "name": "Motorola Solutions", "value": 2 },
+        { "name": "JPMorgan Chase", "value": 7 },
+        { "name": "Motorola", "value": 2 },
         { "name": "Raise", "value": 2 },
-        { "name": "United States Air Force", "value": 6 },
+        { "name": "US Air Force", "value": 6 },
         { "name": "US Army", "value": 6 },
         { "name": "US Navy", "value": 4 }
       ]
@@ -45,12 +43,9 @@
         { "name": "Amazon", "value": 1 },
         { "name": "Beyond Finance", "value": 1 },
         { "name": "Birchwood Foods", "value": 1 },
-        { "name": "Booz Allen Hamilton", "value": 1 },
+        { "name": "Booz Allen", "value": 1 },
         { "name": "Capgemini", "value": 1 },
-        {
-          "name": "City Colleges of Chicago-Olive-Harvey College",
-          "value": 1
-        },
+        { "name": "City Colleges of Chicago", "value": 1 },
         { "name": "Convoy Inc", "value": 1 },
         { "name": "Copado", "value": 1 },
         { "name": "Datadog", "value": 1 },

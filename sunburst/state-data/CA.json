@@ -22,12 +22,12 @@
       "children": [
         { "name": "Abarca Health", "value": 1 },
         { "name": "Answer Digital", "value": 1 },
-        { "name": "Apogee Integration LLC", "value": 1 },
+        { "name": "Apogee Integration", "value": 1 },
         { "name": "BCG Platinion", "value": 1 },
         { "name": "Bit", "value": 1 },
         { "name": "Citrix", "value": 1 },
         { "name": "Experian", "value": 1 },
-        { "name": "Floyd County Productions", "value": 1 },
+        { "name": "Floyd County Prod", "value": 1 },
         { "name": "Nucamp Coding Bootcamp", "value": 1 },
         { "name": "Philips", "value": 1 },
         { "name": "VIKTOR", "value": 1 },
@@ -42,7 +42,7 @@
         { "name": "Amazon", "value": 14 },
         { "name": "Chime", "value": 7 },
         { "name": "Datadog", "value": 15 },
-        { "name": "Enova International", "value": 6 },
+        { "name": "Enova Intl.", "value": 6 },
         { "name": "Google", "value": 17 },
         { "name": "Home Chef", "value": 10 },
         { "name": "Indeed.com", "value": 5 },
@@ -62,10 +62,9 @@
         { "name": "Facebook", "value": 74 },
         { "name": "Google", "value": 92 },
         { "name": "IBM", "value": 44 },
-        { "name": "JPMorgan Chase & Co.", "value": 23 },
+        { "name": "JPMorgan Chase", "value": 23 },
         { "name": "LinkedIn", "value": 25 },
         { "name": "Microsoft", "value": 21 },
-        { "name": "Personal Projects", "value": 34 },
         { "name": "Uber", "value": 20 }
       ]
     },
@@ -74,7 +73,7 @@
       "name": "Hackbright Academy",
       "children": [
         { "name": "Apple", "value": 10 },
-        { "name": "Bloomberg LP", "value": 6 },
+        { "name": "Bloomberg", "value": 6 },
         { "name": "Datadog", "value": 11 },
         { "name": "Dropbox", "value": 5 },
         { "name": "Facebook", "value": 17 },
@@ -101,7 +100,7 @@
         { "name": "Koombea", "value": 12 },
         { "name": "Mercado Libre", "value": 4 },
         { "name": "Rappi", "value": 8 },
-        { "name": "Seguros Bolivar S.A", "value": 9 },
+        { "name": "Seguros Bolivar", "value": 9 },
         { "name": "Siigo S.A.", "value": 4 },
         { "name": "Taos", "value": 5 }
       ]
@@ -112,13 +111,13 @@
       "children": [
         { "name": "Applied Medical", "value": 3 },
         { "name": "BeSmartee®", "value": 5 },
-        { "name": "Blizzard Entertainment", "value": 3 },
+        { "name": "Blizzard Ent.", "value": 3 },
         { "name": "Capital Group", "value": 3 },
         { "name": "Codazen", "value": 7 },
         { "name": "Doctor Genius", "value": 7 },
         { "name": "Member Splash", "value": 5 },
         { "name": "Novvum", "value": 3 },
-        { "name": "Parcel Pending by Quadient", "value": 3 },
+        { "name": "Parcel Pending", "value": 3 },
         { "name": "PriceSpider", "value": 3 },
         { "name": "VaynerCommerce", "value": 3 },
         { "name": "Verys", "value": 7 },
@@ -145,19 +144,15 @@
         { "name": "Apple", "value": 2 },
         { "name": "AT&T", "value": 1 },
         { "name": "Bank of the West", "value": 1 },
-        { "name": "Classic Cabinets and Upholstery", "value": 1 },
         { "name": "Critical Mass", "value": 1 },
-        { "name": "HCA North Florida Division", "value": 1 },
+        { "name": "HCA North Florida", "value": 1 },
         { "name": "Intuit", "value": 2 },
         { "name": "JohnHart Real Estate", "value": 1 },
         { "name": "Kaiser Permanente", "value": 1 },
         { "name": "Kareo", "value": 1 },
         { "name": "Kingsmen Digital Ventures", "value": 2 },
         { "name": "Transurban", "value": 1 },
-        {
-          "name": "University of California Irvine Division of Continuing Education",
-          "value": 1
-        },
+        { "name": "UC Irvine", "value": 1 },
         { "name": "Verys", "value": 3 },
         { "name": "Vincit", "value": 3 }
       ]
@@ -166,15 +161,14 @@
     {
       "name": "Redwood Code Academy",
       "children": [
-        { "name": "Action Property Management", "value": 1 },
         { "name": "AUSAM", "value": 1 },
         { "name": "Empower", "value": 1 },
         { "name": "LandMonk", "value": 2 },
         { "name": "Lifehouse Agency", "value": 1 },
         { "name": "Mortgage Machine Services", "value": 1 },
-        { "name": "RedApple Digital Health Inc.", "value": 2 },
+        { "name": "RedApple Digital Health", "value": 2 },
         { "name": "Revature", "value": 1 },
-        { "name": "Sonoma State University", "value": 1 },
+        { "name": "Sonoma State Uni.", "value": 1 },
         { "name": "Tabula Rasa HealthCare", "value": 1 },
         { "name": "TensorIoT Inc.", "value": 2 },
         { "name": "Trilogy Education", "value": 1 },
@@ -190,7 +184,7 @@
         { "name": "Birst", "value": 2 },
         { "name": "CleverCounsel LLC", "value": 2 },
         { "name": "doc.ai", "value": 2 },
-        { "name": "Dovenmuehle Mortgage Inc.", "value": 6 },
+        { "name": "Dovenmuehle Mortgage", "value": 6 },
         { "name": "Dropbox", "value": 2 },
         { "name": "Oracle", "value": 1 },
         { "name": "Pinterest", "value": 2 },
@@ -199,7 +193,7 @@
         { "name": "Twilio Inc.", "value": 2 },
         { "name": "WePay", "value": 6 },
         { "name": "Workday", "value": 2 },
-        { "name": "YearOne (Techstars 2020)", "value": 2 }
+        { "name": "YearOne", "value": 2 }
       ]
     },
 
@@ -216,26 +210,8 @@
         { "name": "Google", "value": 13 },
         { "name": "Hack for LA", "value": 6 },
         { "name": "IBM", "value": 8 },
-        { "name": "JPMorgan Chase & Co.", "value": 12 },
+        { "name": "JPMorgan Chase", "value": 12 },
         { "name": "Wells Fargo", "value": 12 }
-      ]
-    },
-
-    {
-      "name": "Udacity",
-      "children": [
-        { "name": "Accenture", "value": 208 },
-        { "name": "Amazon", "value": 368 },
-        { "name": "Aramco", "value": 146 },
-        { "name": "Facebook", "value": 206 },
-        { "name": "Fiverr", "value": 150 },
-        { "name": "Google", "value": 372 },
-        { "name": "IBM", "value": 221 },
-        { "name": "Infosys", "value": 174 },
-        { "name": "Microsoft", "value": 306 },
-        { "name": "stc", "value": 141 },
-        { "name": "Tata Consultancy Services", "value": 157 },
-        { "name": "Upwork", "value": 364 }
       ]
     }
   ]

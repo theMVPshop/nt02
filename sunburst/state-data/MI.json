@@ -6,9 +6,9 @@
       "children": [
         { "name": "Accenture", "value": 20 },
         { "name": "Amrock", "value": 18 },
-        { "name": "Blue Cross Blue Shield of Michigan", "value": 11 },
+        { "name": "Blue Cross Blue Shield", "value": 11 },
         { "name": "Detroit Labs", "value": 16 },
-        { "name": "Detroit Public Schools Community District", "value": 7 },
+        { "name": "Detroit Public Schools", "value": 7 },
         { "name": "Ford Motor Company", "value": 16 },
         { "name": "Meridian", "value": 8 },
         { "name": "MRM", "value": 8 },

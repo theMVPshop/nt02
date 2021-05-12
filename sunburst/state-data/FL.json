@@ -11,9 +11,9 @@
         { "name": "DNA HUMAN CAPITAL", "value": 3 },
         { "name": "Nivelat", "value": 2 },
         { "name": "Patagonia IT", "value": 2 },
-        { "name": "The Dog Company Chile", "value": 2 },
+        { "name": "The Dog Company", "value": 2 },
         { "name": "Uber", "value": 3 },
-        { "name": "University of Miami", "value": 3 }
+        { "name": "U of Miami", "value": 3 }
       ]
     },
     {
@@ -30,7 +30,7 @@
         { "name": "Miami Dev Shop", "value": 5 },
         { "name": "Microsoft", "value": 5 },
         { "name": "Papa", "value": 5 },
-        { "name": "Restaurant Brands International", "value": 13 },
+        { "name": "Restaurant Brands Intl", "value": 13 },
         { "name": "springbig", "value": 5 },
         { "name": "Watsco Ventures", "value": 5 }
       ]

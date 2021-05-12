@@ -2,7 +2,7 @@
   "name": "AZ",
   "children": [
     {
-      "name": "University of Arizona Boot Camps",
+      "name": "U of Arizona Boot Camps",
       "children": [
         { "name": "AmpleTech Refresh", "value": 1 },
         { "name": "Empereon Constar", "value": 1 },
@@ -23,9 +23,9 @@
         { "name": "Infosys", "value": 6 },
         { "name": "Intel Corporation", "value": 2 },
         { "name": "Revature", "value": 2 },
-        { "name": "Southern Careers Institute", "value": 3 },
+        { "name": "Southern Careers Inst.", "value": 3 },
         { "name": "Uber", "value": 3 },
-        { "name": "United States Postal Service", "value": 3 },
+        { "name": "US Postal Service", "value": 3 },
         { "name": "US Army", "value": 4 },
         { "name": "Verizon", "value": 3 }
       ]

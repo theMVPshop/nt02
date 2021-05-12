@@ -6,16 +6,16 @@
       "children": [
         { "name": "APAX Software", "value": 4 },
         { "name": "Bitwerx Inc.", "value": 2 },
-        { "name": "BlueFrame Technology", "value": 2 },
+        { "name": "BlueFrame Tech", "value": 2 },
         { "name": "CSI", "value": 1 },
         { "name": "Infosys", "value": 1 },
-        { "name": "Kentucky Department of Revenue", "value": 1 },
-        { "name": "Lightwell Inc.", "value": 2 },
+        { "name": "Kentucky Dept of Revenue", "value": 1 },
+        { "name": "Lightwell", "value": 2 },
         { "name": "Nymbl Systems", "value": 3 },
         { "name": "OmniLife", "value": 1 },
         { "name": "Rev.com", "value": 1 },
         { "name": "Starbucks", "value": 2 },
-        { "name": "Studio 34 Productions", "value": 2 }
+        { "name": "Studio 34 Prod", "value": 2 }
       ]
     },
     {
@@ -26,11 +26,11 @@
         { "name": "El Toro IP Targeting", "value": 9 },
         { "name": "GE Appliances", "value": 14 },
         { "name": "Humana", "value": 33 },
-        { "name": "Jefferson County Public Schools", "value": 11 },
+        { "name": "Jefferson County Pub. Schools", "value": 11 },
         { "name": "Kroger", "value": 6 },
         { "name": "QSR Automations", "value": 6 },
-        { "name": "Rainbow Design Services Inc.", "value": 5 },
-        { "name": "University of Louisville", "value": 6 },
+        { "name": "Rainbow Design Services", "value": 5 },
+        { "name": "U of Louisville", "value": 6 },
         { "name": "UPS", "value": 18 },
         { "name": "Waystar", "value": 12 }
       ]

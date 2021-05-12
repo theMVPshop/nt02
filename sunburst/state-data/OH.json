@@ -2,43 +2,40 @@
   "name": "OH",
   "children": [
     {
-      "name": "MAX Technical Training & Career Programs",
+      "name": "MAX Technical",
       "children": [
         { "name": "Bottom Line Systems", "value": 1 },
-        { "name": "Eurostampa North America Inc.", "value": 1 },
-        { "name": "Great American Insurance Group", "value": 2 },
+        { "name": "Eurostampa Inc.", "value": 1 },
+        { "name": "Great American Ins.", "value": 2 },
         { "name": "IBM", "value": 1 },
         { "name": "K-Electric", "value": 1 },
         { "name": "Kroger Technology", "value": 4 },
-        { "name": "Matthews Automation Solutions", "value": 2 },
-        { "name": "Ohio National Financial Services", "value": 1 },
+        { "name": "Matthews Automation", "value": 2 },
+        { "name": "Ohio National Financial", "value": 1 },
         { "name": "Procter & Gamble", "value": 3 },
         { "name": "Seven Hills Technology", "value": 1 },
-        {
-          "name": "Shoptech Software - Manufacturing Software",
-          "value": 1
-        },
-        { "name": "The Cincinnati Insurance Companies", "value": 1 },
-        { "name": "Top Gun Sales Performance", "value": 1 },
+        { "name": "Shoptech Software", "value": 1 },
+        { "name": "The Cincinnati Ins", "value": 1 },
+        { "name": "Top Gun Sales", "value": 1 },
         { "name": "Total Quality Logistics", "value": 2 }
       ]
     },
     {
       "name": "Tech Elevator",
       "children": [
-        { "name": "AmTrust Financial Services Inc.", "value": 12 },
+        { "name": "AmTrust Financial", "value": 12 },
         { "name": "BNY Mellon", "value": 20 },
         { "name": "DICK'S Sporting Goods", "value": 11 },
-        { "name": "Edaptive Computing Inc.", "value": 10 },
+        { "name": "Edaptive Computing", "value": 10 },
         { "name": "Fifth Third Bank", "value": 13 },
-        { "name": "JPMorgan Chase & Co.", "value": 138 },
+        { "name": "JPMorgan Chase", "value": 138 },
         { "name": "KeyBank", "value": 14 },
         { "name": "London Computer Systems", "value": 17 },
-        { "name": "National General Insurance", "value": 39 },
+        { "name": "National General Ins", "value": 39 },
         { "name": "Nationwide", "value": 18 },
         { "name": "Olive", "value": 21 },
         { "name": "PNC", "value": 243 },
-        { "name": "Progressive Insurance", "value": 34 },
+        { "name": "Progressive Ins", "value": 34 },
         { "name": "United Wholesale Mortgage", "value": 15 }
       ]
     },
@@ -50,14 +47,14 @@
         { "name": "Cardinal Health", "value": 4 },
         { "name": "CoverMyMeds", "value": 3 },
         { "name": "Foundation Software", "value": 4 },
-        { "name": "Huntington National Bank", "value": 6 },
-        { "name": "JPMorgan Chase & Co.", "value": 23 },
+        { "name": "Huntington National", "value": 6 },
+        { "name": "JPMorgan Chase", "value": 23 },
         { "name": "KeyBank", "value": 4 },
         { "name": "MoreSteam", "value": 3 },
-        { "name": "National General Insurance", "value": 5 },
+        { "name": "National General Ins", "value": 5 },
         { "name": "Nationwide", "value": 6 },
         { "name": "PNC", "value": 9 },
-        { "name": "Progressive Insurance", "value": 14 },
+        { "name": "Progressive Ins", "value": 14 },
         { "name": "Root Inc.", "value": 4 }
       ]
     }

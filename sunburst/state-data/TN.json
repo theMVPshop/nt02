@@ -12,12 +12,12 @@
         { "name": "HCA Healthcare", "value": 16 },
         { "name": "Healthcare Bluebook", "value": 13 },
         { "name": "HealthStream", "value": 13 },
-        { "name": "National General Insurance", "value": 10 },
+        { "name": "National General Ins", "value": 10 },
         { "name": "naviHealth", "value": 9 },
         { "name": "Ncontracts", "value": 10 },
         { "name": "Ramsey Solutions", "value": 13 },
-        { "name": "Tennessee Department of Transportation", "value": 9 },
-        { "name": "Vanderbilt University Medical Center", "value": 12 }
+        { "name": "Tenn. Dept. of Transportation", "value": 9 },
+        { "name": "Vanderbilt University Med Center", "value": 12 }
       ]
     }
   ]

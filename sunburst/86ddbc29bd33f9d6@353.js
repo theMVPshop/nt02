@@ -31,7 +31,7 @@ export default function define(runtime, observer) {
         const svg = d3
           .create("svg")
           .attr("viewBox", [0, 0, width, width])
-          .style("font", "10px sans-serif");
+          .style("font", "1em calibri");
 
         const g = svg
           .append("g")
@@ -84,7 +84,11 @@ export default function define(runtime, observer) {
           .attr("r", radius)
           .attr("fill", "none")
           .attr("pointer-events", "all")
-          .on("click", clicked);
+          .on("click", clicked)
+          .append("text")
+          .attr("dx", 24)
+          .attr('dy',40)
+          .text("Hello World");
 
         function clicked(event, p) {
           parent.datum(p.parent || root);

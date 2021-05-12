@@ -4,12 +4,8 @@
     {
       "name": "Code Fellows",
       "children": [
-        {
-          "name": "Abdul Aziz Al Ghurair School of Advanced Computing (ASAC)",
-          "value": 6
-        },
         { "name": "Amazon", "value": 48 },
-        { "name": "Amazon Web Services (AWS)", "value": 42 },
+        { "name": "Amazon Web Services", "value": 42 },
         { "name": "Avalara", "value": 13 },
         { "name": "Expedia Group", "value": 13 },
         { "name": "F5", "value": 7 },
@@ -29,7 +25,7 @@
       "children": [
         { "name": "Accenture", "value": 13 },
         { "name": "Amazon", "value": 52 },
-        { "name": "Amazon Web Services (AWS)", "value": 14 },
+        { "name": "Amazon Web Services", "value": 14 },
         { "name": "Conscience VC", "value": 10 },
         { "name": "Google", "value": 11 },
         { "name": "Infosys", "value": 10 },
@@ -49,7 +45,7 @@
         { "name": "Infosys", "value": 3 },
         { "name": "Microsoft", "value": 9 },
         { "name": "TEKsystems", "value": 3 },
-        { "name": "United States Air Force", "value": 3 },
+        { "name": "US Air Force", "value": 3 },
         { "name": "US Army", "value": 3 },
         { "name": "Verizon", "value": 3 },
         { "name": "Walgreens", "value": 3 },

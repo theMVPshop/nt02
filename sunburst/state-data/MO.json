@@ -11,12 +11,12 @@
         { "name": "GalaxE.Solutions", "value": 5 },
         { "name": "LaunchCode", "value": 3 },
         { "name": "Mastercard", "value": 4 },
-        { "name": "NISA Investment Advisors LLC", "value": 5 },
+        { "name": "NISA Investment Advisors", "value": 5 },
         { "name": "Perficient", "value": 3 },
         { "name": "Revature", "value": 2 },
         { "name": "Slalom", "value": 3 },
         { "name": "US Army", "value": 2 },
-        { "name": "Washington University in St. Louis", "value": 3 }
+        { "name": "Washington U. in St. Louis", "value": 3 }
       ]
     }
   ]
