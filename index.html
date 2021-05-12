@@ -428,10 +428,11 @@
     <div
       class="modal"
       id="myModal"
-      style="background: rgba(100, 100, 100, 0.5)"
+      style="background: rgba(100, 100, 100, 0.9)"
       tabindex="-1"
     >
       <div class="modal-dialog" style="max-width: 700px">
+        <h1 id="modal-selected-state"></h1>
         <div id="sunburst"></div>
       </div>
     </div>
@@ -492,6 +493,9 @@
         <span style="color:blue">${data[state]}</span>:
         <span style="color:green">${stateCount}</span>
          bootcamp grads hired }`;
+
+          document.getElementById("modal-selected-state").innerHTML =
+            data[state];
         });
 
       const runtime = new Runtime();
