@@ -7,36 +7,35 @@ marginBottom = 65;
 marginInner = 20;
 
 // This is the same for each chart
-yaxisScaleMax = 80;
+yaxisScaleMax = 60;
 
 // How many animation frames there are
 frames = 20;
 
 // Used later
-state = {};
+current = {};
 
 // Here are the three datasets for the chart
-data = [
-  [72, 16, 13, 5, 10], // US pop
-  [53, 11, 6, 25, 5], // US CS 2019 Grads
-  [69, 8, 6, 17, 9], // US BOOTCAMP 2019 Grads
+data2 = [
+  [78.3, 21.7], // US CS Grads
+  [62.3, 37.7], // US Bootcamp Grads
 ];
 
 // The colors for the bars
-colors = [
+colors2 = [
   "Gradient(#696:#0f0:#0f0)",
   "Gradient(#966:#f00:#f00)",
   "Gradient(#669:blue:blue)",
 ];
 
 // And the X axis labels for the chart
-xaxisLabels = ["White", "Hispanic", "Black", "Asian", "Other"];
+xaxisLabels2 = ["Male", "Female"];
 
 // Draw the first bar chart
 function draw1() {
-  state.bar1 = new RGraph.Bar({
-    id: "cvs",
-    data: data[2],
+  current.bar1 = new RGraph.Bar({
+    id: "cvs2",
+    data: data2[2],
     options: {
       // These few properties set the chart to be a 3D Bar chart and turn off
       // the 3D axes that are drawn.
@@ -45,7 +44,7 @@ function draw1() {
       variantThreedXaxis: false,
 
       colorsStroke: "rgba(0,0,0,0)",
-      colors: [colors[2]],
+      colors: [colors2[2]],
 
       // The background grid is only enabled on this chart - the
       // bar chart at the back
@@ -67,24 +66,24 @@ function draw1() {
     },
 
     // Use the grow() effect. The function that gets called at the
-    // end of the effect (the draw2() function) starts drawing/animating
+    // end of the effect (the draw2G() function) starts drawing/animating
     // the second set of bars.
   });
 
   if (RGraph.ISIE) {
-    state.bar1.draw();
-    draw2();
+    current.bar1.draw();
+    draw2G();
   } else {
-    state.bar1.grow({ frames: frames }, draw2);
+    current.bar1.grow({ frames: frames }, draw2G);
   }
 }
 
 // This function draws the second bar chart. It's called when the grow()
 // effect of the first bar chart completes.
-function draw2() {
-  state.bar2 = new RGraph.Bar({
-    id: "cvs",
-    data: data[1],
+function draw2G() {
+  current.bar2G = new RGraph.Bar({
+    id: "cvs2",
+    data: data2[0],
     options: {
       // Stipulate 3d but no 3D axes
       variant: "3d",
@@ -92,7 +91,7 @@ function draw2() {
       variantThreedXaxis: false,
 
       colorsStroke: "rgba(0,0,0,0)",
-      colors: [colors[1]],
+      colors: [colors2[1]],
 
       // No background grid or X/Y labels for the second and third charts
       backgroundGrid: false,
@@ -114,23 +113,23 @@ function draw2() {
       yaxisScale: false,
     },
 
-    // Use the grow() effect again and when it's done the draw3() function
+    // Use the grow() effect again and when it's done the draw3G() function
     // is called.
   });
 
   if (RGraph.ISIE) {
-    state.bar2.draw();
-    draw3();
+    current.bar2G.draw();
+    draw3G();
   } else {
-    state.bar2.grow({ frames: frames }, draw3);
+    current.bar2G.grow({ frames: frames }, draw3G);
   }
 }
 
 // This function draws the third bar chart
-function draw3() {
-  state.bar3 = new RGraph.Bar({
-    id: "cvs",
-    data: data[0],
+function draw3G() {
+  current.bar3G = new RGraph.Bar({
+    id: "cvs2",
+    data: data2[1],
     options: {
       // Set the chart to be 3D but without any axes
       variant: "3d",
@@ -138,10 +137,10 @@ function draw3() {
       variantThreedXaxis: false,
 
       colorsStroke: "rgba(0,0,0,0)",
-      colors: [colors[0]],
+      colors: [colors2[0]],
 
       // Now that we're drawing the chart that's "at the front" the X axis labels can be drawn
-      xaxisLabels: xaxisLabels,
+      xaxisLabels: xaxisLabels2,
 
       backgroundGrid: false,
 
@@ -167,15 +166,15 @@ function draw3() {
   });
 
   if (RGraph.ISIE) {
-    state.bar3.draw();
+    current.bar3G.draw();
   } else {
-    state.bar3.grow({ frames: frames });
+    current.bar3G.grow({ frames: frames });
   }
 
-  state.bar3.responsive([
+  current.bar3G.responsive([
     {
       maxWidth: null,
-      width: 650,
+      width: 450,
       height: 300,
       options: {
         // xaxisLabels: [
@@ -191,12 +190,12 @@ function draw3() {
         marginInner: marginInner,
       },
       callback: function () {
-        state.bar1.set("marginInner", 15);
-        state.bar2.set("marginInner", 15);
-        state.bar3.set("marginInner", 15);
+        // current.bar1.set("marginInner", 15);
+        current.bar2G.set("marginInner", 15);
+        current.bar3G.set("marginInner", 15);
         setTimeout(function () {
-          state.yaxisObj.x = 635;
-          state.yaxisObj.set("textSize", 12);
+          current.yaxisObj.x = 635;
+          current.yaxisObj.set("textSize", 12);
           RGraph.redraw();
         }, 250);
       },
@@ -211,11 +210,11 @@ function draw3() {
         marginInner: 10,
       },
       callback: function () {
-        state.bar1.set("marginInner", 10);
-        state.bar2.set("marginInner", 10);
-        state.bar3.set("marginInner", 10);
-        state.yaxisObj.x = 435;
-        state.yaxisObj.set("textSize", 8);
+        // current.bar1.set("marginInner", 10);
+        current.bar2G.set("marginInner", 10);
+        current.bar3G.set("marginInner", 10);
+        current.yaxisObj.x = 435;
+        current.yaxisObj.set("textSize", 8);
         RGraph.redraw();
       },
     },
@@ -225,12 +224,12 @@ function draw3() {
 // Initiate the drawing of the first chart. The second and then the
 // third charts are initiated by the prior charts animation callback
 // function. This has to be placed before the Y axis.
-draw1();
+draw2G();
 
 // This drawing API Y axis is used to show the Y axis labels on the
 // right-hand-side - though the actual axis is not shown - just the labels.
-state.yaxisObj = new RGraph.Drawing.YAxis({
-  id: "cvs",
+current.yaxisObj = new RGraph.Drawing.YAxis({
+  id: "cvs2",
   x: 635,
   options: {
     yaxisColor: "rgba(0,0,0,0)",

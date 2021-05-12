@@ -341,7 +341,7 @@
       <section class="justify-content-center">
         <div class="row justify-content-center">
           <div class="col-5">
-            <h1>What does a Bootcamp Grad look like?</h1>
+            <h1>How representative are Bootcamp Grads?</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo cum
               nulla quod corporis quaerat sed asperiores hic? Nihil aspernatur
@@ -362,28 +362,102 @@
               [No canvas support]
             </canvas>
             <!-- chart legend -->
+            <div
+              class="d-flex flex-lg-row flex-md-column flex-sm-column"
+              style="font-weight: 800; font-size: 1rem"
+            >
+              <div class="p-2">Legend:</div>
+              <div>
+                <div
+                  style="
+                    background: green;
+                    height: 20px;
+                    width: 20px;
+                    float: left;
+                    margin-right: 5px;
+                  "
+                ></div>
+                <span style="color: green; float: left; margin-right: 15px"
+                  >US Population</span
+                >
+              </div>
+              <div>
+                <div
+                  style="
+                    background: red;
+                    height: 20px;
+                    width: 20px;
+                    float: left;
+                    margin-right: 5px;
+                  "
+                ></div>
+                <span style="color: red; float: left; margin-right: 15px"
+                  >US CS 2019 Grads</span
+                >
+              </div>
+              <div>
+                <div
+                  style="
+                    background: blue;
+                    height: 20px;
+                    width: 20px;
+                    float: left;
+                    margin-right: 5px;
+                  "
+                ></div>
+                <span style="color: blue; float: left; margin-right: 5px"
+                  >US Bootcamp 2019 Grads</span
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <hr style="margin: 20px" />
+      <section class="justify-content-center">
+        <div class="row justify-content-center">
+          <div class="col-5">
+            <!-- 3d Chart -->
+            <canvas id="cvs2" width="650" height="600">
+              [No canvas support]
+            </canvas>
+            <!-- chart legend -->
             <div class="d-flex flex-lg-row flex-md-column flex-sm-column" style="font-weight: 800; font-size: 1rem">
               <div class="p-2">Legend:</div>
               <div>
                 <div style="background: green; height: 20px; width: 20px; float:left; margin-right:5px;"></div>
-                <span style="color: green; float:left; margin-right:15px;">US Population</span>
+                <span style="color: green; float:left; margin-right:15px;">US Bootcamp Grads</span>
               </div>
               <div>
                 <div style="background: red; height: 20px; width: 20px; float:left; margin-right:5px;"></div>
-                <span style="color: red; float:left; margin-right:15px;">US CS 2019 Grads</span>
-              </div>
-              <div>
-                <div style="background: blue; height: 20px; width: 20px; float:left; margin-right:5px;"></div>
-                <span style="color: blue; float:left; margin-right:5px;">US Bootcamp 2019 Grads</span>
+                <span style="color: red; float:left; margin-right:15px;">US CS Grads</span>
               </div>
             </div>
           </div>
+          <div class="col-7">
+            <h1>What is the gender breakdown of Bootcamp Grads?</h1>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo cum
+              nulla quod corporis quaerat sed asperiores hic? Nihil aspernatur
+              eum, dignissimos voluptatibus libero nobis officiis hic
+              consectetur nulla, reiciendis rem. Lorem ipsum dolor sit amet
+              consectetur adipisicing elit. Illo cum nulla quod corporis quaerat
+              sed asperiores hic? Nihil aspernatur eum, dignissimos voluptatibus
+              libero nobis officiis hic consectetur nulla, reiciendis rem. Lorem
+              ipsum dolor sit amet consectetur adipisicing elit. Illo cum nulla
+              quod corporis quaerat sed asperiores hic? Nihil aspernatur eum,
+              dignissimos voluptatibus libero nobis officiis hic consectetur
+              nulla, reiciendis rem.
+            </p>
+          </div>
+
         </div>
       </section>
     </div>
     <script src="https://www.rgraph.net/libraries/RGraph.common.core.js"></script>
     <script src="https://www.rgraph.net/libraries/RGraph.bar.js"></script>
     <script src="./3dChart.js"></script>
+    <script src="./3dChartGender.js"></script>
 
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
@@ -395,10 +469,11 @@
     <div
       class="modal"
       id="myModal"
-      style="background: rgba(100, 100, 100, 0.5)"
+      style="background: rgba(100, 100, 100, 0.9)"
       tabindex="-1"
     >
-      <div class="modal-dialog" style="max-width: 700px; pointer-events: auto;">
+      <div class="modal-dialog" style="max-width: 700px">
+        <h1 id="modal-selected-state"></h1>
         <div id="sunburst"></div>
       </div>
     </div>
@@ -459,6 +534,9 @@
         <span style="color:blue">${data[state]}</span>:
         <span style="color:green">${stateCount}</span>
          bootcamp grads hired }`;
+
+          document.getElementById("modal-selected-state").innerHTML =
+            data[state];
         });
 
       const runtime = new Runtime();

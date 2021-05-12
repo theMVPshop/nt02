@@ -36,5 +36,5 @@ h1 {
 }
 
 .modal-dialog {
-  pointer-events: auto;
+  pointer-events: all !important;
 }
